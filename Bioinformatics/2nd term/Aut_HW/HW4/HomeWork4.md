@@ -36,7 +36,7 @@ date: "12/17/2020"
 fetch 1OVY
 ```
 <br/>
-![](https://raw.githubusercontent.com/Vladm0z/HSE-minor-bioinf/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_1.png){width=30%}
+![1OVY_1](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_1.png?raw=true){width=30%}
 <br/><br/>
 Выберем альфа спираль
 
