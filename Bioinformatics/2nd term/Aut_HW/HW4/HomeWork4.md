@@ -100,7 +100,7 @@ get_mean_distance ahelix_polar_cont
 align 1ILY, 1OVY, object=alnobj
 ```
   3. RMSD = 3.433
-  4. Раскрасим мисмэтчи красным (части 1ILY) и желтым (части 1OVY) и индели фиолетовым\
+  4. Раскрасим мисмэтчи красным (части 1ILY) и желтым (части 1OVY) и индели фиолетовым
 <br/>
 <center>
   
