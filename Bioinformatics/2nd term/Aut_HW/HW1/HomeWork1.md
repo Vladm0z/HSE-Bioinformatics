@@ -2,9 +2,6 @@
 title: "Анализ генома бактерии и гена человека"
 author: "Владислав Мозговой"
 date: "10/07/2020"
-output: 
-      html_document:
-        keep_md: true
 ---
 
 ## Цели : 
