@@ -1,0 +1,112 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=10;
+	taxlabels
+	'China_MT412338.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/CHN/HN01/2020_complete_genome'
+	'Egypt_MW250352.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/EGY/Egy-SERVAC/2020_complete_genome'
+	'Germany_MT845877.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/DEU/SC2_REGS25568233R/2020_complete_genome'
+	'India_MW242950.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/IND/GBRC427a/2020_complete_genome'
+	'Israel_MW237708.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/ISR/NH_GD1/2020_complete_genome'
+	'Peru_MW185823.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/PER/CoV-19_HRL-224/2020_complete_genome'
+	'Phillipines_MW243995.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/PHL/UPMNIH_C1/2020_complete_genome'
+	'SARS-CoV-1_AY394995.1_SARS_coronavirus_HSZ-Cc_complete_genome'
+	'USA_MT982401.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/USA/WA-RML-5/2020_complete_genome'
+	'United_Kingdom_MW255832.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/GBR/Kunming_kms-3/2020_complete_genome'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((((('Egypt_MW250352.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/EGY/Egy-SERVAC/2020_complete_genome':0.0,'India_MW242950.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/IND/GBRC427a/2020_complete_genome':2.05E-4):4.3E-5,('Israel_MW237708.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/ISR/NH_GD1/2020_complete_genome':2.67E-4,'Germany_MT845877.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/DEU/SC2_REGS25568233R/2020_complete_genome':3.5E-5):2.5E-5):6.9E-5,('United_Kingdom_MW255832.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/GBR/Kunming_kms-3/2020_complete_genome':1.27E-4,('Phillipines_MW243995.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/PHL/UPMNIH_C1/2020_complete_genome':4.05E-4,'Peru_MW185823.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/PER/CoV-19_HRL-224/2020_complete_genome':1.65E-4):8.0E-6):6.5E-5):2.18E-4,'China_MT412338.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/CHN/HN01/2020_complete_genome':0.0):3.9E-4,'USA_MT982401.1_|Severe_acute_respiratory_syndrome_coronavirus_2_isolate_SARS-CoV-2/human/USA/WA-RML-5/2020_complete_genome':0.0,'SARS-CoV-1_AY394995.1_SARS_coronavirus_HSZ-Cc_complete_genome':0.286928);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=14;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=true;
+	set trees.transformType="equal";
+end;
+

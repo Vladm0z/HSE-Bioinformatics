@@ -1,0 +1,102 @@
+\section{Цели}
+\begin{enumerate}
+\item[$\bullet$] Сравнить результаты работы алгоритмов выравнивания ClustalW и Muscle на примере Ribosomal protein L7
+\item[$\bullet$] Сравнить топологии деревьев, полученные в результате различных методов построения
+\item[$\bullet$] Сравнить бутстрэп значения
+\item[$\bullet$] Сравнить деревья с принятыми деревьями видов
+\end{enumerate}
+
+
+\section{Скачивание данных}
+\subsection*{О данных}
+Данные используемые в данной работе взяты с сайта Национального центра биотехнической информации США \href{https://www.ncbi.nlm.nih.gov/}{NCBI}.\\
+Данные об исследуемом белке могут быть найдены через поисковит белков \href{https://www.ncbi.nlm.nih.gov/protein/}{NCBI}\\
+Также доступна \href{https://www.ncbi.nlm.nih.gov/guide/proteins/#howtos}{документация}.\\
+
+\subsection*{Скачивание}
+
+Скачаем последовательности в формате FASTA с NCBI:
+\begin{enumerate}
+\item[(1)] Человек -- \href{https://www.ncbi.nlm.nih.gov/protein/AAA03081.1}{Homo sapiens}
+\item[(2)] Обезьяна -- \href{https://www.ncbi.nlm.nih.gov/protein/NP_001180485.1}{Macaca mulatta}
+\item[(3)] Крыса -- \href{https://www.ncbi.nlm.nih.gov/protein/NP_001094004.1}{Rattus norvegicus}
+\item[(4)] Мышь -- \href{https://www.ncbi.nlm.nih.gov/protein/AAA40069.1}{Mus musculus}
+\item[(5)] Копытное -- \href{https://www.ncbi.nlm.nih.gov/protein/AAX46363.1}{Bos taurus}
+\item[(6)] Сумчатое -- \href{https://www.ncbi.nlm.nih.gov/protein/XP_020826680.1}{Phascolarctos cinereus}
+\item[(7)] Змея -- \href{https://www.ncbi.nlm.nih.gov/protein/XP_015672644.1}{Protobothrops mucrosquamatus}
+\item[(8)] Ящерица -- \href{https://www.ncbi.nlm.nih.gov/protein/XP_028592540.1}{Podarcis muralis}
+\item[(9)] Черепаха -- \href{https://www.ncbi.nlm.nih.gov/protein/EMP32282.1}{Chelonia mydas}
+\item[(10)] Птица -- \href{https://www.ncbi.nlm.nih.gov/protein/PKK33771.1}{Columba livia}
+\item[(11)] Рыба -- \href{https://www.ncbi.nlm.nih.gov/protein/AAS66968.1}{Danio rerio}
+\item[(12)] Растение -- \href{https://www.ncbi.nlm.nih.gov/protein/AAW50989.1}{Triticum aestivum}
+\item[(13)] Пекарские дрожжи -- \href{https://www.ncbi.nlm.nih.gov/protein/AAA34982.1}{Saccharomyces cerevisiae}
+\item[(14)] Архея -- \href{https://www.ncbi.nlm.nih.gov/protein/AAL64858.1}{Pyrobaculum aerophilum}
+\item[(15)] Бактерия -- \href{https://www.ncbi.nlm.nih.gov/protein/AAA26811.1}{Streptomyces antibioticus}
+\end{enumerate}
+
+\newpage
+\section{Обработка данных}
+\subsection*{Выравнивание}
+Выравнием последовательности методом ClustalW и Muscle, получим выровненные последовательности \href{https://drive.google.com/file/d/1HtNPjupakaTaff6-jQJAMWBIQIxa2x7V/view?usp=sharing}{ClustalW} и \href{https://drive.google.com/file/d/1UYL78IIqOBh-07wvJQBQxqB1CJfv0uhB/view?usp=sharing}{Muscle}.
+\vskip 0.1in
+Заметим, что они различны:
+
+\begin{figure}[!h]
+	\includegraphics[width=1\linewidth]{Pics/RL7_ClustalW.png}
+	\caption{ClustalW}
+\end{figure}
+
+\begin{figure}[!h]
+	\includegraphics[width=1\linewidth]{Pics/RL7_Muscle.png}
+	\caption{Muscle}
+\end{figure}
+
+
+\subsection*{Деревья}
+Построим деревья, используя MEGA X\\
+Выставим параметры Test of Phylogeny -- Bootstrap method; No. of Bootstrap Replications -- 100.\\
+Затем экспортируем полученные деревья в Newick и отформатируем их в Fig tree.\\
+Для каждого из деревьев приведена ссылка на исходный Newick.
+
+\subsubsection*{ClustalW}
+\begin{figure}[!h]
+	\includegraphics[width=1\linewidth]{Tree_ClustalW/RL7_ClustalW_UPGMA.png}
+	\caption{\href{https://drive.google.com/file/d/1hPpDUa9uJmDLcnrepNsUhFL9HPq9cWZD/view?usp=sharing}{UPGMA}}
+\end{figure}
+\newpage
+\begin{figure}[!h]
+	\includegraphics[width=1\linewidth]{Tree_ClustalW/RL7_ClustalW_NJ.png}
+	\caption{\href{https://drive.google.com/file/d/1fIEN3s1rEiak2htmVUBiG3kB9EShOhEs/view?usp=sharing}{Neighbor Joining}}
+\end{figure}
+\begin{figure}[!h]
+	\includegraphics[width=1\linewidth]{Tree_ClustalW/RL7_ClustalW_ML.png}
+	\caption{\href{https://drive.google.com/file/d/1OAH_Js0PMo2zVixTMYlEwZyR-ohE5Rn8/view?usp=sharing}{Maximum Likelihood}}
+\end{figure}
+\newpage
+\subsubsection*{Muscle}
+
+\begin{figure}[!h]
+	\includegraphics[width=1\linewidth]{Tree_Muscle/RL7_Muscle_UPGMA.png}
+	\caption{\href{https://drive.google.com/file/d/11cxH8ehwfc-_q8jbqnSrhElHRs3Ktvhq/view?usp=sharing}{UPGMA}}
+\end{figure}
+\begin{figure}[!h]
+	\includegraphics[width=1\linewidth]{Tree_Muscle/RL7_Muscle_NJ.png}
+	\caption{\href{https://drive.google.com/file/d/1wzBnoBK5oBEDgvbvZISxCxtlgAArmOFH/view?usp=sharing}{Neighbor Joining}}
+\end{figure}
+\newpage
+\begin{figure}[!h]
+	\includegraphics[width=1\linewidth]{Tree_Muscle/RL7_Muscle_ML.png}
+	\caption{\href{https://drive.google.com/file/d/1Mw3AzA7iSqX0yH_KnsdqV6_m5NO675vo/view?usp=sharing}{Maximum Likelihood}}
+\end{figure}
+\newpage
+
+
+\section{Выводы}
+\begin{enumerate}
+\item[$\bullet$] Muscle, так как он помимо глобального выравнивания, выравнивает локально\\
+	Но при построении эти различия выявились только в методе UPGMA. Возможно, при большем количестве видов и большем значении bootstrap различия будут более заметными.
+\item[$\bullet$] Нет, топология деревьев различается.\\
+	Дерево, полученное в результате сортировки ClustalW и метода построения UPGMA отличается от всех остальных расположением птицы(Columba livia) и черепахи(Chelonya mydas). Все остальные деревья изоморфны
+\item[$\bullet$] Нет, значения различны.
+\item[$\bullet$] Нет, не совпадают, например во всех деревьях копытное к примату ближе, чем человек.
+\end{enumerate}

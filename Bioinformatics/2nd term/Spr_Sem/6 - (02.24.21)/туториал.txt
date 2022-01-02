@@ -1,0 +1,25 @@
+Код для R
+
+> tmp_vcf<-readLines("patient.vcf")
+> tmp_vcf_data<-read.table("patient.vcf", stringsAsFactors = FALSE)
+> tmp_vcf<-tmp_vcf[-(grep("#CHROM",tmp_vcf)+1):-(length(tmp_vcf))]
+> vcf_names<-unlist(strsplit(tmp_vcf[length(tmp_vcf)],"\t"))
+> names(tmp_vcf_data)<-vcf_names
+> View(tmp_vcf_data)
+
+Задание 1
+Далее узнаем кой нам ген нужен (HEXA)
+https://www.omim.org/entry/272800?search=Tay%E2%80%93Sachs&highlight=%22tay%20sach%22%20%22tay%7Csach%22%20%28taysach%7C%20%29%20taysach
+
+Смотрим тут координаты (72633265-72668355)
+https://www.ncbi.nlm.nih.gov/gene/3073
+
+Сортируем таблицу CHROM - chr15, POS - 72633265-72668355, ищем ng1657 - 0/1 или 1/1, такая штука только одна POS - 72648865, ID - rs797044432
+
+
+Задание 2
+ищем rs12913832/rs1800407/rs12896399/rs16891982/rs1393350/rs12203592, получаем AG/CT/GT/CG/GA/CT, соотносим с T/A/T/C/T/T, откуда - 0/0/1/1/0/1, 0.835 blue, 0.093 inter, 0.041 brown
+
+
+Задание 3
+Рассмотрим rs6025(T/C - A/G), rs1799963(G/A), rs8176719(T/TC - ?), rs2066865(G/A), rs2036914(T/C - A/G) рискованные (G/G),(A/A),(G/G),(T/T),(C/C)

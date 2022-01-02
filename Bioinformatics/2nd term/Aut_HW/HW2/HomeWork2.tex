@@ -1,0 +1,117 @@
+\documentclass[fleqn]{article}
+\usepackage[utf8]{inputenc} 
+\usepackage[left = 2cm, right = 1.5cm, top = 1cm, bottom = 2cm, bindingoffset = 0cm]{geometry} 
+
+
+\geometry{a4paper}
+
+\usepackage[normalem]{ulem}
+\usepackage[backend=biber,
+style=numeric,
+sorting=none,
+isbn=false,
+doi=false,
+url=false,
+]{biblatex}\addbibresource{bibliography.bib}
+
+\usepackage[svgnames,table]{xcolor}
+\usepackage{amsmath, amsfonts,amssymb,amsthm, enumitem, enumerate, changepage, adjustbox, ragged2e, longtable, setspace, hhline, multicol, tabto, float, multirow, makecell, gensymb, young, booktabs, array, paralist, verbatim, subfig, fancyhdr, indentfirst, misccorr, graphicx, calc, contour, ulem, tikz, epsfig, epstopdf, titling, url, array, tikz-cd, latexsym, soul, extarrows, pdfpages}
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+\usepackage[toc,page]{appendix}
+\usepackage[hidelinks]{hyperref}
+\usepackage[vcentermath]{youngtab}
+\usepackage[all]{xy}
+\usepackage[english, russian]{babel}
+
+\graphicspath{{Pics/}}
+\graphicspath{{Pics/}}
+\graphicspath{{Pics/}}
+\DeclareGraphicsExtensions{.pdf, .png, .tif, .eps, .tiff, .psd, .jpg}
+
+%\usepackage{draftwatermark}
+%\SetWatermarkText{Мозговой}
+%\SetWatermarkLightness{1}
+%\SetWatermarkScale{2.5}
+
+
+
+\setlength\parindent{0pt}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt} 
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+\usepackage{sectsty}
+\allsectionsfont{\sffamily\mdseries\upshape} 
+\usepackage[nottoc, notlof, notlot]{tocbibind}
+\usepackage[titles, subfigure]{tocloft}
+
+\definecolor{linkcolor}{HTML}{0000FF} % цвет ссылок
+\definecolor{urlcolor}{HTML}{0000FF} % цвет гиперссылок
+
+\renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
+\renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape}
+
+\newcommand{\vdashv}{%
+	\mathrel{%
+		\text{%
+			\ooalign{$\vdash$\cr\reflectbox{$\vdash$}\cr}%
+		}%
+	}%
+}
+
+\renewcommand{\ULdepth}{1.8pt}
+\contourlength{0.8pt}
+
+\newcommand{\myuline}[1]{%
+	\uline{\phantom{#1}}%
+	\llap{\contour{white}{#1}}%
+}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Теорема}
+\newtheorem{corollary}{Следствие}[theorem]
+\newtheorem{claim}{Утверждение}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Определение}
+
+\setlistdepth{9}
+\renewlist{enumerate}{enumerate}{9}
+\setlist[enumerate,1]{label=\arabic*)}
+\setlist[enumerate,2]{label=\alph*)}
+\setlist[enumerate,3]{label=(\roman*)}
+\setlist[enumerate,4]{label=(\arabic*)}
+\setlist[enumerate,5]{label=(\Alph*)}
+\setlist[enumerate,6]{label=(\Roman*)}
+\setlist[enumerate,7]{label=\arabic*}
+\setlist[enumerate,8]{label=\alph*}
+\setlist[enumerate,9]{label=\roman*}
+
+\renewlist{itemize}{itemize}{9}
+\setlist[itemize]{label=$\cdot$}
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=$\circ$}
+\setlist[itemize,3]{label=$\ast$}
+\setlist[itemize,4]{label=$\dagger$}
+\setlist[itemize,5]{label=$\triangleright$}
+\setlist[itemize,6]{label=$\bigstar$}
+\setlist[itemize,7]{label=$\blacklozenge$}
+\setlist[itemize,8]{label=$\prime$}
+
+\setlength{\topsep}{0pt}\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.3}
+
+\usepackage[labelformat=empty]{caption}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=magenta,
+	urlcolor=blue,
+}
+\title{Биоинформатика \\ 2 курс \\ Домашнее задание 2 \\ Мозговой Владислав}
+
+\begin{document}
+\input{Body/P1}
+		
+\end{document}

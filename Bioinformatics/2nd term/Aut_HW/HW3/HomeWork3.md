@@ -1,0 +1,82 @@
+---
+title: "SARS-CoV-2"
+author: "Vladislav Mozgovoy"
+date: "11/22/2020"
+output: 
+      html_document:
+        keep_md: true
+---
+
+
+
+
+### Цели : 
+
+Рассмотреть 9 геномов SARS-CoV-2 из людей разных стран и 10-й геном SARS-CoV-1, выровнять последовательности и построить деревья 3 различными способами. Сделать вывод о том, кого вирус заразил раньше, а кого позже
+
+
+#### О данных :
+
+Данные используемые в данной работе взяты с сайта Национального центра биотехнической информации США [NCBI](https://www.ncbi.nlm.nih.gov/) в разделе посвященном [SARS CoV 2](https://www.ncbi.nlm.nih.gov/sars-cov-2/). Все данные представлены в формате .fasta
+
+#### Скачивание:
+Последовательности SARS-CoV-2 для следующих стран: USA (MT982401.1), Egypt (MW250352.1), India (MW242950.1), Phillipines (MW243995.1), Peru (MW185823.1), Israel (MW237708.1), China (MT412338.1), United Kingdom (MW255832.1), Germany (MT845877.1), а также SARS-CoV-1 (AY394995.1), все последовательности были взяты с NCBI
+
+### Обработка:
+
+##### Построение деревьев
+Выровнием последовательности алгоритмом Muscle с cluster method: UPGMA, получим [выровненные последовательности](https://drive.google.com/file/d/1kc6_OVghl_PA2pgcyYUtXgKXkGD4Fk4z/view?usp=drivesdk)
+Далее построим деревья различными методами -- Maximum Likelihood(ML), Neighbor Joining(NJ), Maximum Parsimony, UPGMA.
+
+[ML](https://drive.google.com/file/d/1pj5pk_VupiLs5DvEZbg0DwibLgN7KF1O/view?usp=sharing)
+![](Tree/ML.png)
+Заметим, что самые близкие(то есть те, кто заразился раньше других) к SARS-CoV-1 это USA и China, а самый дальний Egypt, следовательно он заразился позже всех(в данной выборке)
+
+
+
+[NJ](https://drive.google.com/file/d/1m5s4RSjhooZOTgGQODUzSeaA-_yvdfao/view?usp=sharing)
+![](Tree/NJ.png)
+Заметим, что самые близкие к SARS-CoV-1 это USA и China, а самый дальний Egypt
+
+
+
+[Parsimony](https://drive.google.com/file/d/1gj83R-Yx7gq2PcGx3TTt_cuX0pZLoi_o/view?usp=sharing)
+![](Tree/Parsimony.png)
+Заметим, что самые близкие к SARS-CoV-1 это USA и China, а самый дальний Egypt
+
+
+
+[UPGMA](https://drive.google.com/file/d/16cfLCQ_qS2v30Bkto0Tmph146sbW9ZJr/view?usp=sharing)
+![](Tree/UPGMA.png)
+Заметим, что самые близкие к SARS-CoV-1 это Phillipines и China, а самый дальний Egypt
+
+
+
+#### Поиск различий
+
+Отдельно рассмотрим пары из самой ближне и самой дальней страны в дереве, то есть USA и Egypt для ML,NJ,Parsimony и Phillipines и Egypt для UPGMA.
+Для повышения точности выровнием отдельно эти пары стран, а затем выделим мутации, выбрав в mega x: toggle conserved sites 100%.
+
+Найдем мутации Egypt относительно USA
+<br />
+![](Pics\B1.png)
+![](Pics\B2.png)
+![](Pics\B3.png)
+![](Pics\B4.png)
+![](Pics\B5.png)
+<br />
+5 из 6 рассмотренных мутаций попадают в **orf1ab polyprotein**, еще одна мутация (с координатой 241) произошла в некодирующем участке в начале генома, расположенном перед orf1ab
+<br /><br />
+И мутации Egypt относительно Philippines
+<br />
+![](Pics\A1.png)
+![](Pics\A2.png)
+![](Pics\A3.png)
+![](Pics\A4.png)
+![](Pics\A5.png)
+![](Pics\A6.png)
+<br />
+Все мутации попали в **orf1ab**
+
+Эти выводы можно сделать, рассмотрев разметку генома
+![](Pics\map.png)

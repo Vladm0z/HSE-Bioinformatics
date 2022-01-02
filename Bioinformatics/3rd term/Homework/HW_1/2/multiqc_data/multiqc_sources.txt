@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	sub2	/home/uvvinogradova/temp/fastqc_trimmed/sub2.fastq.trimmed_fastqc.zip
+FastQC	all_sections	matep2	/home/uvvinogradova/temp/fastqc_trimmed/matep2.fastq.int_trimmed_fastqc.zip
+FastQC	all_sections	matep1	/home/uvvinogradova/temp/fastqc_trimmed/matep1.fastq.int_trimmed_fastqc.zip
+FastQC	all_sections	sub1	/home/uvvinogradova/temp/fastqc_trimmed/sub1.fastq.trimmed_fastqc.zip

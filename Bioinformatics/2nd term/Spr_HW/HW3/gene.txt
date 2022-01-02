@@ -1,0 +1,144 @@
+FEATURES             Location/Qualifiers
+     source          1..9443
+                     /organism="Hepatitis C virus genotype 7"
+                     /mol_type="genomic RNA"
+                     /isolate="QC69"
+                     /isolation_source="plasma"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1544901"
+                     /country="Canada"
+                     /subtype="7a"
+                     /note="emigrant from the Democratic Republic of Congo"
+     5'UTR           1..339
+     gene            340..9381
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /db_xref="GeneID:35984104"
+     CDS             340..9381
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /codon_start=1
+                     /product="polyprotein"
+                     /protein_id="YP_009272536.1"
+                     /db_xref="GeneID:35984104"
+                     /translation="MSTNPKPQRLTKRNTVRRPQNVKFPGGGQIVGGVYLLPRRGPRL
+                     GVRGTRKSSERSQPRGRRQRIPKAASSQGKAWGKPGYPWPLYGNEGCGWAGWLLSPRG
+                     SRPTWGPTDPRHRSRNLGKVIDTMTCGFADLMGYIPVLGAPLGGVARALAHGVRVLED
+                     GVNYATGNLPGCSFSIFLLALLSCLTVPASAYEVRNSSGVYHLTNDCPNASIVYETDN
+                     AILHEPGCVPCVREGNTSRCWEPVAPTLAVRYRGALTDDLRTHIDLVVASATLCSALY
+                     VGDICGAIFIASQAVLWKPGGGRIVQDCNCSIYPGHVTGHRMAWDMMQNWAPALSMVA
+                     AYAVRVPGVIITTVAGGHWGVLFGLAYFGMAGNWAKVILIMLLMSGVDAETMAVGARA
+                     AHTTGALVSLLNPGPSQRLQLINTNGSWHINRTALNCNDSLQTGFIAALFYTHRFNSS
+                     GCPERMASCKPLSDFDQGWGPLWYNSTERPSDQRPYCWHYAPSPCGIVPAKDVCGPVY
+                     CFTPSPVVVGTTDRRGVPTYTWGENESDVFLLNSTRPPQGSWFGCSWMNTTGFTKTCG
+                     GPPCKIRPQGAQSNTSLTCPTDCFRKHPRATYSACGSGPWLTPRCMVHYPYRLWHYPC
+                     TVNFTIHKVRLYIGGVEHRLDAACNWTRGERCDLEDRDRVDMSPLLHSTTELAILPCS
+                     FVPLPALSTGLIHLHQNIVDAQYLYGLSPAIISWAIRWEWVVLVFLLLADARICACLW
+                     MMMLMAQAEAALENLIHLNAASLAGTHGIWWLLLVFCASWHLRGRVVPLVTYGICGMW
+                     PFFLMLLSLPPRAYALDREVSAALGTGMLAIILLVTLGPHYKRLLALILWWVTYFLTR
+                     CEAALQTWVPPLNPRGGRDGFILCVLLCYPGLVFDITKWLLVMMCPLYLLQLCLVRTP
+                     YFVRAQALIRVCSLFKTLAGGRYVQAALLTIGRWTGTYIYNHLAPLETWAAGGLRDLA
+                     VAVEPVIFSPMEKKIIVWGAETTACGDILCGLPVSARLGREVLLGPADDYRSMGWQLL
+                     APISAYAQQTRGLISTLVVSLTGRDKNETAGEVQVLSTSTQTFLGTNVGGVMWGPYHG
+                     AGTRTVAGRGGPVLQMYTSVSDDLVGWPAPPGSKSLEPCSCGSADLYLVTRNADVLPL
+                     RRKGDGTASLLSPRPVSSLKGSSGGPVLCPQSHCVGIFRAAVCTRGVAKAVQFVPIEK
+                     MQVAQRSPSFSDNSTPPAVPSTYQVGYLHAPTGSGKSTKVPAAYASQGYKVLVLNPSV
+                     AATLGFGAYMSKAYGIDPSVRTGARTVTTGAPITYSTYGKFLADGGCSGGAYDIIICD
+                     ECHAIDATTVVGIGTVLDQAETSGVRLVVLATATPPGSVTVPHPNIEEVALGNDGEIP
+                     FYGKAIPLQHIKGGRHLIFCHSKKKCDELAGKLTSLGLTAVAYYRGLDVSVIPTSGDV
+                     VVVATDALMTGFTGDFDSVIDCNVAVTQTVDFSLDPTFTIETTTVPQDSVSRSQRRGR
+                     TGRGRLGIYRYVSSGERPSGMFDTSVLCECYDLGCSWYELTPSETTTRLRAYLNCPGL
+                     PVCQDHLEFWEGVFTGLTHIDAHFLSQTKQEGQNYAYLTAYQATVCARAKAPPPSWDV
+                     QWKCLQRLKPLLVGPTPLLYRLGSVTNEVTFTHPITKYIATCMAADLEVTTSTWVIVG
+                     GVLAAVAAYCMSTGSVVVVGRVVLGSNVVTAPDREVLYQHFDEMEECSKAPELLKHAQ
+                     TIGGMFKDKALAVLDTLKPAAQAAVPIVETNFQKVEKLWNQHMWNFISGIQYLAGLST
+                     LPGNPTVASLMAFTASVTSPLATSTTLLVNILGGWFASQLAPPSAATTFVVSGLAGAA
+                     VGSVGLGKVLVDVLAGYGAGIAGALVAFKIMSGEVPSTEDLANLLPAILSPGALVVGV
+                     VCAAIIKRHTGTSEGVTQWMNRLIAFASRGNHVSPTHYIQDDDASKRVMGILSSLTIT
+                     SLIKRVLAWAQTDYSAPCAGSWLREVWDWVCMVLSDFASWLKAKVLPSLPGIPFLSCQ
+                     KGYKGEWRNDGIMNTKCPCGALIAGHVKNGSMRIVGPKTCRNTWWGTFPINSHTTGPS
+                     SPVPSHCYQRALWRVSATEYVEILRHNDQHYVVGVTAEDLKCPCQVPSPEFFSFVDGV
+                     RIHRFAPEPKPMIREEAAFVVGLHSYVVGSQLPCEPEPDVQTVSQLLTDPSHITAETA
+                     ARRLRRGSPPSNASSSASQLSAPSLKATHTTLPQHPDAELIEANLMWEHKVGAIRRME
+                     TDTKVIILDSFDSASSVEDDMEPSTAAECLRTRKVFPPAMPIWARPDYNPPVVENWKD
+                     PEYAPPQVSGCALPPAQTPPVPPPRRKRAVIQLTESAVSTALAELAERSFPKEEAPPS
+                     DSAISLDSPAANDPPSDCDQGSEISFSSMPPLEGEPGDPDLSDGSWSTVSTRSDVICC
+                     SMSYSWTGALVTPSGPEEERLPINALSNTMLRHYNMVYSTTSRSASQRAKKVTFDRLQ
+                     VLDDHYKRALADVKADASTVKAQLLSVEEAAALTPAHSARSKFGYGAKEVRSLAPKAM
+                     SHIKEVWKDLLQDMTTPIPTTIMAKNEVFCVNPAKGGKKPARLIVYPDLGVRVCEKRA
+                     LYDIAQKLPKAIMGQAYGFQYSPSQRVEYLVKTWKSKRTPMGFSYDTRCFDSTVTEQD
+                     IRTESEIYQCCNLDPEARTIINALTERLYVGGPMFNSKGQRVGYRRCRASGVFPTSMG
+                     NTMTCYIKAKAAAAAAGLESTDFLVCGDDLVVICESKGVERDRADLQAFAAAMTRYSA
+                     PPGDMPQPAYDLEHIDSCSSNVSVARDNSGKRVYYLTRDPTNPLSRAAWETARHSPVN
+                     SWVGNIIMFAPTIWVRMVLMTHFFALLLNEERLNDPVSFEMYGATYTVCPTDLPDIIQ
+                     RLHGLRAFELHTYSPAELTRVAATLRKLGVPPLRTWRQRARKVRAGLIGQGGRARICG
+                     LYLFNWAVRTKIKLTPLAGAGRLDLSSWFSVCAGEADVDHSTPRAHPRPLLLCLLLLA
+                     VGVGIFLLPAR"
+     mat_peptide     340..912
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /product="core protein"
+                     /protein_id="YP_009272680.1"
+     mat_peptide     913..1488
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /product="E1 protein"
+                     /protein_id="YP_009272681.1"
+     mat_peptide     1489..2589
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /product="E2 protein"
+                     /protein_id="YP_009272682.1"
+     mat_peptide     2590..2778
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /product="p7 protein"
+                     /protein_id="YP_009272683.1"
+     mat_peptide     2779..3429
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /product="NS2 protein"
+                     /protein_id="YP_009272684.1"
+     mat_peptide     3430..5322
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /product="NS3 protease/helicase"
+                     /note="NS3 proteinase / ATPase / helicase peptide"
+                     /protein_id="YP_009272685.1"
+     mat_peptide     5323..5484
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /product="NS4A protein"
+                     /protein_id="YP_009272686.1"
+     mat_peptide     5485..6267
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /product="NS4B protein"
+                     /protein_id="YP_009272687.1"
+     mat_peptide     6268..7605
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /product="NS5A protein"
+                     /protein_id="YP_009272688.1"
+     mat_peptide     7606..9378
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /product="NS5B RNA-dependent RNA polymerase"
+                     /note="RdRp"
+                     /protein_id="YP_009272689.1"
+     CDS             join(340..368,370..706)
+                     /gene="POLY"
+                     /locus_tag="BFX91_gp1"
+                     /ribosomal_slippage
+                     /note="Potential -2/+1 frameshift protein F; position
+                     predicted based on homology to protein F in HCV1 RefSeq
+                     NC_004102.1; The predicted ribosomal slippage site appears
+                     to be mutated in this virus."
+                     /codon_start=1
+                     /product="protein F"
+                     /protein_id="YP_009305096.1"
+                     /db_xref="GeneID:35984104"
+                     /translation="MSTNPKPQRLPKETPSVAHRTLSSRVAGRSLAESTCCRAGALDW
+                     VCAALGRVRSDRSPGEDANVSPKLPLHRVKPGASPGTLGPCMVTRAVAGQGGSCPPAA
+                     LDLLGAPXTPGTARETSVR"
+     3'UTR           9382..9443

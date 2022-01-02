@@ -1,0 +1,1491 @@
+"MAPPED_TRAIT"	"risk_count"	"risk_1"	"risk_count_2"	"overall_risk * 100"
+"1"	"5-HIAA measurement"	2	2	0	50
+"2"	"Abdominal Aortic Aneurysm"	1	0	1	100
+"3"	"Abelson tyrosine-protein kinase 2 measurement"	1	0	1	100
+"4"	"Abnormality of refraction"	13	9	4	59.0909090909091
+"5"	"Abruptio Placentae"	2	0	2	100
+"6"	"acne"	3	1	2	75
+"7"	"acute lymphoblastic leukemia"	17	11	6	60.7142857142857
+"8"	"acylcarnitine measurement"	2	0	2	100
+"9"	"acylcarnitine measurement, blood metabolite measurement"	4	2	2	66.6666666666667
+"10"	"ADAMTS13 activity measurement"	1	1	0	50
+"11"	"adhesion molecule measurement, ICAM-1 measurement"	1	0	1	100
+"12"	"adhesion molecule measurement, soluble P-selectin measurement"	1	1	0	50
+"13"	"adiponectin measurement"	31	18	13	63.265306122449
+"14"	"adolescent idiopathic scoliosis"	5	3	2	62.5
+"15"	"adult onset asthma"	4	3	1	57.1428571428571
+"16"	"adult onset asthma, fasting blood glucose measurement"	1	1	0	50
+"17"	"advanced glycosylation end product-specific receptor ligand measurement"	1	1	0	50
+"18"	"adverse effect, response to drug"	2	2	0	50
+"19"	"age-related hearing impairment"	1	1	0	50
+"20"	"age-related macular degeneration"	29	17	12	63.0434782608696
+"21"	"age-related macular degeneration, disease progression measurement"	2	1	1	66.6666666666667
+"22"	"age-related macular degeneration, wet macular degeneration"	1	0	1	100
+"23"	"Age-related nuclear cataract"	1	1	0	50
+"24"	"age at first sexual intercourse measurement"	5	2	3	71.4285714285714
+"25"	"age at menarche"	102	54	48	65.3846153846154
+"26"	"age at menopause"	26	13	13	66.6666666666667
+"27"	"age at onset, alcohol dependence"	5	2	3	71.4285714285714
+"28"	"age at onset, asthma"	10	7	3	58.8235294117647
+"29"	"age at onset, glioblastoma multiforme"	2	2	0	50
+"30"	"age at onset, Myopia"	12	5	7	70.5882352941176
+"31"	"age at onset, Myopia, refractive error measurement"	19	12	7	61.2903225806452
+"32"	"Agents acting on the renin-angiotensin system use measurement"	10	8	2	55.5555555555556
+"33"	"aging"	2	1	1	66.6666666666667
+"34"	"AIDS"	3	3	0	50
+"35"	"airway responsiveness measurement, chronic obstructive pulmonary disease"	1	0	1	100
+"36"	"alanine measurement, amino acid measurement"	1	1	0	50
+"37"	"albumin:globulin ratio measurement"	1	1	0	50
+"38"	"albuminuria"	9	6	3	60
+"39"	"alcohol and nicotine codependence"	2	2	0	50
+"40"	"alcohol consumption measurement"	51	33	18	60.7142857142857
+"41"	"alcohol consumption measurement, alcohol drinking"	2	2	0	50
+"42"	"alcohol consumption measurement, high density lipoprotein cholesterol measurement"	30	19	11	61.2244897959184
+"43"	"alcohol dependence"	17	6	11	73.9130434782609
+"44"	"alcohol dependence measurement"	2	1	1	66.6666666666667
+"45"	"alcohol drinking"	4	4	0	50
+"46"	"alcohol drinking, fibrinogen measurement"	1	1	0	50
+"47"	"alcohol drinking, high density lipoprotein cholesterol measurement"	57	35	22	61.9565217391304
+"48"	"alcohol use disorder measurement"	4	3	1	57.1428571428571
+"49"	"alcohol use disorder measurement, alcohol consumption measurement"	3	1	2	75
+"50"	"alcohol use disorder measurement, alcohol dependence"	3	1	2	75
+"51"	"alcohol use disorder measurement, longitudinal alcohol consumption measurement"	3	1	2	75
+"52"	"alcoholic liver cirrhosis"	1	1	0	50
+"53"	"alkaline phosphatase measurement"	28	15	13	65.1162790697674
+"54"	"alkaline phosphatase measurement, liver enzyme measurement"	1	1	0	50
+"55"	"alkaline phosphatase measurement, uric acid measurement"	1	0	1	100
+"56"	"allergic rhinitis"	3	3	0	50
+"57"	"allergic sensitization measurement"	11	5	6	68.75
+"58"	"allergy"	32	23	9	58.1818181818182
+"59"	"allergy, age at onset"	6	5	1	54.5454545454545
+"60"	"Alopecia"	18	11	7	62.0689655172414
+"61"	"alopecia areata"	7	6	1	53.8461538461539
+"62"	"alpha-linolenic acid measurement"	12	9	3	57.1428571428571
+"63"	"Alzheimer's disease"	63	35	28	64.2857142857143
+"64"	"Alzheimer's disease, age at onset"	8	2	6	80
+"65"	"Alzheimer's disease, amyloid-beta measurement"	1	1	0	50
+"66"	"Alzheimer's disease, CCL4 measurement, Alzheimer's disease biomarker measurement"	1	0	1	100
+"67"	"Alzheimer's disease, cognitive decline measurement"	15	0	15	100
+"68"	"Alzheimer's disease, family history of Alzheimer***s disease"	12	9	3	57.1428571428571
+"69"	"Alzheimer's disease, interleukin-6 measurement, Alzheimer's disease biomarker measurement"	1	0	1	100
+"70"	"Alzheimer's disease, t-tau measurement"	1	1	0	50
+"71"	"amenorrhea, breast carcinoma, response to antineoplastic agent"	1	1	0	50
+"72"	"amino acid measurement"	2	2	0	50
+"73"	"amyotrophic lateral sclerosis"	11	8	3	57.8947368421053
+"74"	"amyotrophic lateral sclerosis, age at onset"	1	1	0	50
+"75"	"androgenetic alopecia"	14	8	6	63.6363636363636
+"76"	"angiopoietin-1 receptor measurement"	3	3	0	50
+"77"	"angiopoietin-1 receptor, soluble measurement"	1	1	0	50
+"78"	"angiotensinogen measurement"	1	0	1	100
+"79"	"Anilide use measurement"	1	1	0	50
+"80"	"ankle brachial index"	1	0	1	100
+"81"	"ankle injury"	1	1	0	50
+"82"	"ankylosing spondylitis"	37	26	11	58.7301587301587
+"83"	"anorexia nervosa"	6	2	4	75
+"84"	"anthropometric measurement, waist-hip ratio, sexual dimorphism"	3	3	0	50
+"85"	"anti-neutrophil antibody associated vasculitis"	1	1	0	50
+"86"	"anti-thyroglobulin antibody measurement"	1	0	1	100
+"87"	"antibody measurement"	3	1	2	75
+"88"	"antidepressant-induced sexual dysfunction, response to bupropion, response to antidepressant"	1	1	0	50
+"89"	"antidepressant-induced side effect, response to citalopram, response to buspirone, response to antidepressant"	1	0	1	100
+"90"	"Antiglaucoma preparations and miotics use measurement"	3	2	1	60
+"91"	"Antimigraine preparation use measurement"	3	3	0	50
+"92"	"antioxidant measurement"	1	0	1	100
+"93"	"antiphospholipid syndrome"	1	0	1	100
+"94"	"Antithrombotic agent use measurement"	2	2	0	50
+"95"	"anxiety"	7	3	4	70
+"96"	"anxiety disorder"	1	1	0	50
+"97"	"anxiety disorder, cognitive behavioural therapy"	1	1	0	50
+"98"	"anxiety measurement"	2	2	0	50
+"99"	"aortic root size"	3	3	0	50
+"100"	"aortic stenosis"	2	2	0	50
+"101"	"aortic stenosis, aortic valve calcification"	1	1	0	50
+"102"	"aortic valve calcification"	1	1	0	50
+"103"	"apolipoprotein A 1 measurement"	50	21	29	70.4225352112676
+"104"	"apolipoprotein B measurement"	46	17	29	73.015873015873
+"105"	"appendicular lean mass"	75	36	39	67.5675675675676
+"106"	"AR-C124910XX**measurement, acute coronary syndrome"	1	0	1	100
+"107"	"arachidonic acid measurement"	5	5	0	50
+"108"	"arm span"	1	0	1	100
+"109"	"arterial stiffness measurement"	1	0	1	100
+"110"	"arylsulfatase B measurement"	1	1	0	50
+"111"	"aseptic loosening, total joint arthroplasty"	1	1	0	50
+"112"	"asparaginase hypersensitivity, acute lymphoblastic leukemia"	1	1	0	50
+"113"	"aspartate aminotransferase measurement"	18	11	7	62.0689655172414
+"114"	"Aspirin-induced asthma"	1	1	0	50
+"115"	"aspirin hydrolysis measurement"	1	1	0	50
+"116"	"aspirin use measurement"	3	3	0	50
+"117"	"asthma"	123	59	64	67.5824175824176
+"118"	"asthma exacerbation measurement, response to corticosteroid"	3	1	2	75
+"119"	"Astigmatism"	11	2	9	84.6153846153846
+"120"	"atherosclerosis"	2	2	0	50
+"121"	"atopic eczema"	17	10	7	62.962962962963
+"122"	"atrial fibrillation"	64	19	45	77.1084337349398
+"123"	"atrophic macular degeneration"	1	1	0	50
+"124"	"attempted suicide"	1	0	1	100
+"125"	"attention deficit hyperactivity disorder"	16	11	5	59.2592592592593
+"126"	"attention deficit hyperactivity disorder, attention function measurement"	4	2	2	66.6666666666667
+"127"	"attention deficit hyperactivity disorder, bipolar disorder"	1	0	1	100
+"128"	"attention deficit hyperactivity disorder, Cannabis use"	5	4	1	55.5555555555556
+"129"	"attention deficit hyperactivity disorder, conduct disorder"	7	4	3	63.6363636363636
+"130"	"attention deficit hyperactivity disorder, oppositional defiant disorder measurement"	1	0	1	100
+"131"	"attention deficit hyperactivity disorder, parental emotion expression measurmement"	1	1	0	50
+"132"	"attention deficit hyperactivity disorder, unipolar depression, schizophrenia, autism spectrum disorder, bipolar disorder"	18	10	8	64.2857142857143
+"133"	"atypical femoral fracture, response to bisphosphonate"	3	3	0	50
+"134"	"autism"	1	1	0	50
+"135"	"autism spectrum disorder"	4	2	2	66.6666666666667
+"136"	"autism spectrum disorder, self reported educational attainment"	1	0	1	100
+"137"	"autoimmune disease"	6	4	2	60
+"138"	"autoimmune thyroid disease"	15	10	5	60
+"139"	"autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease"	2	2	0	50
+"140"	"autoimmune thyroid disease, type I diabetes mellitus"	2	2	0	50
+"141"	"autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus"	6	6	0	50
+"142"	"autosomal dominant compelling helio-ophthalmic outburst syndrome"	1	0	1	100
+"143"	"axial length measurement"	1	0	1	100
+"144"	"azoospermia"	1	1	0	50
+"145"	"B-cell acute lymphoblastic leukemia"	6	6	0	50
+"146"	"balding measurement"	23	14	9	62.1621621621622
+"147"	"Barrett's esophagus"	3	1	2	75
+"148"	"basal cell carcinoma"	35	19	16	64.8148148148148
+"149"	"basophil count"	43	23	20	65.1515151515152
+"150"	"basophil count, eosinophil count"	6	5	1	54.5454545454545
+"151"	"basophil percentage of granulocytes"	5	4	1	55.5555555555556
+"152"	"basophil percentage of leukocytes"	14	6	8	70
+"153"	"behavioural inhibitory control measurement"	1	1	0	50
+"154"	"Behcet's syndrome"	3	2	1	60
+"155"	"beta-2 microglobulin measurement"	3	2	1	60
+"156"	"beta-amyloid 1-42 measurement"	2	2	0	50
+"157"	"beta-amyloid 1-42 measurement, cerebrospinal fluid biomarker measurement"	2	0	2	100
+"158"	"Beta blocking agent use measurement"	1	1	0	50
+"159"	"biliary liver cirrhosis"	17	14	3	54.8387096774194
+"160"	"bilirubin measurement"	8	8	0	50
+"161"	"bilirubin measurement, metabolic syndrome"	5	5	0	50
+"162"	"binge eating, bipolar disorder"	1	1	0	50
+"163"	"bipolar disorder"	34	22	12	60.7142857142857
+"164"	"bipolar disorder, body mass index"	3	2	1	60
+"165"	"bipolar disorder, response to lithium ion"	3	2	1	60
+"166"	"bipolar I disorder"	6	4	2	60
+"167"	"birth weight"	66	42	24	61.1111111111111
+"168"	"birth weight, parental genotype effect measurement"	20	9	11	68.9655172413793
+"169"	"bitter alcoholic beverage consumption measurement"	10	5	5	66.6666666666667
+"170"	"bitter beverage consumption measurement"	5	2	3	71.4285714285714
+"171"	"bitter non-alcoholic beverage consumption measurement"	3	2	1	60
+"172"	"bladder carcinoma"	22	8	14	73.3333333333333
+"173"	"Bladder exstrophy"	1	1	0	50
+"174"	"blood lead measurement"	2	2	0	50
+"175"	"blood metabolite measurement"	184	104	80	63.8888888888889
+"176"	"blood metabolite measurement, amino acid measurement"	2	0	2	100
+"177"	"blood metabolite measurement, protein measurement, amino acid measurement"	4	0	4	100
+"178"	"blood osmolality measurement"	3	1	2	75
+"179"	"blood protein measurement"	360	199	161	64.4007155635063
+"180"	"blood sedimentation"	2	0	2	100
+"181"	"blood urea nitrogen measurement"	17	10	7	62.962962962963
+"182"	"BMI-adjusted adiponectin measurement"	3	1	2	75
+"183"	"BMI-adjusted hip circumference"	89	50	39	64.0287769784173
+"184"	"BMI-adjusted leptin measurement"	46	15	31	75.4098360655738
+"185"	"BMI-adjusted waist-hip ratio"	379	187	192	66.9611307420495
+"186"	"BMI-adjusted waist-hip ratio, physical activity measurement"	60	28	32	68.1818181818182
+"187"	"BMI-adjusted waist-hip ratio, sex interaction measurement"	8	7	1	53.3333333333333
+"188"	"BMI-adjusted waist-hip ratio, sex interaction measurement, age at assessment"	27	13	14	67.5
+"189"	"BMI-adjusted waist circumference"	106	61	45	63.4730538922156
+"190"	"BMI-adjusted waist circumference, physical activity measurement"	199	103	96	65.8940397350993
+"191"	"body composition measurement"	5	5	0	50
+"192"	"body fat distribution"	58	41	17	58.5858585858586
+"193"	"body fat percentage"	16	8	8	66.6666666666667
+"194"	"body height"	512	293	219	63.6024844720497
+"195"	"body height at birth"	9	7	2	56.25
+"196"	"body mass index"	923	536	387	63.262508567512
+"197"	"body mass index, age at assessment"	4	2	2	66.6666666666667
+"198"	"body mass index, fasting blood glucose measurement"	14	8	6	63.6363636363636
+"199"	"body mass index, fasting blood insulin measurement"	11	3	8	78.5714285714286
+"200"	"body mass index, visceral:subcutaneous adipose tissue ratio"	1	1	0	50
+"201"	"body weight"	21	12	9	63.6363636363636
+"202"	"body weights and measures, body height"	3	3	0	50
+"203"	"bone density"	149	92	57	61.8257261410788
+"204"	"bone density, lean body mass"	3	3	0	50
+"205"	"bone fracture"	12	7	5	63.1578947368421
+"206"	"bone mineral content measurement"	9	9	0	50
+"207"	"bone quantitative ultrasound measurement"	9	7	2	56.25
+"208"	"Borderline personality disorder"	2	1	1	66.6666666666667
+"209"	"brain aneurysm"	18	7	11	72
+"210"	"brain infarction"	1	0	1	100
+"211"	"brain infarction, neuritic plaque measurement, Lewy body dementia, cerebral amyloid angiopathy, neurofibrillary tangles measurement"	4	1	3	80
+"212"	"brain measurement"	1	0	1	100
+"213"	"brain measurement, hippocampal volume"	3	3	0	50
+"214"	"brain stem volume measurement"	1	1	0	50
+"215"	"brain volume measurement, intracranial volume measurement"	1	1	0	50
+"216"	"brain volume measurement, putamen volume"	3	1	2	75
+"217"	"BRCAX breast cancer"	3	0	3	100
+"218"	"breast cancer anti-estrogen resistance protein 3 measurement"	1	0	1	100
+"219"	"breast carcinoma"	290	140	150	67.4418604651163
+"220"	"breast size"	6	6	0	50
+"221"	"Bronchopulmonary dysplasia"	1	1	0	50
+"222"	"Bronchopulmonary dysplasia, premature birth"	1	1	0	50
+"223"	"Brugada syndrome"	1	1	0	50
+"224"	"bulimia nervosa"	2	1	1	66.6666666666667
+"225"	"butyrylcholinesterase measurement"	3	3	0	50
+"226"	"C-C motif chemokine 3 measurement"	1	1	0	50
+"227"	"C-peptide measurement"	1	0	1	100
+"228"	"C-peptide measurement, type I diabetes mellitus"	2	2	0	50
+"229"	"C-reactive protein measurement"	134	51	83	72.4324324324324
+"230"	"C-reactive protein measurement, high density lipoprotein cholesterol measurement"	9	4	5	69.2307692307692
+"231"	"C-X-C motif chemokine 10 measurement"	2	0	2	100
+"232"	"C-X-C motif chemokine 6 measurement"	1	1	0	50
+"233"	"CADASIL, white matter hyperintensity measurement"	1	1	0	50
+"234"	"cadherin-5 measurement"	1	1	0	50
+"235"	"caffeine metabolite measurement"	10	10	0	50
+"236"	"Calcium channel blocker use measurement"	8	8	0	50
+"237"	"calcium measurement"	8	5	3	61.5384615384615
+"238"	"calcium/calmodulin-dependent protein kinase type 1 measurement"	1	1	0	50
+"239"	"cancer"	16	6	10	72.7272727272727
+"240"	"cancer aggressiveness measurement, Gleason score measurement, prostate carcinoma"	1	0	1	100
+"241"	"cancer antigen 19.9 measurement"	1	1	0	50
+"242"	"cancer biomarker measurement"	3	2	1	60
+"243"	"cancer, response to opioid"	1	1	0	50
+"244"	"cannabis dependence measurement"	2	0	2	100
+"245"	"Cannabis use initiation"	1	1	0	50
+"246"	"Cannabis use, age at onset"	1	1	0	50
+"247"	"carbohydrate sulfotransferase 15 measurement"	1	1	0	50
+"248"	"carbonic anhydrase 6 measurement"	1	1	0	50
+"249"	"cardiac arrhythmia"	1	1	0	50
+"250"	"cardiac troponin T measurement"	2	1	1	66.6666666666667
+"251"	"cardiovascular disease, type II diabetes mellitus"	1	0	1	100
+"252"	"cardiovascular measurement"	1	1	0	50
+"253"	"carotenoid measurement"	1	0	1	100
+"254"	"carotid artery intima media thickness"	1	0	1	100
+"255"	"carotid atherosclerosis"	1	0	1	100
+"256"	"carotid plaque build"	1	1	0	50
+"257"	"carpal tunnel syndrome"	1	1	0	50
+"258"	"carrier status, ovarian carcinoma"	1	0	1	100
+"259"	"cartilage thickness measurement"	1	1	0	50
+"260"	"cathepsin D measurement"	2	2	0	50
+"261"	"cathepsin L1 measurement"	2	2	0	50
+"262"	"cathepsin Z measurement"	1	1	0	50
+"263"	"caudate nucleus volume"	3	1	2	75
+"264"	"CCL19 measurement"	1	1	0	50
+"265"	"CCL2 measurement"	12	8	4	60
+"266"	"CCL4 measurement"	1	0	1	100
+"267"	"CD109 antigen measurement"	1	1	0	50
+"268"	"CD209 antigen measurement"	1	1	0	50
+"269"	"celiac disease"	11	8	3	57.8947368421053
+"270"	"celiac disease, Crohn's disease"	1	1	0	50
+"271"	"central corneal thickness"	6	3	3	66.6666666666667
+"272"	"central corneal thickness, intraocular pressure measurement"	1	1	0	50
+"273"	"central nervous system cancer"	13	8	5	61.9047619047619
+"274"	"central nervous system cancer, glioblastoma multiforme"	1	1	0	50
+"275"	"central nervous system cancer, glioma"	2	2	0	50
+"276"	"central nervous system non-hodgkin lymphoma"	1	0	1	100
+"277"	"ceramide measurement"	2	1	1	66.6666666666667
+"278"	"cerebral amyloid angiopathy"	1	0	1	100
+"279"	"cerebral amyloid deposition measurement"	8	5	3	61.5384615384615
+"280"	"cerebrospinal fluid biomarker measurement"	1	0	1	100
+"281"	"cervical artery dissection"	3	3	0	50
+"282"	"cervical carcinoma"	5	3	2	62.5
+"283"	"cesarean section, intelligence"	1	1	0	50
+"284"	"chemokine (C-C motif) ligand 27 measurement"	2	0	2	100
+"285"	"chemotherapy-induced alopecia, response to antimicrotubule agent"	1	1	0	50
+"286"	"chemotherapy-induced alopecia, response to docetaxel"	1	1	0	50
+"287"	"chemotherapy-induced alopecia, response to paclitaxel"	1	0	1	100
+"288"	"Child Behaviour Checklist assessment"	1	0	1	100
+"289"	"childhood aggressive behaviour measurement"	3	2	1	60
+"290"	"childhood cancer, cardiotoxicity, response to anthracycline-based chemotherapy"	2	2	0	50
+"291"	"childhood onset asthma"	13	7	6	65
+"292"	"childhood onset asthma, age at onset, environmental tobacco smoke exposure measurement"	2	2	0	50
+"293"	"cholesterol efflux capacity measurement"	6	4	2	60
+"294"	"cholesteryl ester transfer protein measurement"	2	1	1	66.6666666666667
+"295"	"chronic hepatitis B virus infection"	8	7	1	53.3333333333333
+"296"	"chronic hepatitis C virus infection"	10	7	3	58.8235294117647
+"297"	"chronic hepatitis C virus infection, response to interferon, depressive symptom measurement"	1	1	0	50
+"298"	"chronic kidney disease"	13	6	7	68.4210526315789
+"299"	"chronic kidney disease, serum metabolite measurement"	96	94	2	50.5263157894737
+"300"	"chronic kidney disease, urinary metabolite measurement"	41	19	22	68.3333333333333
+"301"	"chronic lymphocytic leukemia"	38	22	16	63.3333333333333
+"302"	"chronic mucus hypersecretion"	1	0	1	100
+"303"	"chronic myelogenous leukemia"	1	1	0	50
+"304"	"chronic obstructive pulmonary disease"	30	17	13	63.8297872340426
+"305"	"chronic obstructive pulmonary disease, body mass index"	1	0	1	100
+"306"	"chronic obstructive pulmonary disease, C-reactive protein measurement"	2	1	1	66.6666666666667
+"307"	"chronic obstructive pulmonary disease, CC16 measurement"	3	3	0	50
+"308"	"chronic obstructive pulmonary disease, chronic bronchitis"	3	3	0	50
+"309"	"chronic obstructive pulmonary disease, fibrinogen measurement"	1	1	0	50
+"310"	"chronic obstructive pulmonary disease, smoking behaviour measurement"	2	0	2	100
+"311"	"chronic obstructive pulmonary disease, smoking initiation"	2	0	2	100
+"312"	"chronic obstructive pulmonary disease, surfactant protein D measurement"	3	3	0	50
+"313"	"chronic rhinosinusitis"	1	1	0	50
+"314"	"chronic rhinosinusitis with nasal polyps"	1	1	0	50
+"315"	"chronotype measurement"	62	34	28	64.5833333333333
+"316"	"cigarettes per day measurement"	20	15	5	57.1428571428571
+"317"	"circadian rhythm"	4	1	3	80
+"318"	"circulating cell free DNA measurement"	1	1	0	50
+"319"	"cis/trans-18:2 fatty acid measurement, trans fatty acid measurement"	34	29	5	53.968253968254
+"320"	"cleft lip"	4	4	0	50
+"321"	"Cleft palate"	5	5	0	50
+"322"	"Cleft palate, cleft lip"	8	6	2	57.1428571428571
+"323"	"Cleft palate, sex interaction measurement, cleft lip"	2	0	2	100
+"324"	"clinical ideal cardiovascular health"	1	1	0	50
+"325"	"clonal hematopoiesis"	2	1	1	66.6666666666667
+"326"	"clostridium difficile infection, response to bezlotoxumab"	1	1	0	50
+"327"	"coagulation factor measurement"	11	3	8	78.5714285714286
+"328"	"coagulation factor V measurement"	1	1	0	50
+"329"	"coffee consumption"	8	7	1	53.3333333333333
+"330"	"coffee consumption measurement"	16	9	7	64
+"331"	"coffee consumption measurement, tea consumption measurement"	6	4	2	60
+"332"	"coffee consumption, cups of coffee per day measurement"	4	2	2	66.6666666666667
+"333"	"cognitive decline measurement"	2	2	0	50
+"334"	"cognitive decline measurement, Cognitive impairment"	14	0	14	100
+"335"	"cognitive decline measurement, disease progression measurement, Cognitive impairment"	1	1	0	50
+"336"	"cognitive function measurement"	47	23	24	67.1428571428572
+"337"	"cognitive function measurement, self reported educational attainment"	23	6	17	79.3103448275862
+"338"	"cognitive inhibition measurement"	1	1	0	50
+"339"	"colon carcinoma"	2	1	1	66.6666666666667
+"340"	"Colonic diverticula"	1	0	1	100
+"341"	"colorectal cancer"	130	85	45	60.4651162790698
+"342"	"colorectal cancer, colorectal adenoma"	18	12	6	60
+"343"	"colorectal cancer, colorectal mucinous adenocarcinoma"	3	3	0	50
+"344"	"colorectal cancer, endometrial neoplasm"	2	1	1	66.6666666666667
+"345"	"common carotid intimal medial thickness"	3	2	1	60
+"346"	"comparative body size at age 10, self-reported"	38	20	18	65.5172413793103
+"347"	"complement C3 measurement"	1	1	0	50
+"348"	"complement C4 measurement"	4	2	2	66.6666666666667
+"349"	"complement factor B measurement"	1	1	0	50
+"350"	"complement factor H-related protein 5 measurement"	1	1	0	50
+"351"	"comprehensive strength index, muscle measurement"	2	2	0	50
+"352"	"conduct disorder"	1	0	1	100
+"353"	"conscientiousness measurement"	1	1	0	50
+"354"	"Corneal astigmatism"	4	0	4	100
+"355"	"corneal topography"	29	18	11	61.7021276595745
+"356"	"coronary artery calcification"	4	4	0	50
+"357"	"coronary artery disease"	193	110	83	63.6963696369637
+"358"	"coronary atherosclerosis measurement, traffic air pollution measurement"	1	0	1	100
+"359"	"cortical surface area measurement"	16	4	12	80
+"360"	"cortical thickness"	2	1	1	66.6666666666667
+"361"	"cortisol measurement"	1	0	1	100
+"362"	"cotinine glucuronidation measurement"	5	0	5	100
+"363"	"COVID-19"	3	3	0	50
+"364"	"creatinine measurement"	10	6	4	62.5
+"365"	"creatinine measurement, chronic kidney disease"	10	5	5	66.6666666666667
+"366"	"creatinine measurement, glomerular filtration rate"	34	22	12	60.7142857142857
+"367"	"creativity measurement"	1	0	1	100
+"368"	"Crohn's disease"	134	77	57	63.5071090047393
+"369"	"Crohn's disease, disease prognosis measurement"	1	1	0	50
+"370"	"cup-to-disc ratio measurement"	35	22	13	61.4035087719298
+"371"	"cup-to-disc ratio measurement, optic cup area measurement, optic disc area measurement"	2	1	1	66.6666666666667
+"372"	"cups of coffee per day measurement"	5	4	1	55.5555555555556
+"373"	"cutaneous lupus erythematosus"	1	1	0	50
+"374"	"cutaneous melanoma"	7	5	2	58.3333333333333
+"375"	"cutaneous melanoma, hair color"	4	0	4	100
+"376"	"cutaneous psoriasis measurement, psoriasis"	3	2	1	60
+"377"	"cutaneous squamous cell carcinoma"	5	5	0	50
+"378"	"cystatin C measurement, chronic kidney disease"	1	1	0	50
+"379"	"Cystic fibrosis"	1	0	1	100
+"380"	"Cystic fibrosis, lung disease severity measurement"	3	3	0	50
+"381"	"Cystic fibrosis, type II diabetes mellitus"	1	0	1	100
+"382"	"D dimer measurement"	3	2	1	60
+"383"	"daytime rest measurement"	2	1	1	66.6666666666667
+"384"	"delta-6 desaturase measurement"	3	3	0	50
+"385"	"Dementia, Alzheimer's disease neuropathologic change"	2	2	0	50
+"386"	"dense area measurement, mammographic density measurement"	4	0	4	100
+"387"	"dental caries, dentures"	4	3	1	57.1428571428571
+"388"	"dentures"	4	3	1	57.1428571428571
+"389"	"depressive symptom measurement"	11	7	4	61.1111111111111
+"390"	"dermatomyositis"	1	1	0	50
+"391"	"developmental dysplasia of the hip"	3	3	0	50
+"392"	"diabetic nephropathy"	2	0	2	100
+"393"	"diabetic retinopathy"	8	4	4	66.6666666666667
+"394"	"diabetic retinopathy, type II diabetes mellitus"	1	0	1	100
+"395"	"diastolic blood pressure"	191	111	80	63.2450331125828
+"396"	"diastolic blood pressure change measurement, hypertension"	1	1	0	50
+"397"	"diastolic blood pressure, alcohol consumption measurement"	5	1	4	83.3333333333333
+"398"	"diastolic blood pressure, alcohol drinking"	6	5	1	54.5454545454545
+"399"	"diastolic blood pressure, blood pressure, age at assessment"	1	1	0	50
+"400"	"diastolic blood pressure, response to cold pressor test"	1	1	0	50
+"401"	"diastolic blood pressure, response to high sodium diet, response to dietary potassium supplementation"	1	1	0	50
+"402"	"dickkopf***related protein 1 measurement"	1	1	0	50
+"403"	"diet measurement, bilirubin measurement, metabolic syndrome"	7	5	2	58.3333333333333
+"404"	"diet measurement, fasting blood insulin measurement"	4	4	0	50
+"405"	"diet measurement, HOMA-B"	2	2	0	50
+"406"	"diet measurement, HOMA-IR"	4	4	0	50
+"407"	"diffuse plaque measurement"	1	0	1	100
+"408"	"diffusing capacity of the lung for carbon monoxide"	4	2	2	66.6666666666667
+"409"	"digestive system infectious disease"	2	1	1	66.6666666666667
+"410"	"digit length ratio"	12	8	4	60
+"411"	"diglyceride measurement"	2	0	2	100
+"412"	"dihomo-gamma-linolenic acid measurement"	3	3	0	50
+"413"	"dihydroxy docosatrienoic acid measurement"	1	0	1	100
+"414"	"disease progression measurement, Crohn's disease"	1	1	0	50
+"415"	"disposition index measurement"	1	1	0	50
+"416"	"Diuretic use measurement"	3	3	0	50
+"417"	"diverticular disease"	2	1	1	66.6666666666667
+"418"	"diverticulitis"	1	0	1	100
+"419"	"DNA methylation"	7	1	6	87.5
+"420"	"docosahexaenoic acid measurement"	2	1	1	66.6666666666667
+"421"	"docosahexaenoic acid measurement, metabolic syndrome"	1	1	0	50
+"422"	"docosapentaenoic acid measurement"	12	10	2	54.5454545454545
+"423"	"drinking behavior"	1	0	1	100
+"424"	"Drug-induced agranulocytosis, response to clozapine"	2	2	0	50
+"425"	"drug-Induced dyskinesia, Parkinson's disease, response to levodopa"	1	1	0	50
+"426"	"drug dependence"	2	1	1	66.6666666666667
+"427"	"drug use measurement, depressive symptom measurement, SSRI use measurement"	1	1	0	50
+"428"	"Drugs affecting bone structure and mineralization use measurement"	1	0	1	100
+"429"	"Drugs used in diabetes use measurement"	6	4	2	60
+"430"	"dual specificity mitogen-activated protein kinase kinase 4 measurement"	1	1	0	50
+"431"	"duodenal ulcer"	1	1	0	50
+"432"	"Dupuytren Contracture"	4	3	1	57.1428571428571
+"433"	"dynein light chain roadblock-type 1 measurement"	1	1	0	50
+"434"	"e-selectin measurement"	6	6	0	50
+"435"	"early cardiac repolarization measurement"	1	1	0	50
+"436"	"eating disorder"	5	0	5	100
+"437"	"economic and social preference"	27	15	12	64.2857142857143
+"438"	"Eczema, allergic rhinitis"	19	10	9	65.5172413793103
+"439"	"Eczema, allergic rhinitis, asthma"	11	6	5	64.7058823529412
+"440"	"eicosapentaenoic acid measurement"	10	9	1	52.6315789473684
+"441"	"electrocardiography"	727	299	428	70.8576998050682
+"442"	"electrocardiography, PR interval"	2	1	1	66.6666666666667
+"443"	"electroencephalogram measurement"	2	1	1	66.6666666666667
+"444"	"empathy measurement"	4	0	4	100
+"445"	"emphysema"	4	1	3	80
+"446"	"emphysema imaging measurement"	12	5	7	70.5882352941176
+"447"	"emphysema imaging measurement, smoking status measurement"	5	1	4	83.3333333333333
+"448"	"emphysema pattern measurement"	15	3	12	83.3333333333333
+"449"	"endoglin measurement"	1	1	0	50
+"450"	"endometrial carcinoma"	5	3	2	62.5
+"451"	"endometrial endometrioid carcinoma"	1	0	1	100
+"452"	"endometrial neoplasm"	1	0	1	100
+"453"	"endometriosis"	20	14	6	58.8235294117647
+"454"	"endometriosis, migraine disorder"	2	0	2	100
+"455"	"endometriosis, unipolar depression"	1	0	1	100
+"456"	"endothelial growth factor measurement, angiopoietin-2 receptor measurement"	1	1	0	50
+"457"	"energy expenditure"	2	2	0	50
+"458"	"energy expenditure measurement"	1	1	0	50
+"459"	"energy intake"	21	14	7	60
+"460"	"energy intake measurement"	1	1	0	50
+"461"	"eosinophil count"	87	60	27	59.1836734693878
+"462"	"eosinophil percentage of granulocytes"	13	6	7	68.4210526315789
+"463"	"eosinophil percentage of leukocytes"	37	23	14	61.6666666666667
+"464"	"eosinophilic esophagitis"	2	0	2	100
+"465"	"eotaxin measurement"	3	3	0	50
+"466"	"epilepsy"	5	2	3	71.4285714285714
+"467"	"Epstein Barr virus nuclear antigen 1 IgG measurement"	8	6	2	57.1428571428571
+"468"	"Erythema nodosum, inflammatory bowel disease"	2	2	0	50
+"469"	"erythrocyte cadmium measurement"	3	3	0	50
+"470"	"erythrocyte count"	64	45	19	58.7155963302752
+"471"	"esophageal adenocarcinoma"	1	1	0	50
+"472"	"esophageal adenocarcinoma, Barrett's esophagus"	1	0	1	100
+"473"	"esophageal adenocarcinoma, digestive system disease, Barrett's esophagus"	1	1	0	50
+"474"	"esophageal adenocarcinoma, pack-years measurement"	1	0	1	100
+"475"	"esophageal carcinoma"	4	1	3	80
+"476"	"esophageal squamous cell carcinoma"	5	2	3	71.4285714285714
+"477"	"essential tremor"	2	1	1	66.6666666666667
+"478"	"esterified cholesterol measurement"	3	3	0	50
+"479"	"estradiol measurement"	7	5	2	58.3333333333333
+"480"	"estrogen-receptor negative breast cancer"	24	12	12	66.6666666666667
+"481"	"estrogen-receptor positive breast cancer"	1	0	1	100
+"482"	"estrone measurement"	1	0	1	100
+"483"	"event free survival time, breast carcinoma"	1	0	1	100
+"484"	"event free survival time, type I diabetes mellitus, carrier status, autoantibody measurement"	2	2	0	50
+"485"	"Ewing sarcoma"	3	3	0	50
+"486"	"exercise"	1	0	1	100
+"487"	"exfoliation syndrome"	4	2	2	66.6666666666667
+"488"	"extranodal nasal NK/T cell lymphoma"	2	2	0	50
+"489"	"eye color"	10	5	5	66.6666666666667
+"490"	"eye colour measurement"	3	1	2	75
+"491"	"eye measurement"	17	9	8	65.3846153846154
+"492"	"eye morphology measurement"	2	2	0	50
+"493"	"eyelid sagging measurement"	1	1	0	50
+"494"	"facial morphology"	2	0	2	100
+"495"	"facial morphology measurement"	3	3	0	50
+"496"	"facial pigmentation measurement"	3	3	0	50
+"497"	"Facial wrinkling"	2	2	0	50
+"498"	"factor VII measurement"	6	4	2	60
+"499"	"factor VIII measurement"	4	4	0	50
+"500"	"factor VIII measurement, coagulation factor measurement"	1	1	0	50
+"501"	"factor XI measurement"	2	2	0	50
+"502"	"family history of Alzheimer***s disease"	6	4	2	60
+"503"	"fasting blood glucose change measurement"	3	2	1	60
+"504"	"fasting blood glucose measurement"	41	20	21	67.2131147540984
+"505"	"fasting blood glucose measurement, asthma"	1	1	0	50
+"506"	"fasting blood insulin measurement"	11	7	4	61.1111111111111
+"507"	"fat body mass"	4	1	3	80
+"508"	"fatty acid desaturase enzyme activity measurement"	4	4	0	50
+"509"	"fatty acid measurement"	17	8	9	68
+"510"	"fatty acid measurement, breast milk measurement, parental genotype effect measurement"	3	1	2	75
+"511"	"fatty acid measurement, fetal genotype effect measurement, breast milk measurement"	2	1	1	66.6666666666667
+"512"	"Febrile seizure (within the age range of 3 months to 6 years)"	6	4	2	60
+"513"	"Febrile seizure (within the age range of 3 months to 6 years), MMR-related febrile seizures"	3	1	2	75
+"514"	"feeling \"fed-up\" measurement"	3	3	0	50
+"515"	"feeling emotionally hurt measurement"	4	3	1	57.1428571428571
+"516"	"feeling miserable measurement"	6	1	5	85.7142857142857
+"517"	"feeling nervous measurement"	7	3	4	70
+"518"	"feeling tense measurement"	3	1	2	75
+"519"	"femoral neck bone mineral density"	26	16	10	61.9047619047619
+"520"	"femoral neck size"	1	1	0	50
+"521"	"ferritin measurement"	2	1	1	66.6666666666667
+"522"	"fetal hemoglobin measurement"	1	1	0	50
+"523"	"fetal hemoglobin measurement, Sickle cell anemia"	4	2	2	66.6666666666667
+"524"	"FEV change measurement, response to montelukast, asthma"	2	1	1	66.6666666666667
+"525"	"FEV/FEC ratio"	21	11	10	65.625
+"526"	"fibrinogen measurement"	14	8	6	63.6363636363636
+"527"	"fibrinogen measurement, body mass index"	1	1	0	50
+"528"	"fibroblast growth factor 23 measurement"	2	2	0	50
+"529"	"fibroblast growth factor basic measurement"	1	0	1	100
+"530"	"ficolin-1 measurement"	1	0	1	100
+"531"	"follistatin measurement"	2	0	2	100
+"532"	"food allergy measurement"	2	1	1	66.6666666666667
+"533"	"forced expiratory volume"	18	13	5	58.0645161290323
+"534"	"forced expiratory volume, environmental tobacco smoke exposure measurement"	1	0	1	100
+"535"	"forced expiratory volume, response to bronchodilator"	47	25	22	65.2777777777778
+"536"	"forced expiratory volume, response to bronchodilator, chronic obstructive pulmonary disease"	2	0	2	100
+"537"	"forced expiratory volume, response to mineral dust exposure"	1	1	0	50
+"538"	"forehead morphology measurement"	1	0	1	100
+"539"	"freckles"	3	3	0	50
+"540"	"frontal theta oscillation measurement, alcohol dependence"	2	1	1	66.6666666666667
+"541"	"Frontotemporal dementia"	2	1	1	66.6666666666667
+"542"	"gait measurement"	8	3	5	72.7272727272727
+"543"	"galanin peptides measurement"	1	0	1	100
+"544"	"galectin-3 measurement"	1	0	1	100
+"545"	"gallbladder neoplasm"	1	1	0	50
+"546"	"gallstones"	3	1	2	75
+"547"	"gambling behaviour"	2	2	0	50
+"548"	"gamma-linolenic acid measurement"	3	2	1	60
+"549"	"gas trapping measurement"	4	3	1	57.1428571428571
+"550"	"gastric adenocarcinoma"	1	0	1	100
+"551"	"gastric carcinoma"	7	4	3	63.6363636363636
+"552"	"GDNF family receptor alpha-2 measurement"	1	0	1	100
+"553"	"generalised epilepsy"	1	0	1	100
+"554"	"gestational age"	1	1	0	50
+"555"	"gestational age, birth measurement"	2	2	0	50
+"556"	"gestational age, parental genotype effect measurement"	1	0	1	100
+"557"	"gestational diabetes"	2	2	0	50
+"558"	"glaucoma"	16	14	2	53.3333333333333
+"559"	"glioma"	8	5	3	61.5384615384615
+"560"	"glomerular filtration rate"	112	62	50	64.367816091954
+"561"	"glomerular filtration rate, chronic kidney disease"	4	2	2	66.6666666666667
+"562"	"glomerular filtration rate, diabetes mellitus"	6	0	6	100
+"563"	"glomerular filtration rate, renal transplant outcome measurement"	1	1	0	50
+"564"	"glucagon measurement"	4	2	2	66.6666666666667
+"565"	"glucose-dependent insulinotropic peptide measurement, glucose tolerance test"	4	4	0	50
+"566"	"glucose measurement"	3	1	2	75
+"567"	"glucose tolerance test"	3	1	2	75
+"568"	"glutamine measurement, amino acid measurement"	2	0	2	100
+"569"	"glycerophospholipid measurement, blood metabolite measurement"	33	33	0	50
+"570"	"glycine measurement"	12	4	8	75
+"571"	"glycine measurement, amino acid measurement"	1	0	1	100
+"572"	"glycoprotein measurement"	4	0	4	100
+"573"	"Glycosuria"	3	0	3	100
+"574"	"glypican-5 measurement"	1	1	0	50
+"575"	"gondoic acid measurement"	2	2	0	50
+"576"	"gout"	17	8	9	68
+"577"	"gout, hyperuricemia"	2	1	1	66.6666666666667
+"578"	"gout, urate measurement"	1	1	0	50
+"579"	"gp41 C34 peptide, HIV measurement"	1	1	0	50
+"580"	"granule cell layer dentate gyrus volume"	1	1	0	50
+"581"	"granulocyte count"	15	11	4	57.6923076923077
+"582"	"granulocyte percentage of myeloid white cells"	12	8	4	60
+"583"	"Graves disease"	11	8	3	57.8947368421053
+"584"	"grip strength measurement"	13	10	3	56.5217391304348
+"585"	"growth-regulated alpha protein measurement"	3	1	2	75
+"586"	"guilt measurement"	1	1	0	50
+"587"	"gut microbiome measurement"	44	32	12	57.8947368421053
+"588"	"gut microbiome measurement, taxonomic microbiome measurement"	5	3	2	62.5
+"589"	"hair color"	30	20	10	60
+"590"	"hair colour measurement"	5	5	0	50
+"591"	"hair morphology"	3	2	1	60
+"592"	"handedness"	2	2	0	50
+"593"	"Hashimoto's thyroiditis, thyroid peroxidase antibody measurement"	2	0	2	100
+"594"	"Hashimoto's thyroiditis, thyroid peroxidase antibody measurement, anti-thyroglobulin antibody measurement"	4	2	2	66.6666666666667
+"595"	"HbA1c measurement"	33	16	17	67.3469387755102
+"596"	"HDL cholesterol change measurement"	2	2	0	50
+"597"	"HDL cholesterol change measurement, physical activity"	4	4	0	50
+"598"	"head circumference"	1	1	0	50
+"599"	"Headache"	3	3	0	50
+"600"	"health study participation"	2	2	0	50
+"601"	"healthspan"	1	0	1	100
+"602"	"hearing loss, Charcot-Marie-Tooth disease type 1A"	1	1	0	50
+"603"	"heart failure"	2	1	1	66.6666666666667
+"604"	"heart failure, mortality"	2	1	1	66.6666666666667
+"605"	"heart function measurement"	6	6	0	50
+"606"	"heart rate"	21	9	12	70
+"607"	"heart rate response to exercise"	5	4	1	55.5555555555556
+"608"	"heart rate response to recovery post exercise"	15	8	7	65.2173913043478
+"609"	"heart rate variability measurement"	8	0	8	100
+"610"	"heel bone mineral density"	162	74	88	68.6440677966102
+"611"	"height-adjusted body mass index"	2	1	1	66.6666666666667
+"612"	"hematocrit"	111	78	33	58.7301587301587
+"613"	"hematological measurement"	1	1	0	50
+"614"	"Hemifacial microsomia"	5	2	3	71.4285714285714
+"615"	"hemoglobin A1 measurement"	1	1	0	50
+"616"	"hemoglobin A2 measurement"	1	1	0	50
+"617"	"hemoglobin measurement"	145	99	46	59.4262295081967
+"618"	"hemoglobin measurement, fetal hemoglobin measurement"	1	1	0	50
+"619"	"hemoglobin measurement, hemoglobin A2 measurement"	1	1	0	50
+"620"	"hemoglobin measurement, mean corpuscular hemoglobin"	7	6	1	53.8461538461539
+"621"	"hemoglobin measurement, mean corpuscular hemoglobin concentration"	4	4	0	50
+"622"	"hepatitis B virus infection"	7	2	5	77.7777777777778
+"623"	"hepatitis B virus infection, hepatocellular carcinoma"	1	1	0	50
+"624"	"hepatitis B virus infection, Susceptibility to viral and mycobacterial infections"	2	2	0	50
+"625"	"Hepatitis B virus surface antigen seropositivity, chronic hepatitis B virus infection"	1	1	0	50
+"626"	"hepatitis C induced liver cirrhosis"	1	1	0	50
+"627"	"hepatitis C virus infection, cirrhosis of liver"	1	1	0	50
+"628"	"hepatocellular carcinoma"	5	3	2	62.5
+"629"	"hepatocyte growth factor-like protein measurement"	1	1	0	50
+"630"	"hepatocyte growth factor measurement"	1	0	1	100
+"631"	"hepatocyte growth factor receptor measurement"	1	1	0	50
+"632"	"hepcidin:ferritin ratio"	4	3	1	57.1428571428571
+"633"	"hepcidin:transferrin saturation ratio"	2	2	0	50
+"634"	"herpes virus seropositivity"	1	0	1	100
+"635"	"Herpes Zoster"	1	0	1	100
+"636"	"high density lipoprotein cholesterol measurement"	635	330	305	65.8031088082902
+"637"	"high density lipoprotein cholesterol measurement, metabolic syndrome"	1	1	0	50
+"638"	"hip bone mineral density"	4	3	1	57.1428571428571
+"639"	"hip bone mineral density, age at menarche"	1	1	0	50
+"640"	"hip bone mineral density, hip bone size"	3	0	3	100
+"641"	"hip bone size"	5	2	3	71.4285714285714
+"642"	"hip circumference"	50	26	24	65.7894736842105
+"643"	"hip circumference, psychosocial stress measurement"	1	0	1	100
+"644"	"hippocampal atrophy"	3	2	1	60
+"645"	"hippocampal CA4 volume"	1	1	0	50
+"646"	"hippocampal sclerosis of aging"	1	1	0	50
+"647"	"hippocampal volume"	5	0	5	100
+"648"	"hippocampal volume, brain volume measurement"	2	0	2	100
+"649"	"Hirschsprung disease"	2	0	2	100
+"650"	"HIV-1 infection"	6	4	2	60
+"651"	"HIV-1 infection, bilirubin measurement"	1	1	0	50
+"652"	"HIV-1 infection, cognitive impairment measurement"	1	0	1	100
+"653"	"HIV-1 infection, Susceptibility to viral and mycobacterial infections"	1	1	0	50
+"654"	"HIV-1 infection, viral load"	3	2	1	60
+"655"	"HIV-associated neurocognitive disorder, asymptomatic neurocognitive impairment"	1	0	1	100
+"656"	"HMG CoA reductase inhibitor use measurement"	13	11	2	54.1666666666667
+"657"	"Hodgkins lymphoma"	3	3	0	50
+"658"	"Hodgkins lymphoma, multiple myeloma, chronic lymphocytic leukemia"	3	1	2	75
+"659"	"HOMA-B"	7	4	3	63.6363636363636
+"660"	"HOMA-IR"	1	0	1	100
+"661"	"homocysteine measurement"	13	11	2	54.1666666666667
+"662"	"hormone measurement"	9	8	1	52.9411764705882
+"663"	"hormone measurement, free androgen index"	1	1	0	50
+"664"	"hormone measurement, progesterone measurement"	1	1	0	50
+"665"	"hormone measurement, thyroid stimulating hormone measurement"	29	17	12	63.0434782608696
+"666"	"hormone measurement, thyroxine measurement"	7	7	0	50
+"667"	"household income"	26	19	7	57.7777777777778
+"668"	"human Chorionic Gonadotropin measurement"	1	0	1	100
+"669"	"HVA measurement, 5-HIAA measurement"	1	1	0	50
+"670"	"HVA measurement, MHPG measurement"	2	1	1	66.6666666666667
+"671"	"hydroxy-leucine measurement"	3	1	2	75
+"672"	"hyperemesis gravidarum"	1	0	1	100
+"673"	"hypersomnia"	2	2	0	50
+"674"	"hypertension"	52	27	25	65.8227848101266
+"675"	"Hyperthyroidism"	1	0	1	100
+"676"	"Hypertriglyceridemia"	1	0	1	100
+"677"	"hypospadias"	13	7	6	65
+"678"	"hypothyroidism"	8	8	0	50
+"679"	"ICAM-1 measurement"	7	3	4	70
+"680"	"idiopathic dilated cardiomyopathy"	1	1	0	50
+"681"	"idiopathic pulmonary fibrosis"	4	1	3	80
+"682"	"IGA glomerulonephritis"	32	27	5	54.2372881355932
+"683"	"IGF-1 measurement"	1	1	0	50
+"684"	"IGFBP-3 measurement"	2	1	1	66.6666666666667
+"685"	"IgG bisecting N-acetyl glucosamine measurement"	2	1	1	66.6666666666667
+"686"	"IgG digalactosylation measurement"	2	1	1	66.6666666666667
+"687"	"IgG disialylation measurement"	2	1	1	66.6666666666667
+"688"	"IgG fucosylation measurement"	1	0	1	100
+"689"	"IgG galactosylation measurement"	3	1	2	75
+"690"	"IgG monogalactosylation measurement"	2	1	1	66.6666666666667
+"691"	"IgG sialylation measurement"	2	1	1	66.6666666666667
+"692"	"ileocolitis, Crohn's disease"	1	0	1	100
+"693"	"immune system disease"	6	5	1	54.5454545454545
+"694"	"immunoglobulin isotype switching measurement"	1	1	0	50
+"695"	"Immunosuppressant use measurement"	1	1	0	50
+"696"	"infant body height"	10	8	2	55.5555555555556
+"697"	"infant head circumference"	4	3	1	57.1428571428571
+"698"	"infant white matter volume measurement"	1	0	1	100
+"699"	"infantile hypertrophic pyloric stenosis"	9	5	4	64.2857142857143
+"700"	"inflammatory biomarker measurement, YKL40 measurement"	3	0	3	100
+"701"	"inflammatory bowel disease"	98	58	40	62.8205128205128
+"702"	"inflammatory response"	1	1	0	50
+"703"	"information processing speed"	9	5	4	64.2857142857143
+"704"	"Inhalant adrenergic use measurement"	3	3	0	50
+"705"	"initial pursuit acceleration"	1	0	1	100
+"706"	"inorganic pyrophosphatase measurement"	1	1	0	50
+"707"	"inosine-5'-monophosphate dehydrogenase 1 measurement"	1	1	0	50
+"708"	"insomnia"	1	1	0	50
+"709"	"insomnia measurement"	28	14	14	66.6666666666667
+"710"	"insulin measurement"	7	1	6	87.5
+"711"	"insulin measurement, glucose tolerance test"	2	1	1	66.6666666666667
+"712"	"insulin receptor measurement"	1	1	0	50
+"713"	"insulin resistance"	3	1	2	75
+"714"	"insulin sensitivity measurement"	5	2	3	71.4285714285714
+"715"	"insulin sensitivity measurement, body mass index"	4	0	4	100
+"716"	"Insulinogenic index measurement"	1	1	0	50
+"717"	"intelligence"	103	65	38	61.3095238095238
+"718"	"intelligence, specific language impairment, dyslexia"	1	1	0	50
+"719"	"intercellular adhesion molecule 2 measurement"	1	1	0	50
+"720"	"intercellular adhesion molecule 5 measurement"	1	0	1	100
+"721"	"interferon gamma measurement"	1	1	0	50
+"722"	"interleukin-1 beta measurement"	2	1	1	66.6666666666667
+"723"	"interleukin-6 measurement"	4	3	1	57.1428571428571
+"724"	"interleukin-6 measurement, chronic obstructive pulmonary disease"	3	2	1	60
+"725"	"interleukin-8 measurement"	1	1	0	50
+"726"	"interleukin 1 receptor-like 1 measurement"	1	0	1	100
+"727"	"interleukin 1 Receptor accessory protein measurement"	1	0	1	100
+"728"	"interleukin 1 receptor antagonist measurement"	3	1	2	75
+"729"	"interleukin 10 measurement"	3	2	1	60
+"730"	"interleukin 12 measurement"	3	3	0	50
+"731"	"interleukin 13 measurement"	3	1	2	75
+"732"	"interleukin 16 measurement"	3	0	3	100
+"733"	"interleukin 17 measurement"	1	0	1	100
+"734"	"interleukin 17 receptor B measurement"	1	1	0	50
+"735"	"interleukin 18 measurement"	4	1	3	80
+"736"	"interleukin 18 receptor 1 measurement"	1	1	0	50
+"737"	"interleukin 2 measurement"	1	1	0	50
+"738"	"interleukin 2 receptor antagonist measurement"	3	2	1	60
+"739"	"interleukin 23 receptor measurement"	1	1	0	50
+"740"	"interleukin 27 receptor subunit alpha measurement"	1	0	1	100
+"741"	"interleukin 4 measurement"	1	0	1	100
+"742"	"interleukin 5 measurement"	1	0	1	100
+"743"	"interleukin 9 measurement"	3	0	3	100
+"744"	"interstitial lung disease"	5	3	2	62.5
+"745"	"intertrochanteric region size"	2	2	0	50
+"746"	"intracerebral hemorrhage"	2	0	2	100
+"747"	"intracranial volume measurement"	2	2	0	50
+"748"	"intraocular pressure measurement"	84	47	37	64.1221374045801
+"749"	"iron biomarker measurement"	4	3	1	57.1428571428571
+"750"	"iron biomarker measurement, ferritin measurement"	4	2	2	66.6666666666667
+"751"	"iron biomarker measurement, serum iron measurement"	4	2	2	66.6666666666667
+"752"	"iron biomarker measurement, total iron binding capacity"	2	2	0	50
+"753"	"iron biomarker measurement, transferrin measurement"	7	5	2	58.3333333333333
+"754"	"iron biomarker measurement, transferrin saturation measurement"	5	4	1	55.5555555555556
+"755"	"irritability measurement"	7	5	2	58.3333333333333
+"756"	"irritable bowel syndrome"	3	2	1	60
+"757"	"Ischemic stroke"	4	0	4	100
+"758"	"Ischemic stroke, cardiac embolism"	1	0	1	100
+"759"	"Ischemic stroke, stroke outcome severity measurement"	3	2	1	60
+"760"	"Ischemic stroke, von Willebrand factor measurement, homocysteine measurement"	1	1	0	50
+"761"	"Isolated craniosynostosis"	1	1	0	50
+"762"	"Isolated scaphocephaly"	2	2	0	50
+"763"	"juvenile idiopathic arthritis"	4	2	2	66.6666666666667
+"764"	"Keloid"	1	1	0	50
+"765"	"keratinocyte carcinoma"	16	8	8	66.6666666666667
+"766"	"kininogen-1 measurement"	1	1	0	50
+"767"	"kit ligand measurement"	1	1	0	50
+"768"	"Knee pain"	1	1	0	50
+"769"	"L-arginine measurement, amino acid measurement"	1	0	1	100
+"770"	"L-Selectin measurement"	1	1	0	50
+"771"	"language impairment"	1	1	0	50
+"772"	"large artery stroke"	2	1	1	66.6666666666667
+"773"	"late-onset Alzheimers disease"	3	1	2	75
+"774"	"LDL cholesterol change measurement"	3	2	1	60
+"775"	"LDL peak particle diameter measurement, total fat intake measurement"	1	0	1	100
+"776"	"lean body mass"	1	0	1	100
+"777"	"lean mass-adjusted fat body mass, femoral neck bone mineral density"	1	0	1	100
+"778"	"left ventricular diastolic function measurement"	1	0	1	100
+"779"	"left ventricular structural measurement"	3	1	2	75
+"780"	"lentiform nucleus measurement"	5	3	2	62.5
+"781"	"leprosy"	11	4	7	73.3333333333333
+"782"	"leptin measurement"	44	8	36	84.6153846153846
+"783"	"leukocyte count"	72	42	30	63.1578947368421
+"784"	"leukopenia, response to thiopurine, inflammatory bowel disease"	1	0	1	100
+"785"	"Lewy body dementia"	1	0	1	100
+"786"	"Lewy body dementia, Lewy body dementia measurement"	1	1	0	50
+"787"	"lifestyle measurement, diastolic blood pressure"	2	2	0	50
+"788"	"lifestyle measurement, systolic blood pressure"	1	0	1	100
+"789"	"limited scleroderma"	1	1	0	50
+"790"	"linguistic error measurement, specific language impairment"	2	0	2	100
+"791"	"linoleic acid measurement"	3	2	1	60
+"792"	"lipid measurement"	6	3	3	66.6666666666667
+"793"	"lipid measurement, blood metabolite measurement"	2	1	1	66.6666666666667
+"794"	"lipoprotein-associated phospholipase A(2) measurement"	11	6	5	64.7058823529412
+"795"	"lipoprotein-associated phospholipase A(2) measurement, acute coronary syndrome, coronary artery disease"	3	3	0	50
+"796"	"lipoprotein A measurement"	4	3	1	57.1428571428571
+"797"	"lipoprotein A measurement, apolipoprotein A 1 measurement"	1	1	0	50
+"798"	"lipoprotein A measurement, coronary artery disease"	1	0	1	100
+"799"	"lipoprotein measurement"	3	3	0	50
+"800"	"lipoprotein measurement, blood metabolite measurement"	6	5	1	54.5454545454545
+"801"	"liver enzyme measurement, serum alanine aminotransferase measurement"	1	1	0	50
+"802"	"liver fat measurement, liver disease biomarker"	3	2	1	60
+"803"	"lobe size"	1	1	0	50
+"804"	"loneliness measurement"	2	2	0	50
+"805"	"longevity"	17	7	10	70.8333333333333
+"806"	"longevity, healthspan, parental longevity"	6	4	2	60
+"807"	"longitudinal alcohol consumption measurement"	3	0	3	100
+"808"	"longitudinal BMI measurement"	3	2	1	60
+"809"	"longitudinal BMI measurement, age at assessment"	1	0	1	100
+"810"	"low density lipoprotein cholesterol measurement"	514	265	249	65.982028241335
+"811"	"low density lipoprotein cholesterol measurement, alcohol consumption measurement"	31	19	12	62
+"812"	"low density lipoprotein cholesterol measurement, alcohol drinking"	54	37	17	59.3406593406593
+"813"	"low density lipoprotein cholesterol measurement, C-reactive protein measurement"	4	2	2	66.6666666666667
+"814"	"low density lipoprotein cholesterol measurement, coronary artery disease"	1	1	0	50
+"815"	"low density lipoprotein cholesterol measurement, physical activity"	8	4	4	66.6666666666667
+"816"	"low tension glaucoma"	1	1	0	50
+"817"	"lower urinary tract symptom, benign prostatic hyperplasia"	3	1	2	75
+"818"	"lumbar disc degeneration"	4	3	1	57.1428571428571
+"819"	"lung adenocarcinoma"	15	5	10	75
+"820"	"lung carcinoma"	13	6	7	68.4210526315789
+"821"	"lung carcinoma, estrogen-receptor negative breast cancer, colorectal cancer, ovarian endometrioid carcinoma, prostate carcinoma, ovarian serous carcinoma, breast carcinoma, ovarian carcinoma, lung adenocarcinoma, squamous cell lung carcinoma"	3	2	1	60
+"822"	"lung carcinoma, estrogen-receptor negative breast cancer, colorectal cancer, ovarian endometrioid carcinoma, prostate carcinoma, ovarian serous carcinoma, breast carcinoma, ovarian carcinoma, squamous cell lung carcinoma, lung adenocarcinoma"	1	1	0	50
+"823"	"lung carcinoma, family history of lung cancer"	2	1	1	66.6666666666667
+"824"	"lung carcinoma, squamous cell carcinoma, gastric carcinoma"	1	1	0	50
+"825"	"lymphocyte count"	116	76	40	60.4166666666667
+"826"	"lymphocyte percentage of leukocytes"	29	21	8	58
+"827"	"lymphoid leukemia"	1	0	1	100
+"828"	"lymphoma"	2	2	0	50
+"829"	"lysine measurement, amino acid measurement"	1	0	1	100
+"830"	"lysosomal protective protein measurement"	1	1	0	50
+"831"	"macrophage colony stimulating factor measurement"	1	0	1	100
+"832"	"macrophage inflammatory protein 1a measurement"	1	0	1	100
+"833"	"macrophage inflammatory protein 1b measurement"	9	0	9	100
+"834"	"macrophage migration inhibitory factor measurement"	2	1	1	66.6666666666667
+"835"	"macrophage scavenger receptor types I and II measurement"	1	0	1	100
+"836"	"magnesium measurement"	7	5	2	58.3333333333333
+"837"	"magnesium:calcium ratio"	1	1	0	50
+"838"	"malaria"	3	0	3	100
+"839"	"malate measurement"	1	0	1	100
+"840"	"Malignant epithelial tumor of ovary"	5	4	1	55.5555555555556
+"841"	"mannose-binding protein C measurement"	1	1	0	50
+"842"	"mathematical ability"	129	72	57	64.1791044776119
+"843"	"matrix metalloproteinase 10 measurement"	3	2	1	60
+"844"	"matrix metalloproteinase 12 measurement"	1	0	1	100
+"845"	"matrix metalloproteinase measurement"	4	3	1	57.1428571428571
+"846"	"matrix metalloproteinase measurement, Alzheimer's disease, Alzheimer's disease biomarker measurement"	1	1	0	50
+"847"	"mean arterial pressure"	60	40	20	60
+"848"	"mean arterial pressure, alcohol consumption measurement"	4	1	3	80
+"849"	"mean arterial pressure, alcohol drinking"	5	4	1	55.5555555555556
+"850"	"mean arterial pressure, blood pressure, age at assessment"	1	1	0	50
+"851"	"mean arterial pressure, response to cold pressor test"	1	1	0	50
+"852"	"mean arterial pressure, response to high sodium diet, response to dietary potassium supplementation"	1	1	0	50
+"853"	"mean corpuscular hemoglobin"	77	49	28	61.1111111111111
+"854"	"mean corpuscular hemoglobin concentration"	97	45	52	68.3098591549296
+"855"	"mean corpuscular volume"	194	124	70	61.0062893081761
+"856"	"mean platelet volume"	166	69	97	70.6382978723404
+"857"	"mean reticulocyte volume"	26	19	7	57.7777777777778
+"858"	"melanoma"	13	9	4	59.0909090909091
+"859"	"membranous glomerulonephritis"	1	1	0	50
+"860"	"memory performance"	3	3	0	50
+"861"	"Meningioma"	1	1	0	50
+"862"	"Menorrhagia"	1	0	1	100
+"863"	"menstrual cycle measurement"	1	0	1	100
+"864"	"metabolic rate measurement"	1	0	1	100
+"865"	"metabolic syndrome"	31	15	16	67.3913043478261
+"866"	"metabolite measurement"	27	20	7	57.4468085106383
+"867"	"methamphetamine-induced psychosis"	1	0	1	100
+"868"	"methionine aminopeptidase 2 measurement"	1	1	0	50
+"869"	"methionine measurement"	1	0	1	100
+"870"	"MHC class I polypeptide-related sequence A measurement"	2	2	0	50
+"871"	"MHC class I polypeptide-related sequence B measurement"	4	4	0	50
+"872"	"MHPG measurement"	3	2	1	60
+"873"	"MHPG measurement, 5-HIAA measurement"	1	1	0	50
+"874"	"microglial activation measurement"	1	0	1	100
+"875"	"migraine disorder"	13	11	2	54.1666666666667
+"876"	"migraine with aura"	1	1	0	50
+"877"	"migraine without aura"	3	3	0	50
+"878"	"MMR-related febrile seizures"	8	4	4	66.6666666666667
+"879"	"Moderate albuminuria"	3	3	0	50
+"880"	"Modic type vertebral endplate changes"	2	0	2	100
+"881"	"monoclonal gammopathy"	1	0	1	100
+"882"	"monocyte count"	127	80	47	61.3526570048309
+"883"	"monocyte percentage of leukocytes"	37	27	10	57.8125
+"884"	"monokine induced by gamma interferon measurement"	3	1	2	75
+"885"	"mood instability measurement"	4	1	3	80
+"886"	"mosaic loss of chromosome Y measurement"	4	0	4	100
+"887"	"mosquito bite reaction itch intensity measurement"	6	4	2	60
+"888"	"mosquito bite reaction itch intensity measurement, mosquito bite reaction size measurement"	16	6	10	72.7272727272727
+"889"	"mosquito bite reaction size measurement"	5	3	2	62.5
+"890"	"motion sickness"	19	14	5	57.5757575757576
+"891"	"motor function measurement, response to zonisamide, response to levodopa"	2	0	2	100
+"892"	"mouth morphology measurement"	1	1	0	50
+"893"	"Moyamoya disease"	2	0	2	100
+"894"	"mucocutaneous lymph node syndrome"	10	5	5	66.6666666666667
+"895"	"multiple births measurement"	1	0	1	100
+"896"	"multiple myeloma"	12	5	7	70.5882352941176
+"897"	"multiple sclerosis"	92	60	32	60.5263157894737
+"898"	"multiple sclerosis, Epstein Barr virus nuclear antigen 1 IgG measurement"	1	1	0	50
+"899"	"multiple sclerosis, response to interferon beta, anti-drug antibody measurement"	1	1	0	50
+"900"	"multiple system atrophy"	2	1	1	66.6666666666667
+"901"	"multisite chronic pain"	1	1	0	50
+"902"	"Myasthenia gravis"	3	3	0	50
+"903"	"myeloid cell surface antigen CD33 measurement"	1	1	0	50
+"904"	"myeloid white cell count"	86	50	36	63.2352941176471
+"905"	"myeloperoxidase measurement"	5	4	1	55.5555555555556
+"906"	"myeloproliferative disorder"	4	3	1	57.1428571428571
+"907"	"myocardial infarction"	26	11	15	70.2702702702703
+"908"	"myocardial infarction, coronary artery disease"	1	1	0	50
+"909"	"Myopia"	1	0	1	100
+"910"	"N-glycan measurement"	9	9	0	50
+"911"	"narcolepsy with cataplexy"	3	3	0	50
+"912"	"narcolepsy with cataplexy, age at onset"	1	1	0	50
+"913"	"Nasal Cavity Polyp"	4	2	2	66.6666666666667
+"914"	"nasopharyngeal neoplasm"	1	0	1	100
+"915"	"natural cytotoxicity triggering receptor 3 measurement"	1	1	0	50
+"916"	"nausea and vomiting of pregnancy severity measurement"	1	0	1	100
+"917"	"neonate, birth weight"	1	1	0	50
+"918"	"neonate, fat body mass"	1	1	0	50
+"919"	"neonate, sum of skinfolds"	2	2	0	50
+"920"	"neoplasm of mature B-cells"	7	5	2	58.3333333333333
+"921"	"Nephroblastoma"	2	2	0	50
+"922"	"nephrolithiasis"	4	2	2	66.6666666666667
+"923"	"nephrotic syndrome"	1	1	0	50
+"924"	"nervousness"	1	0	1	100
+"925"	"neuritic plaque measurement"	7	4	3	63.6363636363636
+"926"	"neuroblastoma"	13	10	3	56.5217391304348
+"927"	"neuroblastoma, cutaneous melanoma"	2	0	2	100
+"928"	"neurofibrillary tangles measurement"	3	1	2	75
+"929"	"neuroimaging measurement, South Texas Assessment of Neurocognition"	1	0	1	100
+"930"	"neurotic disorder"	2	1	1	66.6666666666667
+"931"	"neuroticism measurement"	69	43	26	61.6071428571429
+"932"	"neutrophil count"	99	56	43	63.8709677419355
+"933"	"neutrophil count, basophil count"	13	8	5	61.9047619047619
+"934"	"neutrophil count, eosinophil count"	13	9	4	59.0909090909091
+"935"	"neutrophil percentage of granulocytes"	10	4	6	71.4285714285714
+"936"	"neutrophil percentage of leukocytes"	24	16	8	60
+"937"	"nevus count, cutaneous melanoma"	5	1	4	83.3333333333333
+"938"	"nicotine dependence"	4	3	1	57.1428571428571
+"939"	"nicotine dependence symptom count"	7	5	2	58.3333333333333
+"940"	"nicotine glucuronidation measurement"	1	1	0	50
+"941"	"nicotine use"	1	1	0	50
+"942"	"nicotine withdrawal measurement"	1	0	1	100
+"943"	"nighttime rest measurement"	3	1	2	75
+"944"	"nitric oxide exhalation measurement"	5	5	0	50
+"945"	"non-alcoholic fatty liver disease"	3	2	1	60
+"946"	"non-alcoholic fatty liver disease severity measurement"	3	3	0	50
+"947"	"non-alcoholic fatty liver disease, cirrhosis of liver"	7	4	3	63.6363636363636
+"948"	"non-dense area measurement, mammographic density measurement"	1	1	0	50
+"949"	"non-Hodgkins lymphoma"	1	1	0	50
+"950"	"non-melanoma skin carcinoma"	8	2	6	80
+"951"	"non-receptor tyrosine-protein kinase TYK2 measurement"	1	0	1	100
+"952"	"non-small cell lung carcinoma"	7	5	2	58.3333333333333
+"953"	"Non-steroidal anti-inflammatory and antirheumatic product use measurement"	1	1	0	50
+"954"	"non-word reading"	1	1	0	50
+"955"	"nose morphology measurement"	3	2	1	60
+"956"	"nucleus accumbens volume"	1	0	1	100
+"957"	"obese body mass index status"	3	3	0	50
+"958"	"obese body mass index status, urate measurement"	3	1	2	75
+"959"	"obesity"	75	42	33	64.1025641025641
+"960"	"obsessive-compulsive symptom measurement"	1	0	1	100
+"961"	"OCIA domain-containing protein 1 measurement"	1	0	1	100
+"962"	"odontogenesis"	14	8	6	63.6363636363636
+"963"	"oleic acid measurement"	3	3	0	50
+"964"	"omega-3 polyunsaturated fatty acid measurement"	1	1	0	50
+"965"	"omega-3 polyunsaturated fatty acid measurement, metabolic syndrome"	1	1	0	50
+"966"	"omega-6 polyunsaturated fatty acid measurement"	13	13	0	50
+"967"	"omega-6:omega-3 polyunsaturated fatty acid ratio, metabolic syndrome"	2	1	1	66.6666666666667
+"968"	"open-angle glaucoma"	17	13	4	56.6666666666667
+"969"	"opioid dependence"	1	0	1	100
+"970"	"opioid dependence, methadone dose measurement"	1	1	0	50
+"971"	"Opioid use measurement"	2	0	2	100
+"972"	"optic cup area measurement"	35	23	12	60.3448275862069
+"973"	"optic disc area measurement"	29	25	4	53.7037037037037
+"974"	"optic disc measurement"	1	1	0	50
+"975"	"optic disc size measurement"	39	29	10	57.3529411764706
+"976"	"Oral ulcer"	8	5	3	61.5384615384615
+"977"	"ornithine measurement, amino acid measurement"	1	0	1	100
+"978"	"ossification of the posterior longitudinal ligament of the spine"	2	0	2	100
+"979"	"osteitis deformans"	6	3	3	66.6666666666667
+"980"	"osteoarthritis"	6	3	3	66.6666666666667
+"981"	"osteoarthritis biomarker measurement"	1	0	1	100
+"982"	"osteoarthritis, hip"	3	0	3	100
+"983"	"osteoarthritis, hip, osteoarthritis, knee"	1	1	0	50
+"984"	"osteoarthritis, knee"	3	2	1	60
+"985"	"osteoporosis"	2	2	0	50
+"986"	"osteoprotegerin measurement"	3	0	3	100
+"987"	"osteosarcoma"	1	1	0	50
+"988"	"ototoxicity, response to cisplatin"	3	2	1	60
+"989"	"outer ear morphology trait"	1	1	0	50
+"990"	"ovarian carcinoma"	21	16	5	56.7567567567568
+"991"	"ovarian clear cell adenocarcinoma"	1	0	1	100
+"992"	"ovarian mucinous adenocarcinoma"	1	0	1	100
+"993"	"ovarian serous carcinoma"	12	9	3	57.1428571428571
+"994"	"overall survival, pancreatic carcinoma"	6	2	4	75
+"995"	"overweight body mass index status"	1	0	1	100
+"996"	"OX-2 membrane glycoprotein measurement"	1	1	0	50
+"997"	"oxygen saturation measurement, chronic obstructive pulmonary disease"	1	0	1	100
+"998"	"oxytocin measurement"	1	1	0	50
+"999"	"P-Selectin measurement"	1	1	0	50
+"1000"	"p-tau measurement"	1	1	0	50
+"1001"	"P wave duration"	2	2	0	50
+"1002"	"pain"	1	0	1	100
+"1003"	"pallidum volume"	2	0	2	100
+"1004"	"palmitoleic acid measurement"	1	1	0	50
+"1005"	"pancreatic carcinoma"	26	11	15	70.2702702702703
+"1006"	"pancreatitis"	2	2	0	50
+"1007"	"panic disorder"	1	1	0	50
+"1008"	"pappalysin***1 measurement"	1	1	0	50
+"1009"	"parathyroid hormone measurement"	1	1	0	50
+"1010"	"parental emotion expression measurmement, conduct disorder"	3	2	1	60
+"1011"	"parental longevity"	47	17	30	73.4375
+"1012"	"Parkinson's disease"	46	19	27	70.7692307692308
+"1013"	"Parkinson's disease, motor function measurement, response to levodopa"	1	1	0	50
+"1014"	"partial epilepsy"	1	0	1	100
+"1015"	"partial thromboplastin time"	8	4	4	66.6666666666667
+"1016"	"pathological myopia"	6	3	3	66.6666666666667
+"1017"	"PCSK9 protein measurement"	2	2	0	50
+"1018"	"peak expiratory flow"	16	11	5	59.2592592592593
+"1019"	"peak insulin response measurement"	2	1	1	66.6666666666667
+"1020"	"peanut allergy measurement"	1	1	0	50
+"1021"	"pelvic organ prolapse"	4	2	2	66.6666666666667
+"1022"	"pemphigus"	1	1	0	50
+"1023"	"pemphigus vulgaris"	2	1	1	66.6666666666667
+"1024"	"pepsinogen I/II ratio"	1	1	0	50
+"1025"	"peptidyl-prolyl cis-trans isomerase D measurement"	1	1	0	50
+"1026"	"perceived unattractiveness to mosquitos measurement"	2	2	0	50
+"1027"	"periodontitis"	16	6	10	72.7272727272727
+"1028"	"peripheral arterial disease"	6	4	2	60
+"1029"	"peripheral arterial disease, traffic air pollution measurement"	2	1	1	66.6666666666667
+"1030"	"peripheral neuropathy, acute lymphoblastic leukemia, response to vincristine"	1	1	0	50
+"1031"	"peripheral neuropathy, breast carcinoma, response to taxane"	1	1	0	50
+"1032"	"periprosthetic osteolysis, total hip arthroplasty, disease progression measurement"	1	1	0	50
+"1033"	"personality trait"	6	4	2	60
+"1034"	"phosphatidylcholine ether measurement"	1	1	0	50
+"1035"	"phosphatidylcholine measurement"	4	4	0	50
+"1036"	"phosphatidylethanolamine ether measurement"	2	2	0	50
+"1037"	"phosphatidylethanolamine measurement"	1	1	0	50
+"1038"	"phosphatidylinositol measurement"	5	0	5	100
+"1039"	"phospholipase A2, membrane associated measurement, C-reactive protein measurement"	1	0	1	100
+"1040"	"phosphorus measurement"	2	2	0	50
+"1041"	"physical activity"	9	6	3	60
+"1042"	"physical activity measurement"	5	1	4	83.3333333333333
+"1043"	"physical activity measurement, body mass index"	177	124	53	58.8039867109634
+"1044"	"phytosterol measurement"	1	1	0	50
+"1045"	"pit and fissure surface dental caries"	4	3	1	57.1428571428571
+"1046"	"plasma betaine measurement, angiographic measurement"	1	0	1	100
+"1047"	"plasma kallikrein measurement"	1	1	0	50
+"1048"	"plasma renin activity measurement"	1	1	0	50
+"1049"	"platelet-derived growth factor BB measurement"	4	1	3	80
+"1050"	"platelet-derived growth factor receptor beta measurement"	1	1	0	50
+"1051"	"platelet aggregation"	18	16	2	52.9411764705882
+"1052"	"platelet component distribution width"	32	19	13	62.7450980392157
+"1053"	"platelet count"	198	111	87	64.0776699029126
+"1054"	"platelet crit"	51	35	16	59.3023255813953
+"1055"	"platelet endothelial cell adhesion molecule measurement"	2	2	0	50
+"1056"	"platelet glycoprotein 4 measurement"	1	1	0	50
+"1057"	"platelet glycoprotein VI measurement"	1	1	0	50
+"1058"	"plexin-C1 measurement"	1	1	0	50
+"1059"	"pneumoconiosis, response to silica exposure"	1	1	0	50
+"1060"	"polycystic ovary syndrome"	15	6	9	71.4285714285714
+"1061"	"positive regulation of ovulation"	1	0	1	100
+"1062"	"postburn hypertrophic scarring severity measurement"	2	1	1	66.6666666666667
+"1063"	"potassium measurement"	2	2	0	50
+"1064"	"PR interval"	49	34	15	59.0361445783133
+"1065"	"PR segment"	4	3	1	57.1428571428571
+"1066"	"preeclampsia, parental genotype effect measurement"	1	0	1	100
+"1067"	"premature birth, parental genotype effect measurement"	1	1	0	50
+"1068"	"primary angle closure glaucoma"	7	5	2	58.3333333333333
+"1069"	"primary biliary cirrhosis"	22	15	7	59.4594594594595
+"1070"	"progranulin measurement"	9	6	3	60
+"1071"	"progression free survival, metastatic colorectal cancer, response to cetuximab, response to CAPOX-B"	2	1	1	66.6666666666667
+"1072"	"Progressive supranuclear palsy"	1	1	0	50
+"1073"	"proline measurement, amino acid measurement"	1	0	1	100
+"1074"	"proprotein convertase subtilisin/kexin type 7 measurement"	1	1	0	50
+"1075"	"prostate carcinoma"	222	101	121	68.7306501547988
+"1076"	"prostate specific antigen measurement"	18	5	13	78.2608695652174
+"1077"	"protein C measurement"	5	4	1	55.5555555555556
+"1078"	"protein jagged-1 measurement"	1	1	0	50
+"1079"	"protein measurement"	9	4	5	69.2307692307692
+"1080"	"protein S measurement, hematological measurement"	1	1	0	50
+"1081"	"prothrombin time measurement"	1	1	0	50
+"1082"	"psoriasis"	77	47	30	62.0967741935484
+"1083"	"psoriasis vulgaris"	12	7	5	63.1578947368421
+"1084"	"psoriatic arthritis"	2	1	1	66.6666666666667
+"1085"	"puberty onset measurement"	15	10	5	60
+"1086"	"puberty, height growth measurement"	8	2	6	80
+"1087"	"pulmonary arterial hypertension"	1	1	0	50
+"1088"	"pulmonary function measurement"	6	5	1	54.5454545454545
+"1089"	"pulmonary function measurement, FEV/FEC ratio"	14	7	7	66.6666666666667
+"1090"	"pulmonary function measurement, forced expiratory volume"	6	4	2	60
+"1091"	"pulmonary function measurement, forced expiratory volume, asthma"	2	1	1	66.6666666666667
+"1092"	"pulmonary function measurement, forced expiratory volume, smoking behaviour measurement"	3	1	2	75
+"1093"	"pulmonary function measurement, smoking behaviour measurement, FEV/FEC ratio"	16	6	10	72.7272727272727
+"1094"	"pulse pressure measurement"	118	53	65	69.0058479532164
+"1095"	"pulse pressure measurement, alcohol consumption measurement"	1	1	0	50
+"1096"	"pulse pressure measurement, alcohol drinking"	3	3	0	50
+"1097"	"pursuit maintenance gain measurement"	4	3	1	57.1428571428571
+"1098"	"putamen volume"	3	1	2	75
+"1099"	"pyroglutamine measurement"	1	0	1	100
+"1100"	"QRS duration"	52	39	13	57.1428571428571
+"1101"	"QT interval"	60	39	21	60.6060606060606
+"1102"	"QT interval, particulate matter air pollution measurement"	1	0	1	100
+"1103"	"QT interval, response to tricyclic antidepressant"	1	1	0	50
+"1104"	"quality of life during menstruation measurement, acne"	3	2	1	60
+"1105"	"quality of life during menstruation measurement, aggressive behavior"	1	1	0	50
+"1106"	"quality of life during menstruation measurement, decreased attention"	1	0	1	100
+"1107"	"quality of life during menstruation measurement, eating behaviour"	1	1	0	50
+"1108"	"reading and spelling ability"	15	6	9	71.4285714285714
+"1109"	"recalcitrant atopic dermatitis"	1	1	0	50
+"1110"	"receptive language perception, parental genotype effect measurement"	1	0	1	100
+"1111"	"rectum cancer"	2	2	0	50
+"1112"	"red blood cell density measurement"	68	40	28	62.962962962963
+"1113"	"red blood cell distribution width"	99	51	48	66
+"1114"	"refractive error measurement"	28	13	15	68.2926829268293
+"1115"	"refractory celiac disease"	1	1	0	50
+"1116"	"remission, hepatitis C virus infection"	3	3	0	50
+"1117"	"renal cell carcinoma"	4	3	1	57.1428571428571
+"1118"	"renal sinus adipose tissue measurement"	2	1	1	66.6666666666667
+"1119"	"renal system measurement"	9	7	2	56.25
+"1120"	"renal system measurement, blood urea nitrogen measurement"	8	5	3	61.5384615384615
+"1121"	"renal system measurement, uric acid measurement"	3	2	1	60
+"1122"	"resistin measurement"	5	5	0	50
+"1123"	"response to 5' fluorouracil, response to antineoplastic agent"	1	1	0	50
+"1124"	"response to alcohol"	1	0	1	100
+"1125"	"response to anticoagulant"	2	2	0	50
+"1126"	"response to antidepressant"	5	3	2	62.5
+"1127"	"response to antineoplastic agent"	8	4	4	66.6666666666667
+"1128"	"response to antineoplastic agent, response to anthracycline-based chemotherapy"	2	2	0	50
+"1129"	"response to antineoplastic agent, response to antimetabolite"	1	1	0	50
+"1130"	"response to antineoplastic agent, response to antimicrotubule agent"	2	0	2	100
+"1131"	"response to aromatase inhibitor, estrogen-receptor positive breast cancer"	1	0	1	100
+"1132"	"response to beta blocker, heart rate"	6	1	5	85.7142857142857
+"1133"	"response to bleomycin, chromatid break measurement, response to antibiotic"	2	2	0	50
+"1134"	"response to bronchodilator, asthma"	2	1	1	66.6666666666667
+"1135"	"response to bronchodilator, chronic obstructive pulmonary disease, FEV/FEC ratio"	21	13	8	61.7647058823529
+"1136"	"response to bronchodilator, FEV/FEC ratio"	53	28	25	65.4320987654321
+"1137"	"response to candesartan, hypertension"	1	1	0	50
+"1138"	"response to carboplatin, response to antineoplastic agent"	1	1	0	50
+"1139"	"response to carboplatin, response to paclitaxel, response to antineoplastic agent"	1	0	1	100
+"1140"	"response to cisplatin, response to antineoplastic agent"	2	1	1	66.6666666666667
+"1141"	"response to cyclophosphamide, chemotherapy-induced alopecia, response to 5' fluorouracil, response to doxorubicin"	2	0	2	100
+"1142"	"response to cyclophosphamide, response to antineoplastic agent"	1	0	1	100
+"1143"	"response to dalcetrapib, acute coronary syndrome, cardiovascular event measurement"	1	0	1	100
+"1144"	"response to darapladib, acute coronary syndrome, lipoprotein-associated phospholipase A(2) change measurement, coronary artery disease"	1	1	0	50
+"1145"	"response to diisocyanate, asthma"	3	3	0	50
+"1146"	"response to diuretic"	1	0	1	100
+"1147"	"response to drug, epilepsy"	1	1	0	50
+"1148"	"response to etoposide, response to antineoplastic agent"	1	0	1	100
+"1149"	"response to fenofibrate"	2	2	0	50
+"1150"	"response to gases and fumes exposure, forced expiratory volume"	2	1	1	66.6666666666667
+"1151"	"response to glucocorticoid, osteonecrosis"	2	0	2	100
+"1152"	"response to high fat food intake, triglyceride change measurement"	2	1	1	66.6666666666667
+"1153"	"response to hydrochlorothiazide, diastolic blood pressure change measurement, hypertension"	1	0	1	100
+"1154"	"response to hydrochlorothiazide, fasting blood glucose measurement"	7	5	2	58.3333333333333
+"1155"	"response to hydrochlorothiazide, hypertension, systolic blood pressure change measurement"	1	1	0	50
+"1156"	"response to hydrochlorothiazide, triglyceride measurement"	2	1	1	66.6666666666667
+"1157"	"response to iloperidone"	3	1	2	75
+"1158"	"response to interferon beta"	1	0	1	100
+"1159"	"response to irinotecan, non-small cell lung carcinoma"	2	2	0	50
+"1160"	"response to methotrexate, rheumatoid arthritis"	1	0	1	100
+"1161"	"response to olanzapine"	1	1	0	50
+"1162"	"response to paclitaxel, response to antineoplastic agent"	1	1	0	50
+"1163"	"response to platinum based chemotherapy, non-small cell lung carcinoma"	1	0	1	100
+"1164"	"response to radiation, breast carcinoma, childhood cancer"	1	0	1	100
+"1165"	"response to radiation, prostate carcinoma"	4	3	1	57.1428571428571
+"1166"	"response to risperidone"	1	1	0	50
+"1167"	"response to simvastatin, PCSK9 protein measurement"	1	1	0	50
+"1168"	"response to statin"	6	5	1	54.5454545454545
+"1169"	"response to statin, LDL cholesterol change measurement"	4	4	0	50
+"1170"	"response to statin, low density lipoprotein cholesterol measurement"	2	2	0	50
+"1171"	"response to statin, rhabdomyolysis"	1	0	1	100
+"1172"	"response to stress, systolic blood pressure change measurement"	1	1	0	50
+"1173"	"response to sulfonylurea, QT interval"	3	2	1	60
+"1174"	"response to tamoxifen, HER2 status, estrogen-receptor positive breast cancer"	1	0	1	100
+"1175"	"response to tamsulosin"	3	0	3	100
+"1176"	"response to thiazide, hypertension, glucose measurement"	1	1	0	50
+"1177"	"response to thiazide, QT interval"	1	0	1	100
+"1178"	"response to thiopurine, thiopurine immunosuppressant-induced pancreatitis, inflammatory bowel disease"	1	1	0	50
+"1179"	"response to TNF antagonist"	4	3	1	57.1428571428571
+"1180"	"response to transplant, GFR change measurement"	1	0	1	100
+"1181"	"response to trauma exposure"	2	1	1	66.6666666666667
+"1182"	"response to triamcinolone acetonide, intraocular pressure change measurement"	1	1	0	50
+"1183"	"response to vaccine"	1	0	1	100
+"1184"	"response to vaccine, cytokine measurement"	3	3	0	50
+"1185"	"response to venlafaxine, generalized anxiety disorder"	2	2	0	50
+"1186"	"resting heart rate"	18	9	9	66.6666666666667
+"1187"	"resting metabolic rate measurement"	1	1	0	50
+"1188"	"restless legs syndrome"	7	3	4	70
+"1189"	"reticulocyte count"	117	67	50	63.5869565217391
+"1190"	"reticulocyte measurement"	71	40	31	63.963963963964
+"1191"	"retinal vasculature measurement"	2	2	0	50
+"1192"	"retinopathy"	1	1	0	50
+"1193"	"retinopathy, type II diabetes mellitus"	1	0	1	100
+"1194"	"rheumatoid arthritis"	216	131	85	62.2478386167147
+"1195"	"rheumatoid arthritis, carotid atherosclerosis"	1	0	1	100
+"1196"	"risk-taking behaviour"	32	17	15	65.3061224489796
+"1197"	"risky sexual behaviour measurement"	2	0	2	100
+"1198"	"rosacea severity measurement"	11	2	9	84.6153846153846
+"1199"	"RR interval"	3	2	1	60
+"1200"	"salivary gland lesion, autoimmune pancreatitis type 1, lachrymal gland lesion"	1	0	1	100
+"1201"	"salivary metabolite measurement, urate measurement"	1	1	0	50
+"1202"	"Sarcoidosis"	1	0	1	100
+"1203"	"schizophrenia"	271	143	128	65.4589371980676
+"1204"	"schizophrenia, antipsychotic drug use measurement, schizoaffective disorder"	1	1	0	50
+"1205"	"schizophrenia, autism spectrum disorder"	19	12	7	61.2903225806452
+"1206"	"schizophrenia, bipolar disorder"	2	1	1	66.6666666666667
+"1207"	"schizophrenia, bipolar disorder, attempted suicide"	1	0	1	100
+"1208"	"schizophrenia, bipolar disorder, response to lithium ion"	2	0	2	100
+"1209"	"schizophrenia, heart rate variability measurement, response to antipsychotic drug"	2	1	1	66.6666666666667
+"1210"	"schizophrenia, response to clozapine"	2	2	0	50
+"1211"	"schizophrenia, response to haloperidol"	1	1	0	50
+"1212"	"schizophrenia, response to olanzapine"	1	1	0	50
+"1213"	"schizophrenia, response to paliperidone, schizophrenia symptom severity measurement"	14	1	13	93.3333333333333
+"1214"	"schizophrenia, response to perphenazine"	1	0	1	100
+"1215"	"schizophrenia, response to quetiapine"	2	2	0	50
+"1216"	"schizophrenia, response to risperidone"	1	1	0	50
+"1217"	"sclerosing cholangitis"	11	8	3	57.8947368421053
+"1218"	"seasonal allergic rhinitis"	5	4	1	55.5555555555556
+"1219"	"seasonal allergic rhinitis, asthma"	6	2	4	75
+"1220"	"seasonality measurement"	1	0	1	100
+"1221"	"selenium measurement"	12	9	3	57.1428571428571
+"1222"	"Self-injurious behavior"	2	0	2	100
+"1223"	"self rated health"	2	1	1	66.6666666666667
+"1224"	"self reported educational attainment"	145	77	68	65.3153153153153
+"1225"	"self reported educational attainment, refractive error measurement"	12	8	4	60
+"1226"	"Sensory impairment, Charcot-Marie-Tooth disease type 1A"	1	0	1	100
+"1227"	"sensory perception of bitter taste"	4	4	0	50
+"1228"	"sensory perception of smell"	2	0	2	100
+"1229"	"sensory perception of sweet taste"	1	0	1	100
+"1230"	"sensory perception of taste"	2	1	1	66.6666666666667
+"1231"	"serine measurement, amino acid measurement"	4	2	2	66.6666666666667
+"1232"	"serine/threonine-protein kinase 17B measurement"	1	0	1	100
+"1233"	"seropositivity measurement, Chlamydia pneumoniae seropositivity"	1	1	0	50
+"1234"	"serum alanine aminotransferase measurement"	24	9	15	72.7272727272727
+"1235"	"serum alanine aminotransferase measurement, non-alcoholic fatty liver disease"	1	1	0	50
+"1236"	"serum alanine aminotransferase measurement, response to combination chemotherapy, acute lymphoblastic leukemia"	2	1	1	66.6666666666667
+"1237"	"serum albumin measurement"	5	3	2	62.5
+"1238"	"serum alpha-1-antitrypsin measurement"	2	1	1	66.6666666666667
+"1239"	"serum amyloid A protein measurement"	1	1	0	50
+"1240"	"serum carcinoembryonic antigen measurement"	4	4	0	50
+"1241"	"serum galactose-deficient IgA1 measurement"	1	1	0	50
+"1242"	"serum gamma-glutamyl transferase measurement"	15	6	9	71.4285714285714
+"1243"	"serum hepcidin measurement"	1	1	0	50
+"1244"	"serum homoarginine measurement"	1	1	0	50
+"1245"	"serum IgA measurement"	3	3	0	50
+"1246"	"serum IgE measurement"	5	4	1	55.5555555555556
+"1247"	"serum IgG glycosylation measurement"	208	73	135	74.0213523131673
+"1248"	"serum IgG measurement, response to dietary antigen"	1	1	0	50
+"1249"	"serum IgM measurement"	6	2	4	75
+"1250"	"serum iron measurement"	2	1	1	66.6666666666667
+"1251"	"serum lipase activity measurement"	1	1	0	50
+"1252"	"serum metabolite measurement"	8	5	3	61.5384615384615
+"1253"	"serum non-albumin protein measurement"	1	1	0	50
+"1254"	"serum selenium measurement"	1	1	0	50
+"1255"	"serum ST2 measurement"	2	1	1	66.6666666666667
+"1256"	"serum urea measurement"	1	1	0	50
+"1257"	"sex hormone-binding globulin measurement"	217	94	123	69.7749196141479
+"1258"	"sex interaction measurement, body mass index, age at assessment"	6	2	4	75
+"1259"	"sexual dysfunction"	1	0	1	100
+"1260"	"short-term memory"	1	0	1	100
+"1261"	"shoulder impingement syndrome"	2	0	2	100
+"1262"	"sialic acid-binding Ig-like lectin 14 measurement"	1	1	0	50
+"1263"	"sialic acid-binding Ig-like lectin 9 measurement"	1	1	0	50
+"1264"	"Sickle cell anemia"	1	0	1	100
+"1265"	"sitting height ratio"	8	1	7	88.8888888888889
+"1266"	"Sjogren syndrome"	3	2	1	60
+"1267"	"skin aging measurement"	11	6	5	64.7058823529412
+"1268"	"skin pigmentation"	10	7	3	58.8235294117647
+"1269"	"skin pigmentation measurement"	5	4	1	55.5555555555556
+"1270"	"skin sensitivity to sun"	1	1	0	50
+"1271"	"SLAM family member 7 measurement"	1	1	0	50
+"1272"	"sleep apnea measurement"	1	0	1	100
+"1273"	"sleep duration"	11	8	3	57.8947368421053
+"1274"	"sleep quality"	2	2	0	50
+"1275"	"small vessel stroke"	2	2	0	50
+"1276"	"smoking behavior"	22	12	10	64.7058823529412
+"1277"	"smoking behavior, BMI-adjusted waist-hip ratio"	92	50	42	64.7887323943662
+"1278"	"smoking behavior, BMI-adjusted waist circumference"	101	57	44	63.9240506329114
+"1279"	"smoking behavior, body mass index"	219	119	100	64.792899408284
+"1280"	"smoking behavior, emphysema pattern measurement"	5	3	2	62.5
+"1281"	"smoking behavior, forced expiratory volume"	1	1	0	50
+"1282"	"smoking behaviour measurement"	7	4	3	63.6363636363636
+"1283"	"smoking behaviour measurement, body mass index"	1	1	0	50
+"1284"	"smoking behaviour measurement, waist-hip ratio"	1	0	1	100
+"1285"	"smoking cessation"	9	7	2	56.25
+"1286"	"smoking initiation"	24	16	8	60
+"1287"	"smoking status measurement"	58	44	14	56.8627450980392
+"1288"	"smoking status measurement, carotid artery intima media thickness"	3	1	2	75
+"1289"	"smoking status measurement, fibrinogen measurement"	1	0	1	100
+"1290"	"smoking status measurement, forced expiratory volume"	1	1	0	50
+"1291"	"smoking status measurement, lung carcinoma"	6	3	3	66.6666666666667
+"1292"	"smooth surface dental caries"	6	0	6	100
+"1293"	"snoring measurement"	11	1	10	91.6666666666667
+"1294"	"social interaction measurement"	1	1	0	50
+"1295"	"sodium measurement"	8	5	3	61.5384615384615
+"1296"	"sodium measurement, diastolic blood pressure"	1	1	0	50
+"1297"	"soluble gp130 measurement"	1	0	1	100
+"1298"	"soluble transferrin receptor measurement, iron biomarker measurement"	3	1	2	75
+"1299"	"SPARC-like protein 1 measurement"	1	1	0	50
+"1300"	"specific language impairment"	1	1	0	50
+"1301"	"speech perception"	2	2	0	50
+"1302"	"sphingolipid measurement"	6	3	3	66.6666666666667
+"1303"	"sphingolipid measurement, blood metabolite measurement"	5	5	0	50
+"1304"	"sphingomyelin measurement"	1	1	0	50
+"1305"	"spine bone mineral density"	8	7	1	53.3333333333333
+"1306"	"spine bone size"	3	3	0	50
+"1307"	"spontaneous coronary artery dissection"	2	2	0	50
+"1308"	"sporadic Creutzfeld Jacob disease"	2	1	1	66.6666666666667
+"1309"	"squamous cell carcinoma"	7	5	2	58.3333333333333
+"1310"	"squamous cell carcinoma, esophageal carcinoma"	3	0	3	100
+"1311"	"squamous cell carcinoma, multiple keratinocyte carcinoma susceptibility measurement, basal cell carcinoma"	1	0	1	100
+"1312"	"squamous cell lung carcinoma"	6	3	3	66.6666666666667
+"1313"	"ST2 protein measurement"	2	1	1	66.6666666666667
+"1314"	"stem Cell Factor measurement"	6	5	1	54.5454545454545
+"1315"	"stem Cell Growth Factor beta measurement"	1	0	1	100
+"1316"	"Stevens-Johnson syndrome, toxic epidermal necrolysis"	4	1	3	80
+"1317"	"stricture, Crohn's disease"	1	1	0	50
+"1318"	"stricture, Crohn's disease, complicated disease course"	1	1	0	50
+"1319"	"stroke"	7	3	4	70
+"1320"	"stroke, coronary artery disease"	1	1	0	50
+"1321"	"stromal cell-derived factor 1 alpha measurement"	2	0	2	100
+"1322"	"stromelysin***2 measurement"	1	1	0	50
+"1323"	"subcutaneous adipose tissue measurement"	11	6	5	64.7058823529412
+"1324"	"sucrose liking measurement"	1	0	1	100
+"1325"	"sugar consumption measurement"	3	3	0	50
+"1326"	"suicidal ideation"	3	1	2	75
+"1327"	"suicide behaviour measurement"	1	0	1	100
+"1328"	"suicide ideation measurement, unipolar depression"	1	1	0	50
+"1329"	"sunburn"	2	1	1	66.6666666666667
+"1330"	"suntan"	8	5	3	61.5384615384615
+"1331"	"superior frontal gyrus grey matter volume measurement"	2	0	2	100
+"1332"	"survival time, breast carcinoma"	2	0	2	100
+"1333"	"susceptibility to cold sores measurement"	1	1	0	50
+"1334"	"susceptibility to infectious disease measurement"	3	0	3	100
+"1335"	"susceptibility to mumps measurement"	1	0	1	100
+"1336"	"sweet beverage consumption measurement"	2	2	0	50
+"1337"	"sweet liking measurement"	1	1	0	50
+"1338"	"systemic juvenile idiopathic arthritis, polyarticular juvenile idiopathic arthritis, rheumatoid factor negative, oligoarticular juvenile idiopathic arthritis"	1	1	0	50
+"1339"	"systemic lupus erythematosus"	65	51	14	56.0344827586207
+"1340"	"systemic lupus erythematosus, lupus nephritis"	2	1	1	66.6666666666667
+"1341"	"systemic scleroderma"	7	6	1	53.8461538461539
+"1342"	"systemic scleroderma, Crohn's disease"	1	1	0	50
+"1343"	"systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus"	3	3	0	50
+"1344"	"systolic blood pressure"	209	119	90	63.719512195122
+"1345"	"systolic blood pressure change measurement"	1	1	0	50
+"1346"	"systolic blood pressure, alcohol consumption measurement"	4	1	3	80
+"1347"	"systolic blood pressure, alcohol drinking"	8	4	4	66.6666666666667
+"1348"	"systolic blood pressure, response to cold pressor test"	1	1	0	50
+"1349"	"T-cell immunoglobulin and mucin domain 1 measurement"	1	1	0	50
+"1350"	"t-tau measurement"	5	3	2	62.5
+"1351"	"t-tau:beta-amyloid 1-42 ratio measurement"	1	0	1	100
+"1352"	"T wave morphology measurement"	4	0	4	100
+"1353"	"Takayasu arteritis"	2	1	1	66.6666666666667
+"1354"	"tea consumption measurement"	10	6	4	62.5
+"1355"	"telomere length"	17	14	3	54.8387096774194
+"1356"	"temperament and character inventory"	6	4	2	60
+"1357"	"temporal arteritis"	1	1	0	50
+"1358"	"testicular carcinoma"	22	17	5	56.4102564102564
+"1359"	"Testicular Germ Cell Tumor"	34	21	13	61.8181818181818
+"1360"	"testosterone measurement"	107	39	68	73.2876712328767
+"1361"	"Tetralogy of Fallot"	4	3	1	57.1428571428571
+"1362"	"thrombomodulin measurement"	2	0	2	100
+"1363"	"thyroid carcinoma"	9	9	0	50
+"1364"	"thyroid function"	3	1	2	75
+"1365"	"thyroid peroxidase antibody measurement"	6	5	1	54.5454545454545
+"1366"	"Thyroid preparation use measurement"	13	11	2	54.1666666666667
+"1367"	"thyroid stimulating hormone measurement"	13	8	5	61.9047619047619
+"1368"	"thyroid volume"	5	1	4	83.3333333333333
+"1369"	"thyroxine measurement"	2	1	1	66.6666666666667
+"1370"	"ticagrelor measurement, acute coronary syndrome"	2	0	2	100
+"1371"	"time to first cigarette measurement"	1	0	1	100
+"1372"	"tissue factor measurement"	3	3	0	50
+"1373"	"tissue plasminogen activator measurement"	3	1	2	75
+"1374"	"TNF-related apoptosis-inducing ligand measurement"	4	0	4	100
+"1375"	"tobacco smoke exposure measurement"	3	3	0	50
+"1376"	"toll-like receptor 4:Lymphocyte antigen 96 complex measurement"	1	1	0	50
+"1377"	"tonsillectomy risk measurement"	3	3	0	50
+"1378"	"tooth eruption"	13	7	6	65
+"1379"	"total blood protein measurement"	3	2	1	60
+"1380"	"total cholesterol measurement"	466	256	210	64.5429362880887
+"1381"	"total cholesterol measurement, C-reactive protein measurement"	6	1	5	85.7142857142857
+"1382"	"total cholesterol measurement, coronary artery disease"	1	0	1	100
+"1383"	"total iron binding capacity"	7	3	4	70
+"1384"	"Tourette syndrome"	4	4	0	50
+"1385"	"TPE interval measurement"	9	5	4	64.2857142857143
+"1386"	"trans fatty acid measurement, trans-16:1n-7 fatty acid measurement"	3	2	1	60
+"1387"	"trans fatty acid measurement, trans/trans-18:2 fatty acid measurement"	3	2	1	60
+"1388"	"trans/cis-18:2 fatty acid measurement, trans fatty acid measurement"	1	0	1	100
+"1389"	"transferrin measurement"	1	1	0	50
+"1390"	"transferrin saturation measurement"	3	1	2	75
+"1391"	"trauma exposure measurement"	4	1	3	80
+"1392"	"treatment-resistant hypertension"	3	2	1	60
+"1393"	"treatment refractory schizophrenia, response to clozapine"	1	1	0	50
+"1394"	"trefoil factor 3 measurement"	1	1	0	50
+"1395"	"triglyceride change measurement, response to exercise"	1	0	1	100
+"1396"	"triglyceride measurement"	531	245	286	68.4278350515464
+"1397"	"triglyceride measurement, alcohol consumption measurement"	32	13	19	71.1111111111111
+"1398"	"triglyceride measurement, alcohol drinking"	65	29	36	69.1489361702128
+"1399"	"triglyceride measurement, C-reactive protein measurement"	8	5	3	61.5384615384615
+"1400"	"triglyceride measurement, high density lipoprotein cholesterol measurement"	3	1	2	75
+"1401"	"triglyceride measurement, metabolic syndrome"	2	0	2	100
+"1402"	"triglyceride measurement, physical activity"	3	1	2	75
+"1403"	"triple-negative breast cancer"	1	0	1	100
+"1404"	"trochanter size"	2	2	0	50
+"1405"	"Tuberculosis"	5	1	4	83.3333333333333
+"1406"	"Tuberculosis, response to anti-tuberculosis drug, drug-induced liver injury"	1	0	1	100
+"1407"	"tumor necrosis factor-alpha measurement"	2	1	1	66.6666666666667
+"1408"	"tumor necrosis factor beta measurement"	2	1	1	66.6666666666667
+"1409"	"tumor necrosis factor ligand superfamily member 14 measurement"	1	0	1	100
+"1410"	"tumor necrosis factor measurement"	2	1	1	66.6666666666667
+"1411"	"tumor necrosis factor receptor II measurement"	2	2	0	50
+"1412"	"tumor necrosis factor receptor superfamily member 6 measurement"	1	1	0	50
+"1413"	"tumor necrosis factor, receptor superfamily, member 5 measurement"	1	1	0	50
+"1414"	"type 1 diabetes nephropathy"	4	3	1	57.1428571428571
+"1415"	"type 1 diabetes nephropathy, chronic kidney disease"	1	1	0	50
+"1416"	"type I diabetes mellitus"	51	33	18	60.7142857142857
+"1417"	"type I diabetes mellitus, chronic kidney disease"	1	1	0	50
+"1418"	"type I diabetes mellitus, erectile dysfunction"	1	1	0	50
+"1419"	"type II diabetes mellitus"	592	286	306	67.4259681093394
+"1420"	"ulcerative colitis"	92	50	42	64.7887323943662
+"1421"	"ulcerative colitis, Crohn's disease"	1	0	1	100
+"1422"	"unipolar depression"	51	30	21	62.962962962963
+"1423"	"unipolar depression, anxiety"	1	1	0	50
+"1424"	"unipolar depression, autism spectrum disorder"	1	1	0	50
+"1425"	"unipolar depression, bipolar disorder"	7	4	3	63.6363636363636
+"1426"	"unipolar depression, mental or behavioural disorder, bipolar disorder"	1	1	0	50
+"1427"	"unipolar depression, mood disorder"	3	2	1	60
+"1428"	"unipolar depression, neuroticism measurement"	2	1	1	66.6666666666667
+"1429"	"unipolar depression, response to ketamine, dissociation measurement, bipolar disorder"	2	0	2	100
+"1430"	"unipolar depression, response to trauma exposure, trauma exposure measurement"	6	2	4	75
+"1431"	"unipolar depression, schizophrenia"	5	3	2	62.5
+"1432"	"unipolar depression, schizophrenia, bipolar disorder, attempted suicide"	6	0	6	100
+"1433"	"unipolar depression, suicidal ideation, bipolar disorder"	1	1	0	50
+"1434"	"upper aerodigestive tract neoplasm"	2	2	0	50
+"1435"	"urate measurement"	146	75	71	66.0633484162896
+"1436"	"urate measurement, body mass index"	8	3	5	72.7272727272727
+"1437"	"urate measurement, overweight body mass index status"	11	6	5	64.7058823529412
+"1438"	"urate measurement, underweight body mass index status"	6	4	2	60
+"1439"	"uric acid measurement"	44	22	22	66.6666666666667
+"1440"	"urinary albumin to creatinine ratio"	25	16	9	60.9756097560976
+"1441"	"urinary metabolite measurement"	43	15	28	74.1379310344828
+"1442"	"urinary nitrogen measurement"	2	0	2	100
+"1443"	"urinary pH measurement"	2	2	0	50
+"1444"	"urinary potassium to creatinine ratio"	1	0	1	100
+"1445"	"urinary sodium to creatinine ratio"	2	0	2	100
+"1446"	"urinary sodium to potassium ratio"	1	0	1	100
+"1447"	"urinary uromodulin measurement"	1	0	1	100
+"1448"	"urolithiasis"	1	1	0	50
+"1449"	"uterine fibroid"	8	4	4	66.6666666666667
+"1450"	"uterine fibroid measurement"	1	1	0	50
+"1451"	"Uveal Melanoma"	2	2	0	50
+"1452"	"vaccenic acid measurement"	2	2	0	50
+"1453"	"Varicose veins"	4	1	3	80
+"1454"	"vascular dementia"	1	0	1	100
+"1455"	"vascular endothelial growth factor measurement"	3	1	2	75
+"1456"	"vascular endothelial growth factor receptor 2 measurement"	1	1	0	50
+"1457"	"vascular endothelial growth factor receptor 3 measurement"	1	1	0	50
+"1458"	"vaspin measurement"	1	1	0	50
+"1459"	"velocity of sound measurement"	5	3	2	62.5
+"1460"	"venous thromboembolism"	19	16	3	54.2857142857143
+"1461"	"ventricular ectopy"	1	1	0	50
+"1462"	"ventricular enlargement measurement"	1	1	0	50
+"1463"	"very long-chain saturated fatty acid measurement"	7	1	6	87.5
+"1464"	"visceral adipose tissue measurement"	24	13	11	64.8648648648649
+"1465"	"visceral adipose tissue measurement, body mass index"	14	9	5	60.8695652173913
+"1466"	"visceral:subcutaneous adipose tissue ratio"	14	12	2	53.8461538461539
+"1467"	"vital capacity"	17	12	5	58.6206896551724
+"1468"	"vitamin A measurement"	1	1	0	50
+"1469"	"vitamin B12 measurement"	8	7	1	53.3333333333333
+"1470"	"vitamin B6 measurement"	1	0	1	100
+"1471"	"vitamin D measurement"	35	15	20	70
+"1472"	"vitamin D measurement, vitamin D dietary intake measurement"	1	0	1	100
+"1473"	"vitamin E measurement"	1	1	0	50
+"1474"	"vitamin K-dependent protein C measurement"	1	1	0	50
+"1475"	"Vitiligo"	25	17	8	59.5238095238095
+"1476"	"Vogt-Koyanagi-Harada disease"	1	0	1	100
+"1477"	"volumetric bone mineral density"	6	4	2	60
+"1478"	"von Willebrand factor measurement"	4	2	2	66.6666666666667
+"1479"	"waist-hip ratio"	187	103	84	64.4827586206897
+"1480"	"waist circumference"	61	37	24	62.2448979591837
+"1481"	"waist circumference, triglyceride measurement, low density lipoprotein cholesterol measurement, cardiovascular disease, high density lipoprotein cholesterol measurement, age at assessment"	1	0	1	100
+"1482"	"wellbeing measurement"	33	22	11	60
+"1483"	"wet macular degeneration"	1	1	0	50
+"1484"	"white matter hyperintensity measurement"	7	4	3	63.6363636363636
+"1485"	"white matter lesion progression measurement"	1	1	0	50
+"1486"	"word list delayed recall measurement, memory performance"	8	3	5	72.7272727272727
+"1487"	"word reading"	2	0	2	100
+"1488"	"worry measurement"	4	2	2	66.6666666666667
+"1489"	"YKL40 measurement"	1	1	0	50
+"1490"	"Yu-Zhi constitution type, type II diabetes mellitus"	1	1	0	50
