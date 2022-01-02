@@ -36,7 +36,6 @@ date: "12/17/2020"
 fetch 1OVY
 ```
 <br/>
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ![1OVY_1](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_1.png?raw=true){width=30%}
 <br/><br/>
@@ -47,17 +46,20 @@ select helix, (ss h)
 create ahelix, (helix)
 ```
 <br/>
+
 ![](Pics\1OVY_2.png){width=30%}\
 <br/><br/>
 Отобразим водородные связи.\
 Для этого выберем пункт в меню **[A] -> find -> polar contacts -> excluding solvent**\
 <br/>
+
 ![](Pics\1OVY_3_1.png){width=30%}\
 <br/><br/>
 Отобразим длины водородных связей\
 Для этого выберем водородные связи и нажмем **[S] -> show -> labels**\
 Также отобразим спирали в ином виде **[S] -> show as -> sticks**, чтобы было ясно, что с чем соединяют водородные связи.\
 <br/>
+
 ![](Pics\1OVY_4_3.png){width=35%}\
 <br/><br/>
 Найдем длины 3 водородных связей:
@@ -68,6 +70,7 @@ get_distance /ahelix/A/A/ARG`84/H, /ahelix/A/A/LEU`80/O
 get_distance /ahelix/A/A/ALA`85/C, /ahelix/A/A/GLU`87/C
 ```
 <br/>
+
 ![](Pics\1OVY_5_1.png){width=30%}
 ![](Pics\1OVY_5_2.png){width=30%}
 ![](Pics\1OVY_5_3.png){width=30%}\
@@ -85,6 +88,7 @@ run get_raw_distances
 get_mean_distance ahelix_polar_cont
 ```
 <br/>
+
 ![](Pics\1OVY_8.png){width=80%}
 <br/><br/><br/>
 
@@ -99,6 +103,7 @@ align 1ILY, 1OVY, object=alnobj
   4. Раскрасим мисмэтчи красным (части 1ILY) и желтым (части 1OVY) и индели фиолетовым\
 <br/>
 <center>
+  
 ![](Pics\1OVY_7.png){width=100%}
 </center>
 
