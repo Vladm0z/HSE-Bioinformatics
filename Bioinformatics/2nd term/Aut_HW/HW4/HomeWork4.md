@@ -36,7 +36,7 @@ date: "12/17/2020"
 fetch 1OVY
 ```
 <br/>
-![](https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_1.png)
+![](https://raw.githubusercontent.com/Vladm0z/HSE-minor-bioinf/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_1.png){width=30%}
 <br/><br/>
 Выберем альфа спираль
 
@@ -45,7 +45,7 @@ select helix, (ss h)
 create ahelix, (helix)
 ```
 <br/>
-![](Pics\1OVY_2.png)\
+![](Pics\1OVY_2.png){width=30%}\
 <br/><br/>
 Отобразим водородные связи.\
 Для этого выберем пункт в меню **[A] -> find -> polar contacts -> excluding solvent**\
