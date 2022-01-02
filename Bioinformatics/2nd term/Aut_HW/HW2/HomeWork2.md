@@ -2,9 +2,6 @@
 title: "Домашняя работа 2"
 author: "Владислав Мозговой"
 date: "11/04/2020"
-output: 
-      html_document:
-        keep_md: true
 ---
 
 ## Цели : 
