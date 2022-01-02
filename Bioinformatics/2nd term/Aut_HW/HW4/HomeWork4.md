@@ -104,7 +104,7 @@ align 1ILY, 1OVY, object=alnobj
 <br/>
 <center>
   
-![](Pics\1OVY_7.png){width=100%}
+![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_7.png?raw=true)
 </center>
 
   
