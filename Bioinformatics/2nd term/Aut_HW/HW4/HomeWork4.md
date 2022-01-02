@@ -2,9 +2,6 @@
 title: "Ribosomal Protein L18"
 author: "Vladislav Mozgovoy"
 date: "12/17/2020"
-output: 
-      html_document:
-        keep_md: true
 ---
 
 
