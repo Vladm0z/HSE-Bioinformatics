@@ -37,7 +37,7 @@ fetch 1OVY
 ```
 <br/>
 
-![1OVY_1](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_1.png?raw=true | width=30%)
+![1OVY_1](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_1.png?raw=true)
 <br/><br/>
 Выберем альфа спираль
 
@@ -47,20 +47,20 @@ create ahelix, (helix)
 ```
 <br/>
 
-![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_2.png?raw=true | width=30%)\
+![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_2.png?raw=true)\
 <br/><br/>
 Отобразим водородные связи.\
 Для этого выберем пункт в меню **[A] -> find -> polar contacts -> excluding solvent**\
 <br/>
 
-![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_3_1.png?raw=true | width=30%)\
+![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_3_1.png?raw=true)\
 <br/><br/>
 Отобразим длины водородных связей\
 Для этого выберем водородные связи и нажмем **[S] -> show -> labels**\
 Также отобразим спирали в ином виде **[S] -> show as -> sticks**, чтобы было ясно, что с чем соединяют водородные связи.\
 <br/>
 
-![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_4_3.png?raw=true | width=35%)\
+![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_4_3.png?raw=true)\
 <br/><br/>
 Найдем длины 3 водородных связей:
 
@@ -71,9 +71,9 @@ get_distance /ahelix/A/A/ALA`85/C, /ahelix/A/A/GLU`87/C
 ```
 <br/>
 
-![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_5_1.png?raw=true | width=30%)
-![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_5_2.png?raw=true | width=30%)
-![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_5_3.png?raw=true | width=30%)\
+![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_5_1.png?raw=true)
+![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_5_2.png?raw=true)
+![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_5_3.png?raw=true)\
 <br/><br/><br/>
 
 ##### Ответы на вопросы:
@@ -89,7 +89,7 @@ get_mean_distance ahelix_polar_cont
 ```
 <br/>
 
-![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_8.png?raw=true | width=80%)
+![](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Aut_HW/HW4/Pics/1OVY_8.png?raw=true)
 <br/><br/><br/>
 
 #### Задание 2:
