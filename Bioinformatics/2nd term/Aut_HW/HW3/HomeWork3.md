@@ -2,9 +2,6 @@
 title: "SARS-CoV-2"
 author: "Vladislav Mozgovoy"
 date: "11/22/2020"
-output: 
-      html_document:
-        keep_md: true
 ---
 
 
