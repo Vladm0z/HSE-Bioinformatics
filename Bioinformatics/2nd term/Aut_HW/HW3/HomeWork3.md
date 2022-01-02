@@ -23,7 +23,7 @@ date: "11/22/2020"
 
 ##### Построение деревьев
 Выровнием последовательности алгоритмом Muscle с cluster method: UPGMA, получим [выровненные последовательности](https://drive.google.com/file/d/1kc6_OVghl_PA2pgcyYUtXgKXkGD4Fk4z/view?usp=drivesdk)
-Далее построим деревья различными методами -- Maximum Likelihood(ML), Neighbor Joining(NJ), Maximum Parsimony, UPGMA.
+Далее построим деревья различными методами - Maximum Likelihood(ML), Neighbor Joining(NJ), Maximum Parsimony, UPGMA.
 
 [ML](https://drive.google.com/file/d/1pj5pk_VupiLs5DvEZbg0DwibLgN7KF1O/view?usp=sharing)
 ![](Tree/ML.png)
@@ -51,7 +51,7 @@ date: "11/22/2020"
 
 #### Поиск различий
 
-Отдельно рассмотрим пары из самой ближне и самой дальней страны в дереве, то есть USA и Egypt для ML,NJ,Parsimony и Phillipines и Egypt для UPGMA.
+Отдельно рассмотрим пары из самой ближне и самой дальней страны в дереве, то есть USA и Egypt для ML, NJ, Parsimony и Phillipines и Egypt для UPGMA.
 Для повышения точности выровнием отдельно эти пары стран, а затем выделим мутации, выбрав в mega x: toggle conserved sites 100%.
 
 Найдем мутации Egypt относительно USA
