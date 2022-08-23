@@ -42,7 +42,7 @@
 - [Условия]()
 - [Пример выполненной работы](https://github.com/Vladm0z/hse_hw3_chromhmm)
 - [Colab](https://colab.research.google.com/drive/193FaoroB4THIwNYAfyW5RI7WS-3elKVw?usp=sharing)
-- 
+
 #### HW4
 - [Условия](https://docs.google.com/document/d/1iHAbO8ygHzO8tXACq_bMFZ1oIp8sl5goqv-KMMOiZ8k/edit?usp=sharing)
 - [Пример выполненной работы](https://github.com/Vladm0z/hse_hw4_scRNA_seq)
