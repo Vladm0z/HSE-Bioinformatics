@@ -8,6 +8,7 @@
 - [Лекция часть 3](https://www.youtube.com/watch?v=TsZvUb_5xgU&list=PLtumM-yEAJRcpJh7DHZPgvYNkv5T24hBK&index=3)
 - [Презентация](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Lect/1%20-%20(09.09.2020)/MinorLecure1.ppt)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Sem/1%20-%20(09.09.2020)/MinorSeminar1.pdf)
+- [ipynb семинара (2021)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Aut_1-7.ipynb)
 
 
 #### 2 занятие 09/16/2020
@@ -16,6 +17,7 @@
 - [Презентация](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Lect/2%20-%20(09.16.2020)/MinorLecture2.ppt)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Sem/2%20-%20(09.16.2020)/MinorSeminar2.pdf)
 - [Файлы](https://github.com/Vladm0z/HSE-minor-bioinf/tree/main/Bioinformatics/2nd%20term/Aut_Sem/2%20-%20(09.16.2020))
+- [ipynb семинара (2021)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Aut_1-7.ipynb)
 
 
 #### 3 занятие 09/23/2020
@@ -23,6 +25,7 @@
 - [Семинар](https://www.youtube.com/watch?v=SbFivGCJXso&list=PLtumM-yEAJReBD9-qEIUd7ZqlG3b-gZpW&index=2)
 - [Презентация](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Lect/3%20-%20(09.23.2020)/MinorLecture3.ppt)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Sem/3%20-%20(09.23.2020)/MinorSeminar3.pdf)
+- [ipynb семинара (2021)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Aut_1-7.ipynb)
 
 
 #### 4 занятие 09/30/2020
@@ -30,12 +33,14 @@
 - [Семинар](https://www.youtube.com/watch?v=JMixUK19g6M&list=PLtumM-yEAJReBD9-qEIUd7ZqlG3b-gZpW&index=3)
 - [Презентация](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Lect/4%20-%20(09.30.2020)/MinorLecture4.ppt)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Sem/4%20-%20(09.30.2020)/MinorSeminar4.pdf)
+- [ipynb семинара (2021)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Aut_1-7.ipynb)
 
 
 #### 5 занятие 10/07/2020
 - [Лекция](https://www.youtube.com/watch?v=3kYaQdOp1q8&list=PLtumM-yEAJRcpJh7DHZPgvYNkv5T24hBK&index=7)
 - [Семинар](https://www.youtube.com/watch?v=FsXpjvTMRLs&list=PLtumM-yEAJReBD9-qEIUd7ZqlG3b-gZpW&index=4)
 - [Файлы](https://github.com/Vladm0z/HSE-minor-bioinf/tree/main/Bioinformatics/2nd%20term/Aut_Sem/5%20-%20(10.07.2020))
+- [ipynb семинара (2021)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Aut_1-7.ipynb)
 
 
 #### 6 занятие 10/14/2020
@@ -44,6 +49,7 @@
 - [Презентация](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Lect/6%20-%20(10.14.2020)/MinorLecture6.ppt)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Sem/6%20-%20(10.14.2020)/MinorSeminar6.pdf)
 - [Файлы](https://github.com/Vladm0z/HSE-minor-bioinf/tree/main/Bioinformatics/2nd%20term/Aut_Sem/6%20-%20(10.14.2020))
+- [ipynb семинара (2021)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Aut_1-7.ipynb)
 
 
 #### 7 занятие 10/28/2020
@@ -52,6 +58,7 @@
 - [Презентация](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Lect/7%20-%20(10.28.2020)/MinorLecture7.ppt)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Sem/7%20-%20(10.28.2020)/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%807.pdf)
 - [Файлы](https://github.com/Vladm0z/HSE-minor-bioinf/tree/main/Bioinformatics/2nd%20term/Aut_Sem/7%20-%20(10.28.2020))
+- [ipynb семинара (2021)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Aut_1-7.ipynb)
 
 
 #### 8 занятие 11/11/2020
@@ -59,6 +66,7 @@
 - [Семинар](https://www.youtube.com/watch?v=cQJSgNET4u0&list=PLtumM-yEAJReBD9-qEIUd7ZqlG3b-gZpW&index=8)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Aut_Sem/8%20-%20(11.11.2020)/Semester2Seminar10.pdf)
 - [Файлы](https://github.com/Vladm0z/HSE-minor-bioinf/tree/main/Bioinformatics/2nd%20term/Aut_Sem/8%20-%20(11.11.2020))
+- [ipynb семинара (2021)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Aut_1-7.ipynb)
 
 
 #### 9 занятие 11/18/2020
@@ -106,6 +114,7 @@
 - [Материалы](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Lect/1%20-%20(01.20.21)/%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%20%D1%86%D0%B5%D0%BF%D0%B8%20%D0%BC%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B0.pdf)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Sem/1%20-%20(01.20.21)/Semester2Seminar1.pdf)
 - [Файлы](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Spr_Sem/1%20-%20(01.20.21)/glimmer.ipynb)
+- [ipynb семинара (2022)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Spr_1.ipynb)
 
 
 #### 2 занятие 01/27/2021
@@ -115,6 +124,7 @@
 - [Презентация](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Lect/2%20-%20(01.27.21)/Semester2Lecture2.ppt)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Sem/2%20-%20(01.27.21)/Semester2Seminar2.pdf)
 - [Файлы](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Spr_Sem/2%20-%20(01.27.21)/prokka_rast.ipynb)
+- [ipynb семинара (2022)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Spr_2.ipynb)
 
 
 #### 3 занятие 02/03/2021
@@ -123,6 +133,7 @@
 - [Презентация](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Lect/3%20-%20(02.03.21)/Semester2Lecture3.ppt)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Sem/3%20-%20(02.03.21)/Semester2Seminar3.pdf)
 - [Файлы](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Sem/3%20-%20(02.03.21)/SNPsTo3D.pdf)
+- [ipynb семинара (2022)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Spr_3.ipynb)
 
 
 #### 4 занятие 02/10/2021
@@ -130,12 +141,14 @@
 - [Семинар](https://www.youtube.com/watch?v=k8zEpbHqLO4&list=PLtumM-yEAJReBD9-qEIUd7ZqlG3b-gZpW&index=16)
 - [Презентация](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Lect/4%20-%20(02.10.21)/Semester2Lecture4.ppt)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Sem/4%20-%20(02.10.21)/Semester2Seminar4.pdf)
+- [ipynb семинара (2022)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Spr_4.ipynb)
 
 
 #### 5 занятие 02/17/2021
 - [Лекция](https://www.youtube.com/watch?v=X0_X93BU1eQ&list=PLtumM-yEAJRcpJh7DHZPgvYNkv5T24hBK&index=20)
 - [Презентация](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Lect/5%20-%20(02.17.21)/Semester2Lecture5.pdf)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Sem/5%20-%20(02.17.21)/Semester2Seminar5.pdf)
+- [ipynb семинара (2022)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Spr_5.ipynb)
 
 
 #### 6 занятие 02/24/2021 (Genotek)
@@ -148,6 +161,7 @@
 - [Материалы](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Lect/6%20-%20(02.24.21)/Semester2Lecture6Genotek2021.pdf)
 - [Материалы Семинара](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-minor-bioinf/raw/main/Bioinformatics/2nd%20term/Spr_Sem/6%20-%20(02.24.21)/Semester2Seminar6.pdf)
 - [Файлы](https://github.com/Vladm0z/HSE-minor-bioinf/tree/main/Bioinformatics/2nd%20term/Spr_Sem/6%20-%20(02.24.21))
+- [ipynb семинара (2022)](https://github.com/Vladm0z/HSE-minor-bioinf/blob/main/Bioinformatics/2nd%20term/Sem_ipynb/Spr_6.ipynb)
 
 #### 7 занятие 03/03/2021 (Genotek)
 - [Лекция](https://www.youtube.com/watch?v=xzF3IL9gjkQ&list=PLtumM-yEAJRcpJh7DHZPgvYNkv5T24hBK&index=23)
