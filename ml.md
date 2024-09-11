@@ -1,15 +1,16 @@
 # Методы машинного обучения в биоинформатике
 
 #### Аннотация
-The course introduces the theory and practice of machine learning algorithms and their applications in the area of bioinformatics. The students will learn data preprocessing techniques, methods of dimension reduction, technique of modeling using machine-learning algorithms, parameter tuning. The studied algorithms include linear regression with regularization (ridge regression, elastic net, lasso), multivariate adaptive regression splines, support vector machines, neural networks, k-nearest neighbors, classification and regression trees, random forest, gradient boosting. Workshops, which follow the lectures, seek to empower students with the practical skills in predictive modeling software tools, packages and applications. Many case studies of predictive models for bioinformatics data sets will be considered.
+Язык R — современный язык программирования предназначенный для статистического анализа большого объёма данных. На данный момент R является одним из самых используемых языков программирования в биоинформатике. Цель курса - освоить базовый синтаксис языка R, познакомиться с структурами данных, управляющими конструкциями и графическими возможностями. Курс включает в себя знакомство с функциями R предназначенными для выполнения основных статистических тестов, освоение базовой графики и знакомство с некоторыми биоинформатическими пакетами из Bioconductor.
 
 
+#### Официальный репозиторий
+[GitHub](https://github.com/alllirik/hse_ml_bioinf/tree/main)
 
 #### Формула Оценки
 ДЗ1 * 0.15 + ДЗ2 * 0.15 + ДЗ3 * 0.15 + ДЗ4 * 0.15 + Экз * 0.4
 
 ## Лекции
-
 
 ## Домашние Задания
 ### HW1
