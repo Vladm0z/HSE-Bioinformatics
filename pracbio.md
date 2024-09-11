@@ -1,0 +1,41 @@
+# Домашние задания
+пока только материалы, все остальное появится чуть позже
+
+## Осень
+
+### Лекции
+- [Лекция 1 (09/10/2024)](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%201.pdf)
+
+### HW1
+##### Задание 1
+Определить APOE статус и риск болезни Альцгеймера для полногеномного сиквенса с помощью IGV.
+[BAM (70Гб)](https://storage.yandexcloud.net/genotek-testing/data/vi0006/vi0006.markdup.hg19.bam?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=wgMztS8ws2HPY6sgnw38%2F20240910%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20240910T170208Z&X-Amz-Expires=864000&X-Amz-Signature=673FB8F2B3259D4A5F2326BD88BD7980B1D508D1A2F55075379BF61BD2A6AF69&X-Amz-SignedHeaders=host)
+[BAI](https://storage.yandexcloud.net/genotek-testing/data/vi0006/vi0006.markdup.hg19.bai?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=wgMztS8ws2HPY6sgnw38%2F20240910%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20240910T170237Z&X-Amz-Expires=864000&X-Amz-Signature=955B8DC66CC6C474038D2DFF1D90E354CA9F21D631C6901B1AB032218143BA74&X-Amz-SignedHeaders=host)
+
+##### Задание 2
+Найти человека с синдромом Клайнфельтера. Использовать долю прочтений для X, Y хромосомы. Визуализировать образцы на графике.
+[Data](https://drive.google.com/file/d/1y4EX5VJBc5ZzAWVECgbhZMGMP7EzSRqt/view?usp=drive_link)
+
+##### Задание 3
+Определить сборку BAM (на какой из референсных геномов производилось выравнивание).
+[Data](https://drive.google.com/file/d/1yBwfSk_-UkrYXF3zkjf8hAv-YlD8XNhV/view?usp=drive_link)
+
+##### Задание 4
+Из BAM файла получить BED файл с регионами, покрытие которых 10 и более. С помощью bedtools определить, какая доля гена APOE имеет покрытие x10+.
+[Data](https://drive.google.com/file/d/1y6mscgydlMXj96c0m3xV3kHSci2a498n/view?usp=drive_link)
+
+##### Задание 5
+Определить сборку (референсный геном) VCF файла.
+[Data](https://drive.google.com/file/d/1tB5_aX_PHTfgJBOxrBBgURkVGfd2gtAq/view?usp=drive_link)
+
+##### Задание 6
+Попарно сравнить генотипы для 3 образцов с помощью bcftools. Сделать выводы о родстве.
+[Data](https://drive.google.com/file/d/1yKQC_qn8sDhyflKWvAQpYyDbBiTPvuv4/view?usp=drive_link)
+
+##### Задание 7
+Рассчитать частоты генетических вариантов для трех популяций (AFR, EUR, SAS) и построить scatterplot попарно между популяциями (ось Х – частота в первой популяции, ось Y – частота во второй популяции, точка – генетический вариант с соответствующими частотами)
+[Data](https://drive.google.com/file/d/1yMDb2JGcMfaZ8T6oHVJRB2EPjq3dGos5/view?usp=drive_link)
+
+- [пример выполненной работы]()
+
+
