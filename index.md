@@ -1,14 +1,8 @@
-## Материалы minor "Биоинформатика" ВШЭ
+## Материалы по Биоинформатике ВШЭ
 
-## 1 год
-- [Лекции и Семинары](https://vladm0z.github.io/HSE-minor-bioinf/1st_Lectures)
-- [Квизы](https://vladm0z.github.io/HSE-minor-bioinf/1st_Quiz)
-- [Домашние задания](https://vladm0z.github.io/HSE-minor-bioinf/1st_HW)
+- [Minor]()
+- [MSc Data Analysis in Biology and Medicine]()
 
-## 2 год
-- [Лекции и Семинары](https://vladm0z.github.io/HSE-minor-bioinf/2nd_Lectures)
-- [Квизы](https://vladm0z.github.io/HSE-minor-bioinf/2nd_Quiz)
-- [Домашние задания](https://vladm0z.github.io/HSE-minor-bioinf/2nd_HW)
 
 ## Полезная Литература
 - [книги по биологии, медицине и биоинформатике](https://drive.google.com/folderview?id=1_2W9qSfmhihXvYevmCtSb2pznw8SAy1F)
