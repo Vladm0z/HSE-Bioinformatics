@@ -15,7 +15,7 @@
 
 ## Домашние Задания
 ### HW1
--[Jupiter Notebook](https://github.com/Vladm0z/HSE-Bioinformatics/blob/main/Bioinformatics/MSc/ML/Seminar-1-Tools.ipynb)
+Все в [Jupiter Notebook](https://github.com/Vladm0z/HSE-Bioinformatics/blob/main/Bioinformatics/MSc/ML/Seminar-1-Tools.ipynb)
 
 ### HW2
 
