@@ -1,7 +1,7 @@
 ## Материалы по Биоинформатике ВШЭ
 
-- [Minor]()
-- [MSc Data Analysis in Biology and Medicine]()
+- [Minor](https://vladm0z.github.io/HSE-Bioinformatics/minor)
+- [MSc Data Analysis in Biology and Medicine](https://vladm0z.github.io/HSE-Bioinformatics/msc)
 
 
 ## Полезная Литература
