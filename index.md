@@ -5,7 +5,7 @@
 
 
 ## Полезная Литература
-- [книги по биологии, медицине и биоинформатике](https://drive.google.com/folderview?id=1_2W9qSfmhihXvYevmCtSb2pznw8SAy1F)
+- [книги по биологии, медицине и биоинформатике](https://drive.google.com/folderview?id=1_2W9qSfmhihXvYevmCtSb2pznw8SAy1F) (однажды эта сслыка снова оживет)
 
 ### Контакты
 
