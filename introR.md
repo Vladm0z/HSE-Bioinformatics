@@ -17,7 +17,7 @@
 
 ## Домашние Задания
 
-отправлять на [voytetskiyartem@gmail.com](mailto:voytetskiyartem@gmail.com) (тема R2024)
+отправлять на [voytetskiyartem@gmail.com](mailto:voytetskiyartem@gmail.com) (тема R2024) в .R в UTF-8
 
 ### HW1
 
