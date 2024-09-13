@@ -8,6 +8,8 @@
 ДЗ * 0.6 + Кр1 * 0.2 + Кр2 * 0.2
 
 [ПУД](https://www.hse.ru/edu/courses/900081242)
+[R](https://www.r-project.org/)
+[Rstudio](https://posit.co/download/rstudio-desktop/)
 
 ## Лекции
 
