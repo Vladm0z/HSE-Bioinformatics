@@ -16,6 +16,9 @@
 
 
 ## Домашние Задания
+
+отправлять на [voytetskiyartem@gmail.com](mailto:voytetskiyartem@gmail.com) (тема R2024)
+
 ### HW1
 
 
