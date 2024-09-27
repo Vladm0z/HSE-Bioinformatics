@@ -41,9 +41,15 @@
 [Data](https://drive.google.com/file/d/1yMDb2JGcMfaZ8T6oHVJRB2EPjq3dGos5/view?usp=drive_link)
 
 
-[пример выполненной работы]()
+[пример выполненной работы](https://colab.research.google.com/drive/1Re9ICj2SAEqcDrvhP-rtJgg-LgfydNbZ?usp=sharing)
 
 
 
 ### HW2
-##### Задание 1
+
+Исправить ошибки первого ДЗ
+
+
+
+
+
