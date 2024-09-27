@@ -11,20 +11,4 @@
 #### Формула Оценки
 ДЗ1 * 0.15 + ДЗ2 * 0.15 + ДЗ3 * 0.15 + ДЗ4 * 0.15 + Экз * 0.4
 
-## Лекции
-
-## Домашние Задания
-### HW1
-Все в [Jupiter Notebook](https://github.com/Vladm0z/HSE-Bioinformatics/blob/main/Bioinformatics/MSc/ML/Seminar-1-Tools.ipynb)
-
-### HW2
-
-
-### HW3
-
-
-### HW4
-
-
-
 
