@@ -8,6 +8,7 @@
 ## Лекции
 - [Лекция 1 (09/10/2024)](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%201.pdf)
 - [GWAS tutorial](https://pbreheny.github.io/adv-gwas-tutorial/quality_control.html#fam)
+- [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 ## Домашние Задания
 ### HW1
