@@ -6,7 +6,10 @@
 [ПУД](https://www.hse.ru/edu/courses/900085705) (пока пустой, [хотя быть таким не должен](https://www.hse.ru/studyspravka/programmauchdisc))
 
 ## Лекции
-- [Лекция 1 (09/10/2024)](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%201.pdf)
+- [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PB_Lec1.pdf)
+- [Лекция 4](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PB_Lec4.pdf)
+- [Лекция 5](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PB_Lec5.pdf)
+- [Лекция по GWAS](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Post-GWAS-1_30.09.2024.pdf)
 - [GWAS tutorial](https://pbreheny.github.io/adv-gwas-tutorial/quality_control.html#fam)
 - [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
@@ -50,6 +53,8 @@
 
 Исправить ошибки первого ДЗ
 
+### HW3
+[Мануалы + условия](https://github.com/michtrofimov/hse_data_analysis_MSA/blob/master/README.md#%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
 
 
 
