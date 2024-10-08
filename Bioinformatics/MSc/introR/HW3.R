@@ -1,10 +1,10 @@
 # Part 1
 
 # 1. What type is the variable mtcars?
-typeof(mtcars)   # mtcars is a data.frame
+typeof(mtcars)   # data.frame
 
 # 2. What type is the second column of mtcars?
-typeof(mtcars[, 2])  # The second column is of type 'double'
+typeof(mtcars[, 2])  # 'double'
 
 # 3. How many cylinders does a Fiat 128 have? Print all cars that have the same number of cylinders.
 fiat_cylinders <- mtcars["Fiat 128", "cyl"]
@@ -21,7 +21,7 @@ correlation_matrix <- cor(mtcars)
 print(correlation_matrix)
 
 # 6. What type is the result of the cor function?
-typeof(correlation_matrix)  # The result is a 'double'
+typeof(correlation_matrix)  # 'double'
 
 # 7. With which properties of gasoline consumption is the correlation coefficient less than -0.7 observed?
 # Gasoline consumption is measured by mpg (miles per gallon)
