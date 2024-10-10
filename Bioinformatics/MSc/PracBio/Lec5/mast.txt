@@ -1,0 +1,343 @@
+********************************************************************************
+MAST - Motif Alignment and Search Tool
+********************************************************************************
+	MAST version 5.5.7 (Release date: Wed Jun 19 13:59:04 2024 -0700)
+
+	For further information on how to interpret these results please access https://meme-suite.org/meme.
+	To get a copy of the MAST software please access https://meme-suite.org.
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+	If you use this program in your research, please cite:
+
+	Timothy L. Bailey and Michael Gribskov,
+	"Combining evidence using p-values: application to sequence homology
+	searches", Bioinformatics, 14(48-54), 1998.
+********************************************************************************
+
+
+********************************************************************************
+DATABASE AND MOTIFS
+********************************************************************************
+	DATABASE upstreams.fasta (nucleotide)
+	Last updated on Tue Oct  8 09:06:20 2024
+	Database contains 7 sequences, 4207 residues
+
+	Scores for positive and reverse complement strands are combined.
+
+	MOTIFS meme.xml (nucleotide)
+	MOTIF ID              ALT ID WIDTH BEST POSSIBLE MATCH
+	----- --------------- ------ ----- -------------------
+	    1 TGGWMTATACCAAAT MEME-1    15 TGGTATATACCAAAT
+	    2 GGYCARTTCACKGC  MEME-2    14 GGCCAATTCACGGC
+	    3 GMTAYAWAAYTGTCA MEME-3    15 GCTACATAACTGTCA
+
+	PAIRWISE MOTIF CORRELATIONS:
+	MOTIF     1     2
+	----- ----- -----
+	   2   0.29
+	   3   0.31  0.23
+	No overly similar pairs (correlation > 0.60) found.
+
+	Random model letter frequencies (from non-redundant database):
+	A 0.274 C 0.225 G 0.225 T 0.274 
+********************************************************************************
+
+
+********************************************************************************
+SECTION I: HIGH-SCORING SEQUENCES
+********************************************************************************
+	- Each of the following 7 sequences has E-value less than 10.
+	- The E-value of a sequence is the expected number of sequences
+	  in a random database of the same size that would match the motifs as
+	  well as the sequence does and is equal to the combined p-value of the
+	  sequence times the number of sequences in the database.
+	- The combined p-value of a sequence measures the strength of the
+	  match of the sequence to all the motifs and is calculated by
+	    o finding the score of the single best match of each motif
+	      to the sequence (best matches may overlap),
+	    o calculating the sequence p-value of each score,
+	    o forming the product of the p-values,
+	    o taking the p-value of the product.
+	- The sequence p-value of a score is defined as the
+	  probability of a random sequence of the same length containing
+	  some match with as good or better a score.
+	- The score for the match of a position in a sequence to a motif
+	  is computed by by summing the appropriate entry from each column of
+	  the position-dependent scoring matrix that represents the motif.
+	- Sequences shorter than one or more of the motifs are skipped.
+	- The table is sorted by increasing E-value.
+********************************************************************************
+
+SEQUENCE NAME                      DESCRIPTION                   E-VALUE  LENGTH
+-------------                      -----------                   -------- ------
+VSAK1_17757                                                       7.2e-13    601
+VV21669                                                           1.5e-11    601
+VS_II0401                                                         2.1e-11    601
+VAS14_10979                                                       1.4e-10    601
+VSAL_II0810                                                       7.5e-10    601
+VCA0602                                                             4e-08    601
+VPA0355                                                           9.1e-07    601
+
+********************************************************************************
+
+
+
+********************************************************************************
+SECTION II: MOTIF DIAGRAMS
+********************************************************************************
+	- The ordering and spacing of all non-overlapping motif occurrences
+	  are shown for each high-scoring sequence listed in Section I.
+	- A motif occurrence is defined as a position in the sequence whose
+	  match to the motif has POSITION p-value less than 0.0001.
+	- The POSITION p-value of a match is the probability of
+	  a single random subsequence of the length of the motif
+	  scoring at least as well as the observed match.
+	- For each sequence, all motif occurrences are shown unless there
+	  are overlaps.  In that case, a motif occurrence is shown only if its
+	  p-value is less than the product of the p-values of the other
+	  (lower-numbered) motif occurrences that it overlaps.
+	- The table also shows the E-value of each sequence.
+	- Spacers and motif occurences are indicated by
+	   o -d-    `d' residues separate the end of the preceding motif 
+		    occurrence and the start of the following motif occurrence
+	   o [sn]  occurrence of motif `n' with p-value less than 0.0001.
+		    A minus sign indicates that the occurrence is on the
+		    reverse complement strand.
+********************************************************************************
+
+SEQUENCE NAME                      E-VALUE   MOTIF DIAGRAM
+-------------                      --------  -------------
+VSAK1_17757                         7.2e-13  92-[+1]-323-[+3]-6-[+1]-4-[-1]-66-[+2]-36
+VV21669                             1.5e-11  408-[+3]-7-[+3]-25-[-1]-66-[+2]-36
+VS_II0401                           2.1e-11  405-[+3]-7-[+3]-25-[-1]-66-[+2]-39
+VAS14_10979                         1.4e-10  327-[+3]-124-[-1]-61-[+2]-45
+VSAL_II0810                         7.5e-10  128-[+1]-155-[-3]-94-[+3]-7-[+3]-29-[+1]-63-[+2]-36
+VCA0602                               4e-08  434-[+3]-28-[+2]-19-[+1]-76
+VPA0355                             9.1e-07  262-[-2]-29-[+1]-51-[-3]-100-[+1]-100
+
+********************************************************************************
+
+
+
+********************************************************************************
+SECTION III: ANNOTATED SEQUENCES
+********************************************************************************
+	- The positions and p-values of the non-overlapping motif occurrences
+	  are shown above the actual sequence for each of the high-scoring
+	  sequences from Section I.
+	- A motif occurrence is defined as a position in the sequence whose
+	  match to the motif has POSITION p-value less than 0.0001 as 
+	  defined in Section II.
+	- For each sequence, the first line specifies the name of the sequence.
+	- The second (and possibly more) lines give a description of the 
+	  sequence.
+	- Following the description line(s) is a line giving the length, 
+	  combined p-value, and E-value of the sequence as defined in Section I.
+	- The next line reproduces the motif diagram from Section II.
+	- The entire sequence is printed on the following lines.
+	- Motif occurrences are indicated directly above their positions in the
+	  sequence on lines showing
+	   o the motif number of the occurrence (a minus sign indicates that
+	  the occurrence is on the reverse complement strand),
+	   o the position p-value of the occurrence,
+	   o the best possible match to the motif (or its reverse complement), and
+	   o columns whose match to the motif has a positive score (indicated 
+	     by a plus sign).
+********************************************************************************
+
+
+VSAK1_17757
+  LENGTH = 601  COMBINED P-VALUE = 1.03e-13  E-VALUE =  7.2e-13
+  DIAGRAM: 92-[+1]-323-[+3]-6-[+1]-4-[-1]-66-[+2]-36
+
+                      [+1]
+                      7.9e-05
+                      TGGTATATACCAAAT
+                      +++++  +  ++++
+76   caaagcgtgttgttgactggtcagtgtcaaaagcggcgaacgaactctacgttgaatcctacccagtggttgctc
+
+                                                            [+3]
+                                                            3.7e-09
+                                                            GCTACATAACTGTCA
+                                                            +++++++++++++++
+376  catttctgctctccaatcacaccagaaaagccaatcattaaactgcaatcaacctgctacaaaactgtcatccca
+
+      [+1]               [-1]
+      1.2e-06            1.7e-09
+      TGGTATATACCAAAT    ATTTGGTATATACCA
+      ++ +++++++++ ++    +++++++++++++++
+451  atgaaatataccagatttaaatttggtatataccatttggagagtaaacgatgtcagtatccaaaccttatctag
+
+                               [+2]
+                               1.4e-08
+                               GGCCAATTCACGGC
+                               ++++++++++++++
+526  aaatcaacaatgtggtgaagcaatttggtcagttcacggcattaaagcacatttccttgtccattaataaaggcg
+
+
+VV21669
+  LENGTH = 601  COMBINED P-VALUE = 2.17e-12  E-VALUE =  1.5e-11
+  DIAGRAM: 408-[+3]-7-[+3]-25-[-1]-66-[+2]-36
+
+                                      [+3]                  [+3]
+                                      3.6e-05               9.3e-08
+                                      GCTACATAACTGTCA       GCTACATAACTGTCA
+                                         ++ ++ ++++++       ++++++++ ++++++
+376  atgagtcttgttaggtcgacgcggtgatctcacttcatctatttgtcatcttctggctataaatttgtcattgga
+
+                         [-1]
+                         1.7e-09
+                         ATTTGGTATATACCA
+                         +++++++++++++++
+451  acgtaacactctaaaactaaatttggtatataccatttggagtgtgtgttatgtcaactaaccaaccttacctaa
+
+                               [+2]
+                               1.4e-08
+                               GGCCAATTCACGGC
+                               ++++++++++++++
+526  atattgaaaatgttgtgaagcaattcggtcagttcacggcattaaagaatatctcgctggcgatacaaaaaggcg
+
+
+VS_II0401
+  LENGTH = 601  COMBINED P-VALUE = 3.07e-12  E-VALUE =  2.1e-11
+  DIAGRAM: 405-[+3]-7-[+3]-25-[-1]-66-[+2]-39
+
+                                   [+3]                  [+3]
+                                   2.1e-08               5.6e-06
+                                   GCTACATAACTGTCA       GCTACATAACTGTCA
+                                   ++ ++++++++++++        +++++++ ++++++
+376  aaatagcaatctttaatgcttattatatctgcaatataactgtcatttagctactataaatttgtcactcaactg
+
+                      [-1]
+                      1.7e-09
+                      ATTTGGTATATACCA
+                      +++++++++++++++
+451  caatattctcagtttaaatttggtatataccatgtagagagtgctgtagtatgagcaaccaaacttatttgaata
+
+                            [+2]
+                            9.3e-08
+                            GGCCAATTCACGGC
+                            ++++++++ +++++
+526  ttgaaaacgttgtaaagcaatttggccaatttactgcgttaaaagacatctccctatcgatagataaaggcgagt
+
+
+VAS14_10979
+  LENGTH = 601  COMBINED P-VALUE = 2.00e-11  E-VALUE =  1.4e-10
+  DIAGRAM: 327-[+3]-124-[-1]-61-[+2]-45
+
+                                [+3]
+                                6.9e-07
+                                GCTACATAACTGTCA
+                                ++++++++ ++++ +
+301  aactagagggtgttggtagattaaacagatatatatttgttatcagtccagcaccctttattatatatttttaaa
+
+                     [-1]
+                     1.7e-09
+                     ATTTGGTATATACCA
+                     +++++++++++++++
+451  aactcttgaagactaaatttggtatataccaattagtatgagttatcaccatgagtacatatctccaaattgaca
+
+                      [+2]
+                      2.1e-08
+                      GGCCAATTCACGGC
+                      ++++++++++++++
+526  acctttgtaagcattttggtcaattcactgccttaaagaatatctccctcgctatcaataagggggaatttattt
+
+
+VSAL_II0810
+  LENGTH = 601  COMBINED P-VALUE = 1.07e-10  E-VALUE =  7.5e-10
+  DIAGRAM: 128-[+1]-155-[-3]-94-[+3]-7-[+3]-29-[+1]-63-[+2]-36
+
+                                                          [+1]
+                                                          5.0e-05
+                                                          TGGTATATACCAAAT
+                                                          +++++ ++  ++++
+76   cggatgcggttggtttagtcaaaccgtcagaggcggcgaaacgtgtagtcgattggtcaatttcaaaaacagcaa
+
+                                                                              [-
+                                                                              3.
+                                                                              TG
+                                                                              ++
+226  ttcaagaatcaatggctaaaatggatttctctcgtatgggagacgaaaggcaaagcgtcttaaaaacatggtctg
+
+     3]
+     5e-05
+     ACAGTTATGTAGC
+     + ++ ++++  ++
+301  ataaatttgattcaaagtctgaatcaaaataatctgacggaaattcatgatagaaaagggaggctccggtcttcc
+
+                                     [+3]                  [+3]
+                                     9.8e-05               2.3e-07
+                                     GCTACATAACTGTCA       GCTACATAACTGTCA
+                                     ++ +++++++++  +        ++++++++++++++
+376  tttttgtgtttttaatggcctgtcttctgaaggaaacaaaactgcaatctttcttatataaaattgtcattgtat
+
+                            [+1]
+                            9.0e-09
+                            TGGTATATACCAAAT
+                            ++++ ++++++++++
+451  tgaaataatcaaattctattatttggagtataccaaatggagagtttgaaatgatggaaaataaagcgtacttaa
+
+                               [+2]
+                               7.0e-08
+                               GGCCAATTCACGGC
+                               ++++++++ +++++
+526  caatcaataacgtaatgaaaaaattcggccaatttacggccttagaacagatttctttatctattgaaaaaggag
+
+
+VCA0602
+  LENGTH = 601  COMBINED P-VALUE = 5.65e-09  E-VALUE =    4e-08
+  DIAGRAM: 434-[+3]-28-[+2]-19-[+1]-76
+
+                                                                [+3]
+                                                                7.2e-07
+                                                                GCTACATAACTGTCA
+                                                                  +++ +++++++++
+376  tgatgctaaatcggaacccaaatcttaacttgttcatcaaaggaggcgaaagcctcctttttacctaactgtcat
+
+                                [+2]                             [+1]
+                                2.3e-06                          6.2e-09
+                                GGCCAATTCACGGC                   TGGTATATACCAAAT
+                                 ++++ + ++ +++                   +++++++++++++++
+451  cagatggtcacgcatcagcgataaaactgtcactgcattgcaataaagccttgttaattttggactataccaaat
+
+
+VPA0355
+  LENGTH = 601  COMBINED P-VALUE = 1.29e-07  E-VALUE =  9.1e-07
+  DIAGRAM: 262-[-2]-29-[+1]-51-[-3]-100-[+1]-100
+
+                                          [-2]
+                                          2.1e-06
+                                          GCCGTGAATTGGCC
+                                          ++++++ +  +++
+226  tgtaattgcggtggctgcaagcagtttggcaggcacggcagtggaacggctaagcaaagttttcattgtctctat
+
+          [+1]                                                              [-3]
+          1.1e-05                                                           3.1e
+          TGGTATATACCAAAT                                                   TGAC
+          +++++++   ++                                                      ++++
+301  ccttctggactaggtcagtaagttcgctttttatcctatggggggaatgtgacggtttggtgcagataatttgac
+
+     
+     -07
+     AGTTATGTAGC
+     +++++++  ++
+376  agttatgattcacttctgtggcgtttgtatttcatttgatgaagaagtgagcagtttgacttgtcatatttctgt
+
+                                         [+1]
+                                         4.9e-07
+                                         TGGTATATACCAAAT
+                                         +++++++   ++ +
+451  tacttaagcctcttatcttgttgagaaaatatctattggactaggtcagaatgaaaacaacaggtgcgggccagt
+
+********************************************************************************
+
+
+CPU: noble-meme.grid.gs.washington.edu
+Time 0.010 secs.
+
+mast -oc . -nostatus meme.xml upstreams.fasta

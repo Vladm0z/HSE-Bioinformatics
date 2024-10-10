@@ -1,0 +1,17 @@
+MOTIF_INDEX	MOTIF_SOURCE	MOTIF_ID	ALT_ID	CONSENSUS	WIDTH	SITES	E-VALUE	E-VALUE_SOURCE	MOST_SIMILAR_MOTIF_SOURCE	MOST_SIMILAR_MOTIF	URL
+1	MEME	GCGCCCCCTGGYGGC	MEME-1	GCGCCCCCTGGYGGC	15	96	1.7e-122	MEME	db/motif_databases/JASPAR/JASPAR2022_CORE_vertebrates_non-redundant_v2.meme	MA0139.1 (CTCF)	http://jaspar2022.genereg.net/matrix/MA0139.1
+2	MEME	AAAACGCGTGATTTT	MEME-2	AAAACGCGTGATTTT	15	12	4.2e-020	MEME	db/motif_databases/EUKARYOTE/jolma2013.meme	E2F2_DBD_3	http://floresta.eead.csic.es/footprintdb/index.php?db=HumanTF:1.0&motif=E2F2_DBD_3
+3	STREME	1-CCRSCAGGGGGCGCY	STREME-1	CCRSCAGGGGGCGCY	15	76	5.3e-019	STREME	db/motif_databases/JASPAR/JASPAR2022_CORE_vertebrates_non-redundant_v2.meme	MA0139.1 (CTCF)	http://jaspar2022.genereg.net/matrix/MA0139.1
+4	db/motif_databases/EUKARYOTE/jolma2013.meme	CTCF_full	 	WGCGCCMYCTAGYGGYV	17	114	8.2e-019	CENTRIMO	 	 	http://floresta.eead.csic.es/footprintdb/index.php?db=HumanTF:1.0&motif=CTCF_full
+5	db/motif_databases/JASPAR/JASPAR2022_CORE_vertebrates_non-redundant_v2.meme	MA0139.1	CTCF	YGRCCASYAGRKGGCRSYR	19	148	7.0e-018	CENTRIMO	 	 	http://jaspar2022.genereg.net/matrix/MA0139.1
+6	MEME	TTAAATGGGGGATTT	MEME-3	TTAAATGGGGGATTT	15	9	7.3e-018	MEME	 	 	 
+7	db/motif_databases/JASPAR/JASPAR2022_CORE_vertebrates_non-redundant_v2.meme	MA1102.2	CTCFL	NSCAGGGGGCGS	12	165	1.1e-009	CENTRIMO	 	 	http://jaspar2022.genereg.net/matrix/MA1102.2
+8	STREME	2-GCCGCAGCGCT	STREME-2	GCCGCAGCGCT	11	34	3.1e-006	STREME	 	 	 
+9	db/motif_databases/JASPAR/JASPAR2022_CORE_vertebrates_non-redundant_v2.meme	MA1930.1	CTCF	CTGCAGTKCCNVCHNNYRGCCASYAGRKGGCRSYN	35	94	2.0e-005	CENTRIMO	 	 	http://jaspar2022.genereg.net/matrix/MA1930.1
+10	db/motif_databases/EUKARYOTE/jolma2013.meme	TFAP2A_DBD_3	 	WGCCCYBVGGGCD	13	125	1.1e-003	CENTRIMO	 	 	http://floresta.eead.csic.es/footprintdb/index.php?db=HumanTF:1.0&motif=TFAP2A_DBD_3
+11	db/motif_databases/JASPAR/JASPAR2022_CORE_vertebrates_non-redundant_v2.meme	MA1929.1	CTCF	CTGCAGTKCCNNNNNYNRCCASYAGRKGGCRSYV	34	135	3.5e-002	CENTRIMO	 	 	http://jaspar2022.genereg.net/matrix/MA1929.1
+12	db/motif_databases/MOUSE/uniprobe_mouse.meme	UP00102_1	Zic1_primary	BHCCCCCGGGGGGG	14	128	4.2e-002	CENTRIMO	 	 	http://thebrain.bwh.harvard.edu/uniprobe/details2.php?id=00102
+
+# MEME-ChIP (Motif Analysis of Large Nucleotide Datasets): Version 5.5.7 released on Wed Jun 19 13:59:04 2024 -0700
+# The format of this file is described at https://meme-suite.org/meme//doc/meme-chip-output-format.html
+# meme-chip -oc . -time 240 -ccut 100 -dna -order 2 -minw 6 -maxw 15 -db db/motif_databases/MOUSE/uniprobe_mouse.meme -db db/motif_databases/JASPAR/JASPAR2022_CORE_vertebrates_non-redundant_v2.meme -db db/motif_databases/EUKARYOTE/jolma2013.meme -meme-mod zoops -meme-nmotifs 3 -meme-searchsize 100000 -streme-pvt 0.05 -streme-align center -streme-totallength 4000000 -centrimo-score 5.0 -centrimo-ethresh 10.0 peaks.fasta
