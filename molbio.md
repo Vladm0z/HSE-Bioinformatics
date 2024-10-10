@@ -15,6 +15,8 @@
 
 - [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/maim/Bioinformatics/MSc/MolBio/Lec_1.pdf)
 - [Лекция 2](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/MolBio/Lec_2.pdf)
+- [Лекция 3](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/MolBio/Lec_3.pdf)
+- [Лекция 4](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/MolBio/Lec_4.pdf)
 
 ## Тесты
 - [Вводный](https://forms.gle/9C7YVEyJGKbvSfEK8)
