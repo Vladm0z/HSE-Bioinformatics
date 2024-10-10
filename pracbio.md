@@ -14,7 +14,6 @@
 - [Fine-mapping with summary statistics](https://stephenslab.github.io/susieR/articles/finemapping_summary_statistics.html)
 - [Лекция по GWAS](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Post-GWAS-1_30.09.2024.pdf)
 - [GWAS tutorial](https://pbreheny.github.io/adv-gwas-tutorial/quality_control.html#fam)
-- [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 ## Домашние Задания
 ### HW1
