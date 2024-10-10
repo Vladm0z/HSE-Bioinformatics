@@ -8,9 +8,9 @@
 ## Лекции
 - [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PB_Lec1.pdf)
 - [Лекция 4](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PB_Lec4.pdf)
-- [Лекция 4 по семинару](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PBs_Lec4.pdf)
+- [Лекция 4 (к семинару)](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PBs_Lec4.pdf)
 - [Лекция 5](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PB_Lec5.pdf)
-- [Лекция 5 по семинару](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PBs_Lec5.pdf)
+- [Лекция 5 (к семинару)](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PBs_Lec5.pdf)
 - [Туториал к семинару](https://stephenslab.github.io/susieR/articles/finemapping_summary_statistics.html)
 - [Лекция по GWAS](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Post-GWAS-1_30.09.2024.pdf)
 - [GWAS tutorial](https://pbreheny.github.io/adv-gwas-tutorial/quality_control.html#fam)
