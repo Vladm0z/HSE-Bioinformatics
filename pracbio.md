@@ -5,7 +5,7 @@
 
 [ПУД](https://www.hse.ru/edu/courses/900085705) (пока пустой, [хотя быть таким не должен](https://www.hse.ru/studyspravka/programmauchdisc))
 
-Оценка: 0.3 * HW (1st module) + 0.3 * HW (2nd module) + 0.2 * Middle + 0.2 * Final
+Оценка: 0.3 * HW (1st module) + 0.3 * HW (2nd module) + 0.2 * Midterm + 0.2 * Final
 
 ## Лекции
 - [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PB_Lec1.pdf)
