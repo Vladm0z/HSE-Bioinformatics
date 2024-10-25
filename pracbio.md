@@ -52,14 +52,14 @@
 [пример выполненной работы](https://colab.research.google.com/drive/1Re9ICj2SAEqcDrvhP-rtJgg-LgfydNbZ?usp=sharing)
 
 
-
 ### HW2
 
-Исправить ошибки первого ДЗ
+[Обнаружение мотивов. Множественное выравнивание](https://github.com/michtrofimov/hse_data_analysis_MSA/tree/master)
 
 ### HW3
-[Мануалы + условия](https://github.com/michtrofimov/hse_data_analysis_MSA/blob/master/README.md#%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
 
+[Филогенетика](https://github.com/michtrofimov/hse_data_analysis_phylogenetics)
 
+### Midterm
 
-
+[Условия](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/blob/main/Bioinformatics/MSc/PracBio/Midterm.pdf)
