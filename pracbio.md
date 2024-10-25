@@ -62,4 +62,4 @@
 
 ### Midterm
 
-[Условия](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/blob/main/Bioinformatics/MSc/PracBio/Midterm.pdf)
+[Условия](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Midterm.pdf)
