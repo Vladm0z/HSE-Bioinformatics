@@ -65,8 +65,11 @@
 ## Midterm
 
 [Условия](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Midterm/Midterm.pdf)
+
 [Данные](https://github.com/Vladm0z/HSE-Bioinformatics/tree/main/Bioinformatics/MSc/PracBio/Midterm)
-Некоторые файлы были слишком большими для GitHub, поэтому они разделены на части, собрать обратно можно, например, воспользовавшись этим [Colab](https://colab.research.google.com/drive/1DQu0zZz_REoLFjRxqyBUBRb232cv3wRj?usp=sharing)
+
+Некоторые файлы были слишком большими для GitHub, поэтому они разделены на части, собрать обратно можно воспользовавшись этим [Colab](https://colab.research.google.com/drive/1DQu0zZz_REoLFjRxqyBUBRb232cv3wRj?usp=sharing)
+
 [Пример Решений](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Midterm/Midterm_sol.pdf)
 
 
