@@ -17,7 +17,7 @@
 - [Лекция по GWAS](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Post-GWAS-1_30.09.2024.pdf)
 - [GWAS tutorial](https://pbreheny.github.io/adv-gwas-tutorial/quality_control.html#fam)
 
-## Домашние Задания
+## Домашние Задания (1 Модуль)
 ### HW1
 ##### Задание 1
 Определить APOE статус и риск болезни Альцгеймера для полногеномного сиквенса с помощью IGV.
@@ -60,6 +60,16 @@
 
 [Филогенетика](https://github.com/michtrofimov/hse_data_analysis_phylogenetics)
 
-### Midterm
 
-[Условия](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Midterm.pdf)
+
+## Midterm
+
+[Условия](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Midterm/Midterm.pdf)
+[Данные](https://github.com/Vladm0z/HSE-Bioinformatics/tree/main/Bioinformatics/MSc/PracBio/Midterm)
+Некоторые файлы были слишком большими для GitHub, поэтому они разделены на части, собрать обратно можно, например, воспользовавшись этим [Colab](https://colab.research.google.com/drive/1DQu0zZz_REoLFjRxqyBUBRb232cv3wRj?usp=sharing)
+[Пример Решений](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Midterm/Midterm_sol.pdf)
+
+
+
+## Домашние Задания (2 Модуль)
+### HW4
