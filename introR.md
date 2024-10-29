@@ -83,9 +83,14 @@ y = 2*x*y + y0
 - Повторите предыдущий пункт 20 раз
 - Выполните:
 ```R
-z = t(abs(x^2 + y^2))
-z[!is.na(z)] = rank(z[lis.na(z)])
-image(z^3, col=rev(terrain.colors(1000)))
+# Calculate the squared distance and transpose the result
+z <- t(abs(x^2 + y^2))
+
+# Rank the non-NA values in z
+z[!is.na(z)] <- rank(z[!is.na(z)])
+
+# Create an image of z cubed with a reversed terrain color palette
+image(z^3, col = rev(terrain.colors(1000)))
 ```
 
 ### HW6
@@ -96,8 +101,13 @@ image(z^3, col=rev(terrain.colors(1000)))
 - Получите матрицу расстояний вычтя из единицы матрицу полученную на предыдущем шаге.
 - Проведите многомерное шкалирование и отрисуйте его результаты ( m - матрица полученная на предыдущем этапе)
 ```R
-mds = cmdscale(m, k=2)
-plot(mds,pch=19)
-text(mds,rownames(mds),adj=c(1.2,1.2),col='red')
+# Perform classical multidimensional scaling
+mds <- cmdscale(m, k = 2)
+
+# Plot the MDS result
+plot(mds, pch = 19)
+
+# Add text labels to the plot
+text(mds, rownames(mds), adj = c(1.2, 1.2), col = 'red')
 ```
 - Модифицируйте код из предыдущего пункта так, чтобы размер точек был пропорционален размеру команд.
