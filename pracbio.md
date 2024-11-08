@@ -76,3 +76,40 @@
 
 ## Домашние Задания (2 Модуль)
 ### HW4
+Task 1. Prediction with individual sequences.
+Let’s take 2 sequences from your dataset (any of them) and fold them individually with RNAfold:
+- Copy 1 randomsequence fromyour data (with ID).
+-  Go to [nibiru.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi](http://nibiru.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi)
+- Paste the sequence there
+- Press Process
+- After the computation is done, find secondary structure of MFE
+- Find a link to downloadable Vienna* record and click it. A window with the secondary structure will open.
+- Copy this secondary structure and save it (using any text editor). Name it using this sequence ID.
+- Go to the pictures of secondary structures. Find the options for downloading them and save both pictures in any convenient format (you will include them to the report).
+- Repeat all procedure with another randomly picked sequence.
+
+Task 2. Prediction from an alignment. (align&fold)
+Create a structural alignment using any 20 (to make it faster) of the sequences from your
+dataset using LocARNA:
+- Go to [rna.informatik.uni-freiburg.de/LocARNA/Input.jsp](https://rna.informatik.uni-freiburg.de/LocARNA/Input.jsp)
+- Upload the file with your data (or part of it)
+- After the job is done, download 3 files: Stockholm, FASTA and structure.
+
+Task 3.Compare RNA structures produced by two methods.
+- You have to match the dot-bracket formula from RNAfold with LocaRNA consensus structure by length. Do it using this colab code (the instructions are inside): [colab](https://colab.research.google.com/drive/1dQZQgV2Y63VPjoqrqPC1B8Y5xG_HfzPv?usp=sharing)
+- Then go to [e-rna.org/r-chie](https://e-rna.org/r-chie/) and click Create a Plot
+- Upload the corrected RNAfold structure to Secondary Structure Input
+- Click Add another structure to plot and upload consensus structure from locaRNA
+- Click Add nucleotide sequence(s) to plot and upload the alignment fromlocaRNA in FASTA format
+- Press Plot button
+- Save the produced figure in any convenient format
+
+### HW5
+- Установите [фармкат](https://github.com/PharmGKB/PharmCAT-tutorial) локально или на сервере сами (не используя докер). Подсказка: тул
+pharmcat имеет расширение .jar
+- Запустите pharmcat на данных [pharmcat.example.vcf](https://github.com/Vladm0z/HSE-Bioinformatics/blob/main/Bioinformatics/MSc/PracBio/HW_1107/pharmcat.example.vcf) по туториалу приведенному сверху
+- Получите отчет Reporter в фомате .html
+Задания:
+- Напишите полученные генотипы для генов VKORC1 и CYP2C9
+- Напишите фенотип метаболизатора варфарина
+- Какая доза варфарина рекомендована гайдлайном CPIC для этого пациента?
