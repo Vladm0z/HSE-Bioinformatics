@@ -1,0 +1,324 @@
+
+/*****************************************************************
+* reads the file content from the selected file from a file input
+* (fileFieldID) and writes the content to the text field/area
+* (textFieldID).
+*****************************************************************/
+function pipeFileToField( fileFieldID, textFieldID ) {
+
+	 // access the file field
+	var fileInputField = document.getElementById(fileFieldID);
+	
+	 // check whether the browser supports files access or not
+	if (!fileInputField.files) {
+		alert('Your browser does not support direct file upload (working with Firefox 18, Chrome 24, Opera 12, Safari 6). Please copy and paste the file content into the input field. Sorry for the inconvenience!');
+		return;
+	}
+	
+	 // check if a file is available for reading
+	if(fileInputField.files[0]) {  
+		 // setup reader
+		var reader = new FileReader();
+		
+		 // setup output push to text field
+		reader.onload = (function(theField) {
+	        return function(e) {
+	          document.getElementById(theField).value = e.target.result;
+	        };
+	      })(textFieldID);
+	      
+		 // read file
+		reader.readAsText(fileInputField.files[0], "UTF-8");
+	}
+	
+	// reset value
+	fileInputField.val('');
+	
+}
+
+/*****************************************************************
+* reads the file content from the selected file from a file input
+* (fileFieldID) and writes the content to the text field/area
+* (textFieldID). At load end the given function (functionToCall) is
+* called.
+*****************************************************************/
+function pipeFileToFieldAndRun( fileFieldID, textFieldID, functionToCall ) {
+
+
+	 // access the file field
+	var fileInputField = document.getElementById(fileFieldID);
+	
+	 // check whether the browser supports files access or not
+	if (!fileInputField.files) {
+		alert('Your browser does not support direct file upload (working with Firefox 18, Chrome 24, Opera 12, Safari 6). Please copy and paste the file content into the input field. Sorry for the inconvenience!');
+		return;
+	}
+	 // get the file from the file field
+	var file = fileInputField.files[0];
+	
+	if(file) {  
+		 // setup reader
+		var reader = new FileReader();
+	      
+		 // read file
+		reader.readAsText(file, "UTF-8");
+		reader.onloadend = functionToCall;
+		
+		 // setup output push to text field
+		reader.onload = (function(theField) {
+	        return function(e) {
+	          document.getElementById(theField).value = e.target.result;
+	        };
+	      })(textFieldID);
+	}
+	
+	// reset value
+	fileInputField.val('');
+	
+}
+
+/*****************************************************************
+* sets the value of the field with ID 'fieldID' to ""
+*****************************************************************/
+function clearFieldValue( fieldID ) {
+	var field = document.getElementById(fieldID);
+	if (field) {
+		field.value = "";
+	}
+}
+
+/*****************************************************************
+ * sets the 'disabled' tag of the field with ID 'fieldID' to 'disabledValue'
+ *****************************************************************/
+function disableField( fieldID, disabledValue ) {
+	var field = document.getElementById(fieldID);
+	if (field) {
+		field.disabled = disabledValue;
+	}
+}
+
+/*****************************************************************
+ * sets the 'readOnly' tag of the field with ID 'fieldID' to 'readOnlyValue'
+ *****************************************************************/
+function readOnlyField( fieldID, readOnlyValue ) {
+	var field = document.getElementById(fieldID);
+	if (field) {
+		field.readOnly = readOnlyValue;
+	}
+}
+
+
+
+/**************************************************************************************
+* controls the show/hide functionality for jobHeader details if JavaScript is available 
+************************************************************************************** */
+function hideShowHeader() {
+	var showText = document.getElementById( "showJobHeader" );
+	var hideText = document.getElementById( "hideJobHeader" );
+	
+	if( showText != null && hideText != null ){
+		if( showText.style.display == "none" && hideText.style.display == "none" ){
+			showText.style.display = "block";
+			setVisibilityOfHeader( "hide" );	
+		}
+		else if( showText.style.display == "block" ) { /* show job time-stamp fields */
+			showText.style.display = "none";
+			hideText.style.display = "block";
+			setVisibilityOfHeader( "show" );
+		}
+		else if( hideText.style.display == "block" ) { /* hide job time-stamp fields */
+			showText.style.display = "block";
+			hideText.style.display = "none";
+			setVisibilityOfHeader( "hide" );
+		}
+	}
+}
+
+/******************************************************
+* sets the visibility for the jobHeader details table
+******************************************************/
+function setVisibilityOfHeader( visibility ) {
+	var advTableRow = document.getElementsByClassName( "advancedH" );		
+	var divToHide = document.getElementsByClassName( "advancedHDiv" );
+	var setValue = "table-row", divValue = "block";
+	if( visibility == "hide" ) {
+		setValue = "none";
+		divValue = "none";
+	}
+	
+	for( var i = 0; i < divToHide.length; i++ )
+		divToHide[i].style.display = divValue;
+	for( var i = 0; i < advTableRow.length; i++ )
+		advTableRow[i].style.display = setValue;
+}
+
+/**************************************************************************
+ * sets the visibility for the advanced fields according to the input parameter 
+ * @param show : true/false : the whether or not to show advanced fields
+ ************************************************************************** */
+function showAvancedElements( show ) {
+	
+	var setHeadingShow = "";
+	var setHeadingHide = "";
+	var setInputRow = "";
+	if( show ) {
+		setHeadingShow = "none";
+		setHeadingHide = "inline";
+		setInputRow = "block";
+	}
+	else {
+		setHeadingShow = "inline";
+		setHeadingHide = "none";
+		setInputRow = "none";
+	}
+	
+	// headers
+	setDisplayByClass('showAdvanced', setHeadingShow);
+	setDisplayByClass('hideAdvanced', setHeadingHide);
+	
+	// parameter input rows
+	setDisplayByClass( "rowAdvanced", setInputRow );
+}
+
+/**************************************************************************
+ * sets the visibility for the advanced fields according to the input parameter 
+ * @param show : true/false : the whether or not to show advanced fields
+ * @param name : the name of the advanced fields to show/hide 
+ ************************************************************************** */
+function showAvancedElementsForName( show, name ) {
+	
+	var setHeadingShow = "";
+	var setHeadingHide = "";
+	var setInputRow = "";
+	if( show ) {
+		setHeadingShow = "none";
+		setHeadingHide = "inline";
+		setInputRow = "block";
+	}
+	else {
+		setHeadingShow = "inline";
+		setHeadingHide = "none";
+		setInputRow = "none";
+	}
+	
+	// headers
+	setDisplayByClassAndName('showAdvanced', name, setHeadingShow);
+	setDisplayByClassAndName('hideAdvanced', name, setHeadingHide);
+	
+	// parameter input rows
+	setDisplayByClassAndName( "rowAdvanced", name, setInputRow );
+}
+
+
+/**************************************************************************
+* sets the CSS "display" tag for all fields with the given class name to the provided value
+************************************************************************** */
+function setDisplayByClass( className, displayValue ) {
+	  // get elements of interest
+    var elements = document.getElementsByClassName( className );
+      // set CSS display tag
+    for( var i = 0; i < elements.length; i++ ) {
+            elements[i].style.display = displayValue;
+    }
+}
+
+
+/************************************************************************** 
+* sets the CSS "display" tag for all fields with the given name to the provided value
+************************************************************************** */
+function setDisplayByName( elementName, displayValue ) {
+
+	var elements = document.getElementsByName( elementName );
+
+	for( var i = 0; i < elements.length; i++ ) {
+		elements[i].style.display = displayValue;
+	}
+}
+
+/************************************************************************** 
+* sets the CSS "display" tag for the field with the given ID to the provided value
+************************************************************************** */
+function setDisplayById( elementId, displayValue ) {
+
+	document.getElementById( elementId ).style.display = displayValue;
+}
+
+
+/**************************************************************************
+ * sets the visibility for the advanced fields according to the input parameter 
+ ************************************************************************** */
+function setDisplayByClassAndName( elementClass, elementName, displayValue ) {
+
+	// get all elements for this name
+	var elements = document.getElementsByName( elementName );
+
+	for( var i = 0; i < elements.length; i++ ) {
+		// check if element has correct class
+		if (elements[i].className == elementClass) {
+			// set display value
+			elements[i].style.display = displayValue;
+		}
+	}
+
+}
+
+/****************************************************************************
+* checks for 'N' characters within FASTA input
+* @param fastaFieldId : the id of the FASTA text input area
+* @param errorFieldId : the id of the label to report errors to via .innerHtml
+*****************************************************************************/
+function checkForNinFasta( fastaFieldId, errorFieldId ) {	
+	var fasta = document.getElementById( fastaFieldId ).value;
+	var label = document.getElementById( errorFieldId );
+	
+	// break into lines
+	var lines = fasta.split("\n");
+	
+	// grep all FASTA header lines
+	var i=0;
+	var errorMessage = "";
+	for(i=0; i<lines.length ; i++) {
+		  // check non-header lines
+		if ( ! lines[i].match(/^\s*>/g)) {
+			  // check if containing an "n" or "N"
+			if ( lines[i].match(/[nN]/g ) ) {
+				  // set error message accordingly
+				errorMessage += "WARNING: Ambiguous nucleotide(s) N present! These are excluded from all base pairings of the interaction.";
+				break;
+			}
+		}
+	}
+	  // show error message if needed
+	if (errorMessage.length > 0) {
+	 	// error report
+		label.innerHTML = errorMessage;
+		label.style.display = "block";
+	} else {
+		label.innerHTML = "";
+		label.style.display = "none";
+	}
+}
+
+
+/****************************************************************************
+* highlights the currently selected row of a result table generated with 
+* resources/result_table.jsp and stores the information in its respective
+* selectedRow field
+* @param rowID the row to highlight
+*****************************************************************************/
+function highlightResultTableRow( rowID ) {
+	
+	var row = document.getElementById(rowID);
+	var tableID = row.parentElement.parentElement.id + "_";
+	
+	/* undo highlighting of last selected row */
+	var lastSelected = $("#"+tableID+"selectedRow").html();
+	$("#" + lastSelected).css("background", "");
+	/* store selected row */
+	$("#"+tableID+"selectedRow").html( rowID );
+	/* highlight selected row */
+	var row = $("#" + rowID);
+	row.css("background", "none repeat scroll 0 0 #CCFFCC");
+
+}
+    
