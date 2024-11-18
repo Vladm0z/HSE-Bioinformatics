@@ -16,7 +16,7 @@
 - [Fine-mapping with summary statistics](https://stephenslab.github.io/susieR/articles/finemapping_summary_statistics.html)
 - [Лекция по GWAS](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Post-GWAS-1_30.09.2024.pdf)
 - [GWAS tutorial](https://pbreheny.github.io/adv-gwas-tutorial/quality_control.html#fam)
-- [Лекция по вторичной структуре ДНК](https://github.com/Vladm0z/HSE-Bioinformatics/blob/main/Bioinformatics/MSc/PracBio/PBs_Lec_05_11_2024.pdf)
+- [Лекция по вторичной структуре ДНК](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PBs_Lec_05_11_2024.pdf)
 
 ## Домашние Задания (1 Модуль)
 ### HW1
