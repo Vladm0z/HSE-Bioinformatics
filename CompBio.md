@@ -9,7 +9,7 @@
 HW = 0.5 * Код + 0.5 * Защита 
 
 ## Лекции
-- [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/blob/main/Bioinformatics/MSc/CompBio/Lec_1.pdf)
+- [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/CompBio/Lec_1.pdf)
 
 ## Домашние Задания (2 Модуль)
 ### HW1
