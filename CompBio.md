@@ -6,6 +6,7 @@
 [ПУД](https://www.hse.ru/edu/courses/900082126) (пока пустой, [хотя быть таким не должен](https://www.hse.ru/studyspravka/programmauchdisc))
 
 Оценка: 0.5 * HW_1 + 0.5 * HW_2
+
 HW = 0.5 * Код + 0.5 * Защита 
 
 ## Лекции
