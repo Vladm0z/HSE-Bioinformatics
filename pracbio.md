@@ -18,6 +18,7 @@
 - [GWAS tutorial](https://pbreheny.github.io/adv-gwas-tutorial/quality_control.html#fam)
 - [Лекция по вторичной структуре ДНК](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/PBs_Lec_05_11_2024.pdf)
 - [Phasing and Imputation](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Phasing%20and%20imputation.pdf)
+- [Microbiome](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/PracBio/Microbiome.pdf)
 
 ## Домашние Задания (1 Модуль)
 ### HW1
