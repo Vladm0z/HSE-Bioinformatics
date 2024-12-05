@@ -21,3 +21,8 @@ HW = 0.5 * Код + 0.5 * Защита
 [colab с заданиями](https://colab.research.google.com/drive/1tkrnlrXTOYf3vHXmf82n3iDFkVEVvzjZ#scrollTo=hehShsYn1Tv0)
 
 ### HW2
+
+до 15.12.2024 23:59
+сдавать на почту [aamikhaylova_9@miem.hse.ru](mailto:aamikhaylova_9@miem.hse.ru) с темой выч_инфра, сдавать нужно ссылку на колаб или ipynb, можно также прислать скрипт, обязательно каждое действие подкреплять скрином, чтобы по отчету (тексту дз) можно восстановить ход действий
+
+[colab с заданиями](https://colab.research.google.com/drive/1Otxj9CjOuL6fOfYPI8kObIbYkVJYyf2d#scrollTo=kpdaRSP5CwdD)
