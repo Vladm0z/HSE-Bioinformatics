@@ -1,0 +1,137 @@
+{
+  "session": {
+    "drawerPosition": "right",
+    "drawerWidth": 384,
+    "widgets": {
+      "GridBookmark": {
+        "id": "GridBookmark",
+        "type": "GridBookmarkWidget"
+      },
+      "hierarchicalTrackSelector": {
+        "id": "hierarchicalTrackSelector",
+        "type": "HierarchicalTrackSelectorWidget",
+        "view": "9cd99hjA0BVH0q75RorhJ",
+        "faceted": {
+          "filterText": "",
+          "showSparse": false,
+          "showFilters": true,
+          "showOptions": false,
+          "panelWidth": 400
+        }
+      }
+    },
+    "activeWidgets": {
+      "hierarchicalTrackSelector": "hierarchicalTrackSelector"
+    },
+    "minimized": false,
+    "id": "q56AH449pYf8D2mFnk82F",
+    "name": "Main Session",
+    "margin": 0,
+    "views": [
+      {
+        "id": "9cd99hjA0BVH0q75RorhJ",
+        "minimized": false,
+        "type": "LinearGenomeView",
+        "offsetPx": -1,
+        "bpPerPx": 131029.69578947368,
+        "displayedRegions": [
+          {
+            "reversed": false,
+            "refName": "1",
+            "start": 0,
+            "end": 248956422,
+            "assemblyName": "Main_Assembly"
+          }
+        ],
+        "tracks": [
+          {
+            "id": "zlF1eGUUBM-E-JSnfn2Qy",
+            "type": "FeatureTrack",
+            "configuration": "sorted.ENCFF801AHF.bed",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "VjZdzggQ_1LpV3LMlJLjM",
+                "type": "LinearBasicDisplay",
+                "configuration": "sorted.ENCFF801AHF.bed-LinearBasicDisplay"
+              }
+            ]
+          },
+          {
+            "id": "-aIeaFWX2HjTgxdWPQqOr",
+            "type": "FeatureTrack",
+            "configuration": "sorted.ENCFF540NGG.bed",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "cYPJVjl2yWsDMMGmk0cU8",
+                "type": "LinearBasicDisplay",
+                "configuration": "sorted.ENCFF540NGG.bed-LinearBasicDisplay"
+              }
+            ]
+          },
+          {
+            "id": "evflNnYcRi5197LLabbNI",
+            "type": "FeatureTrack",
+            "configuration": "sorted.ENCFF333TAT.bed",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "ymaUouwFcny1wGAHLfvzR",
+                "type": "LinearBasicDisplay",
+                "configuration": "sorted.ENCFF333TAT.bed-LinearBasicDisplay"
+              }
+            ]
+          },
+          {
+            "id": "QXpB1B28w5blnd2_F9phM",
+            "type": "FeatureTrack",
+            "configuration": "sorted.Homo_sapiens.GRCh38.108.gff3",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "y-y5osnoa8Sh1_pA8Qs1b",
+                "type": "LinearBasicDisplay",
+                "userBpPerPxLimit": 131029.69578947368,
+                "configuration": "sorted.Homo_sapiens.GRCh38.108.gff3-LinearBasicDisplay"
+              }
+            ]
+          },
+          {
+            "id": "5fzAEisFNwUGwQgr1Npjt",
+            "type": "FeatureTrack",
+            "configuration": "sorted.ENCFF885FQN.bed",
+            "minimized": false,
+            "displays": [
+              {
+                "id": "YcZOjOqzNZDd1jSA4Vg10",
+                "type": "LinearBasicDisplay",
+                "configuration": "sorted.ENCFF885FQN.bed-LinearBasicDisplay"
+              }
+            ]
+          }
+        ],
+        "hideHeader": false,
+        "hideHeaderOverview": false,
+        "hideNoTracksActive": false,
+        "trackSelectorType": "hierarchical",
+        "showCenterLine": false,
+        "showCytobandsSetting": true,
+        "trackLabels": "",
+        "showGridlines": true,
+        "highlight": [],
+        "colorByCDS": false,
+        "showTrackOutlines": true,
+        "bookmarkHighlightsVisible": true,
+        "bookmarkLabelsVisible": true
+      }
+    ],
+    "sessionTracks": [],
+    "sessionAssemblies": [],
+    "temporaryAssemblies": [],
+    "connectionInstances": [],
+    "sessionConnections": [],
+    "focusedViewId": "9cd99hjA0BVH0q75RorhJ",
+    "sessionPlugins": []
+  }
+}

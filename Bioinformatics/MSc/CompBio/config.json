@@ -1,0 +1,139 @@
+{
+  "assemblies": [
+    {
+      "name": "Main_Assembly",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "Main_Assembly-ReferenceSequenceTrack",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "Homo_sapiens.GRCh38.dna.primary_assembly.fa",
+            "locationType": "UriLocation"
+          },
+          "faiLocation": {
+            "uri": "Homo_sapiens.GRCh38.dna.primary_assembly.fa.fai",
+            "locationType": "UriLocation"
+          }
+        }
+      }
+    }
+  ],
+  "configuration": {},
+  "connections": [],
+  "defaultSession": {
+    "name": "New Session"
+  },
+  "tracks": [
+    {
+      "type": "FeatureTrack",
+      "trackId": "sorted.ENCFF801AHF.bed",
+      "name": "sorted.ENCFF801AHF.bed",
+      "adapter": {
+        "type": "BedTabixAdapter",
+        "bedGzLocation": {
+          "uri": "sorted.ENCFF801AHF.bed.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "sorted.ENCFF801AHF.bed.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "Main_Assembly"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "sorted.ENCFF540NGG.bed",
+      "name": "sorted.ENCFF540NGG.bed",
+      "adapter": {
+        "type": "BedTabixAdapter",
+        "bedGzLocation": {
+          "uri": "sorted.ENCFF540NGG.bed.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "sorted.ENCFF540NGG.bed.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "Main_Assembly"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "sorted.ENCFF333TAT.bed",
+      "name": "sorted.ENCFF333TAT.bed",
+      "adapter": {
+        "type": "BedTabixAdapter",
+        "bedGzLocation": {
+          "uri": "sorted.ENCFF333TAT.bed.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "sorted.ENCFF333TAT.bed.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "Main_Assembly"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "sorted.Homo_sapiens.GRCh38.108.gff3",
+      "name": "sorted.Homo_sapiens.GRCh38.108.gff3",
+      "adapter": {
+        "type": "Gff3TabixAdapter",
+        "gffGzLocation": {
+          "uri": "sorted.Homo_sapiens.GRCh38.108.gff3.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "sorted.Homo_sapiens.GRCh38.108.gff3.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "Main_Assembly"
+      ]
+    },
+    {
+      "type": "FeatureTrack",
+      "trackId": "sorted.ENCFF885FQN.bed",
+      "name": "sorted.ENCFF885FQN.bed",
+      "adapter": {
+        "type": "BedTabixAdapter",
+        "bedGzLocation": {
+          "uri": "sorted.ENCFF885FQN.bed.gz",
+          "locationType": "UriLocation"
+        },
+        "index": {
+          "location": {
+            "uri": "sorted.ENCFF885FQN.bed.gz.tbi",
+            "locationType": "UriLocation"
+          },
+          "indexType": "TBI"
+        }
+      },
+      "assemblyNames": [
+        "Main_Assembly"
+      ]
+    }
+  ]
+}
