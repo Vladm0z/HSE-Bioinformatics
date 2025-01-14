@@ -9,7 +9,7 @@ The objectives of the discipline are to familiarize the masters' students with t
 
 Почта: [vshchur@hse.ru](mailto:vshchur@hse.ru)
 
-Телеграм: [@vlshchur](t.me/vlshchur)
+Телеграм: [@vlshchur](https://t.me/vlshchur)
 
 Оценка: HW * ? + Project * ?
 
