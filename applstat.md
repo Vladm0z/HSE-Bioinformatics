@@ -9,6 +9,12 @@
 
 [Google Disk](https://drive.google.com/drive/folders/1PplInt9aI6i5wZ7Ghl9GomqTrKH5oAbD?usp=sharing )
 
+## Лекции
+
+[Программа Курс](https://docs.google.com/document/d/1TVdT1mn-iDgVKTJ1gESxasYt7IbLPJyqJN8V_Q0jJqw/edit?tab=t.0#heading=h.ep4hkx6w1xgp)
+
+- [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/maim/Bioinformatics/MSc/ApplStatistics/Lec_1.pdf)
+
 ## HW1
 
 В таблице пары столбцов соответствуют протеомам шести бактерий и шести эукариотических организмов. Таблицы для всех известных белков данных организмов содержат имена белков согласно банку Uniprot и их дли́ны (количества аминокислотных остатков). Имя белка состоит из двух частей, вторая часть (после подчёркивания) называется “мнемоника организма”. Соответствие мнемоник организмам следующее:
