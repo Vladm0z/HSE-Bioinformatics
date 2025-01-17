@@ -14,29 +14,31 @@
 В таблице пары столбцов соответствуют протеомам шести бактерий и шести эукариотических организмов. Таблицы для всех известных белков данных организмов содержат имена белков согласно банку Uniprot и их дли́ны (количества аминокислотных остатков). Имя белка состоит из двух частей, вторая часть (после подчёркивания) называется “мнемоника организма”. Соответствие мнемоник организмам следующее:
 
 #### Бактерии:
-Мнемоника	Организм
-BACSU	Bacillus subtilis (сенная палочка)
-CHLTR	Chlamydia trachomatis
-ECOLI	Escherichia coli (кишечная палочка)
-MYCMS	Mycoplasma mycoides
-MYCTU	Mycobacterium tuberculosis (палочка Коха)
-PROMA	Prochlorococcus marinus
+| Мнемоника | Организм |
+| ------------- | -------------------------- |
+| BACSU | Bacillus subtilis (сенная палочка) |
+| CHLTR | Chlamydia trachomatis |
+| ECOLI | Escherichia coli (кишечная палочка) |
+| MYCMS | Mycoplasma mycoides |
+| MYCTU | Mycobacterium tuberculosis (палочка Коха) |
+| PROMA | Prochlorococcus marinus |
 
 #### Эукариоты:
-Мнемоника	Организм
-CAVPO	Cavia porcellus (морская свинка)
-CHLVA	Chlorella variabilis (зелёная водоросль хлорелла)
-DROVI	Drosophila virilis (плодовая мушка)
-PHYIT	Phytophthora infestans (фитофтора)
-PLABA	Plasmodium berghei (малярийный плазмодий)
-YEAST	Saccharomyces cerevisiae (дрожжи)
+| Мнемоника | Организм |
+| ------------- | -------------------------- |
+| CAVPO | Cavia porcellus (морская свинка) |
+| CHLVA | Chlorella variabilis (зелёная водоросль хлорелла) |
+| DROVI | Drosophila virilis (плодовая мушка) |
+| PHYIT | Phytophthora infestans (фитофтора) |
+| PLABA | Plasmodium berghei (малярийный плазмодий) |
+| YEAST | Saccharomyces cerevisiae (дрожжи) |
 
 #### Задание
 1.	Выбрать одну из шести бактерий и один эукариотический организм
 2.	Проиллюстрировать различия между распределениями длин белков двух выбранных организмов (бактерии и эукариота) тремя способами:
-	a.	Совместной гистограммой
-	b.	Парой “ящиков с усами” (box plots)
-	c.	Графиками эмпирических функций распределения (два графика на одном рисунке)
+	* Совместной гистограммой
+	* Парой “ящиков с усами” (box plots)
+	* Графиками эмпирических функций распределения (два графика на одном рисунке)
 3.	Написать отчёт, в который включить полученные изображения и комментарии к ним
 
 #### Требования к отчёту
