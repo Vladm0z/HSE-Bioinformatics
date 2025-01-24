@@ -13,7 +13,8 @@
 
 [Программа Курса](https://docs.google.com/document/d/1TVdT1mn-iDgVKTJ1gESxasYt7IbLPJyqJN8V_Q0jJqw/edit?tab=t.0#heading=h.ep4hkx6w1xgp)
 
-- [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/maim/Bioinformatics/MSc/ApplStatistics/Lec_1.pdf)
+- [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/ApplStatistics/Lec_1.pdf)
+- [Лекция 2](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/ApplStatistics/Lec_2.pdf)
 
 ## HW1
 
