@@ -15,4 +15,5 @@
 ### Модули 3-4
 - [Популяционные модели в геномике](https://vladm0z.github.io/HSE-Bioinformatics/populmodels)
 - [Прикладная статистика](https://vladm0z.github.io/HSE-Bioinformatics/applstat)
+- [Глубинное обучение](https://vladm0z.github.io/HSE-Bioinformatics/dl)
 - [Семинар наставника](https://vladm0z.github.io/HSE-Bioinformatics/pracbio)
