@@ -1,0 +1,5702 @@
+Blast4-request ::= {
+  body queue-search {
+    program "blastn",
+    service "megablast",
+    queries bioseq-set {
+      seq-set {
+        seq {
+          id {
+            local str "Query_45530"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2111:12923:20531
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2111:12923:20531 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45531"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2111:21786:24036
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2111:21786:24036 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45532"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1110:18563:5228
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1110:18563:5228 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45533"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1106:5628:20095
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1106:5628:20095 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45534"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1111:16832:8504
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1111:16832:8504 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF893A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45535"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1107:17909:4107
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1107:17909:4107 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45536"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2101:27682:8728
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2101:27682:8728 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646C868CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45537"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2107:17286:11833
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2107:17286:11833 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BE768387A9B02A664A6B7A12D23B80F56A7C17AA
+9E4FE31BD21C8BB80880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45538"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2104:28029:10379
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2104:28029:10379 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45539"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1109:29108:12940
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1109:29108:12940 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A2042D27B8095DA7C1628
+1A41E01EFFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45540"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1109:5197:16888
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1109:5197:16888 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A2042D27B8095DA7C1628
+1A41E01EFFDF8B9208'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45541"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1101:12533:2900
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1101:12533:2900 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45542"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1103:7078:14730
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1103:7078:14730 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095527C1EA8
+2E41E01CFFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45543"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1111:8651:26061
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1111:8651:26061 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45544"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1109:12649:21246
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1109:12649:21246 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAB909BCD683CFA9B02276CA6BDB66DEBB80B5367C1AE8
+DE65AB1A9A1E8B9ACA80'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45545"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2105:16195:15152
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2105:16195:15152 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C48ADD09BEF68347A9B026E64A6BE2C2123B80D5627C1DA8
+3A4CEE1E761C8BBB48A8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45546"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2112:17322:3548
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2112:17322:3548 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45547"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1102:23545:6650
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1102:23545:6650 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+3E49E01CEFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45548"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1109:22369:9943
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1109:22369:9943 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D22B80D5AA741568
+1E5FE31CACDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45549"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2113:18954:8297
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2113:18954:8297 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45550"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1106:11441:6110
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1106:11441:6110 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BE768387A9B02A664A6B7A12D23B80F56A7C17AA
+9E4FE31BD21C8BB808A8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45551"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2106:17974:12510
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2106:17974:12510 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45552"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:15767:9774
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:15767:9774 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45553"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2101:25541:20436
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2101:25541:20436 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02676CA68CFC2D2AB83D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45554"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1101:7191:13864
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1101:7191:13864 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45555"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1102:13468:28162
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1102:13468:28162 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45556"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2114:3380:20295
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2114:3380:20295 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C68AB909BC3683C7A9B026464A6BFBC2D23B80D56A7417A8
+1E4FE01E909C8B76C8A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45557"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2101:16628:28644
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2101:16628:28644 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAA909BCD68FC7ABB02A26C8690E42DE8B80A6AA54155A
+1E77A01ECE9E8B928880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45558"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2107:11709:20613
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2107:11709:20613 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAA909BED6838FA9B02A66CA697BE2DE8B80B5E7FC2BA8
+3E7FA31E229F8B9288A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45559"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1110:24823:7065
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1110:24823:7065 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45560"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2113:21383:19494
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2113:21383:19494 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45561"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2111:8272:14299
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2111:8272:14299 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0AAC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45562"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:21480:4297
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:21480:4297 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095527C1EA8
+2E41E01CFFDF8B9208'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45563"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1111:10952:17885
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1111:10952:17885 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C68AB989BC368387A9B02A4ECA68C3C2F2BB8095EA741728
+3E47C01EBC1C8B3EC8A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45564"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2112:11904:14636
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2112:11904:14636 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C68AB909BC3683C7A9B026464A6BFBC2D23B80D56A7417A8
+1E4FE01E909C8B76C8A8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45565"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2105:29613:15053
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2105:29613:15053 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BE768387A9B02A664A6B7B12D23B80F56A7C17AA
+9E4FE31BD21C8BB808A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45566"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1104:21494:27807
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1104:21494:27807 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45567"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2105:27231:18494
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2105:27231:18494 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45568"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2109:7320:11287
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2109:7320:11287 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45569"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2112:20144:27465
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2112:20144:27465 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C68AB989BC368385A9B02A4ECA68C3C2F2BB8095EA741728
+3E47C01EBC1C8B3EC880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45570"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2105:28487:19394
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2105:28487:19394 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B02A264A6BC0C2DEA3B8095D2741E2
+83E41A01EFC1F8B92088'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45571"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2112:10028:23575
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2112:10028:23575 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C70AA9C9BEF69FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45572"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1112:28088:9016
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1112:28088:9016 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45573"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1101:24685:6678
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1101:24685:6678 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+3E49E01CEFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45574"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:21431:23788
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:21431:23788 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CA8909BED683C7ABB02A26C86BBAC2DE8B80A6AA54155A
+1E77A01CD21E8B928880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45575"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2109:21023:15238
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2109:21023:15238 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA69CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45576"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2109:12627:7286
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2109:12627:7286 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C68AB909BC3683C7A9B026464A6BFBC2D23B80D56A7417A8
+1E4FE41E909C8B76C8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45577"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2103:25747:21730
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2103:25747:21730 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095D27C1EA8
+3E49E01CFFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45578"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1105:15030:15681
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1105:15030:15681 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45579"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2111:16313:23807
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2111:16313:23807 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D22B80D5AA741568
+1E5FE31EACDF8B3A08'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45580"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2107:19614:11209
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2107:19614:11209 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095D27C1EA8
+1E49E01CFFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45581"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1106:26116:18215
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1106:26116:18215 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D22B80D5AA741568
+1E5FE31EACDF8B3A08'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45582"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2113:22514:6606
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2113:22514:6606 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CEFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45583"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1103:23471:5390
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1103:23471:5390 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF6AFC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45584"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1103:10276:18955
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1103:10276:18955 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C68AB909BC3693C7A9B026464A6BFBC2D23B80D5627C1FA8
+1E4FE01E909C8B7EC8AA'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45585"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1108:4489:19569
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1108:4489:19569 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C68AB9899C368387A9B02A4ECA69C3C2F2BB8095EA741728
+3E47C01EBC1C8B3EC8A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45586"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2110:9511:21492
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2110:9511:21492 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45587"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2105:18122:12625
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2105:18122:12625 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095D27C1EA8
+3E49E01CFFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45588"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1103:19458:14972
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1103:19458:14972 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA541568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45589"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2106:11802:19790
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2106:11802:19790 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CEFDF8B9208'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45590"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2108:14461:18767
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2108:14461:18767 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45591"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1102:23836:6360
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1102:23836:6360 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45592"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2114:15044:4400
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2114:15044:4400 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D22B80D5AA741568
+1E5FE31EACDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45593"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1112:13308:28016
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1112:13308:28016 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741D68
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45594"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:7535:25836
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:7535:25836 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C6CAA82ABFDA8FCFAAB02A760AABEBAAFEAA80B53A7C2AA8
+AAA6A86AAA3AABAAEAAA'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45595"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1101:4803:11738
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1101:4803:11738 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C68AB989BC368387A9B02A4ECA68C3C2F2BB8095EA741728
+3E47C01EBC1C8B3EC880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45596"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1110:18080:21877
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1110:18080:21877 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+3E49E01CEFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45597"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2103:7581:23685
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2103:7581:23685 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45598"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1102:7354:10254
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1102:7354:10254 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C6CAB909BCD683CFA9B02276CA6BDB66DEBB80B5367C1AE8
+DE65AB1A9A1E8B9ACA'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45599"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:3651:22132
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:3651:22132 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45600"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1103:25331:9868
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1103:25331:9868 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D22B80D5AA741568
+1E5FE31EACDF8B3A08'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45601"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2104:22668:24829
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2104:22668:24829 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CA8989BED683C7ABB02A2ECA6A3A42F2BB80E68A741758
+9E47C01E7BDF8B82C8A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45602"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1101:18627:10080
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1101:18627:10080 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095D27C1EA8
+3E49E01CFFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45603"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1109:17794:7053
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1109:17794:7053 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D22B80D5AA741568
+1E5FE31EACDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45604"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2110:16221:23702
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2110:16221:23702 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CCFDF8B9208'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45605"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1106:10100:10671
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1106:10100:10671 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C6CAB909BCD68FCFA9B02276CA6BDB66DEBB80B5367C1AE8
+DA65AB1A9A1E8B9ACA'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45606"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2102:20619:20626
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2102:20619:20626 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45607"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1105:4429:13243
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1105:4429:13243 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5F631E8CDF8B3A08'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45608"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1104:19437:7740
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1104:19437:7740 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B42646CA68CFC2D22B80D5AA741568
+1E5FE31EACDF8B3A08AE'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45609"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2111:13934:15474
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2111:13934:15474 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B42646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45610"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1103:22684:10209
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1103:22684:10209 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0AA0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45611"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1108:22954:5183
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1108:22954:5183 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B02A264A6B7FC2DE0EE025749F078A
+089368078087E2E48228'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45612"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2101:3842:18996
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2101:3842:18996 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAF909BED68FC7ABB02A6ECA68A642FA8B80DCEA741530
+1E77401EE55F8B368880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45613"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2103:13237:4402
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2103:13237:4402 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAB989BC3683C7A9B02626486BC3C2D23B80D562741FA8
+6E4FE01EBC1C8BBB48A8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45614"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2102:7375:5685 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2102:7375:5685 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAB909BCD68FCF89B02276CA6BDB66DEBB80B5367C1AE8
+DE65AB1A9A1E8B9ACAA0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45615"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2104:24917:9095
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2104:24917:9095 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+9E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45616"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2101:10073:22642
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2101:10073:22642 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45617"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2104:23791:11852
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2104:23791:11852 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45618"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2109:7610:6823 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2109:7610:6823 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45619"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2101:14857:4171
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2101:14857:4171 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45620"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:5556:12183
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:5556:12183 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AB741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45621"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:18535:15425
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:18535:15425 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45622"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1101:12912:15527
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1101:12912:15527 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45623"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1102:13185:17637
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1102:13185:17637 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAB989BC3683C7A9B02626486BC3C2D23B80D562741FA8
+6E4FE01EBC1C8BBB48A8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45624"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1107:9461:21964
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1107:9461:21964 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45625"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2103:8213:10164
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2103:8213:10164 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CEFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45626"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1114:19370:3136
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1114:19370:3136 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA69CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45627"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2107:25818:19044
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2107:25818:19044 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAB909BCD68FCFA9B02276CA6BDB66DEBB80B5367C1AE8
+DA65AB1A9A1E8B9ACA80'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45628"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2112:15451:27617
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2112:15451:27617 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C48A3909BCD6838FA9B026DECAE9FFC2D65B60D52A7415E8
+4A6BA01C509E8B1ACAA4'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45629"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1108:10973:5079
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1108:10973:5079 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 137,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC00'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45630"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1111:22426:17387
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1111:22426:17387 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45631"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2113:21841:24782
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2113:21841:24782 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+3E49E01CEFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45632"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2105:10841:25466
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2105:10841:25466 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45633"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1105:20164:21412
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1105:20164:21412 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646EA68CFC2D2AB80D5AA741568
+1E5FE31E8C5F8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45634"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:15209:25130
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:15209:25130 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45635"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2111:7720:18967
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2111:7720:18967 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+3E49E01CEFDF8B9208'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45636"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2107:6906:14268
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2107:6906:14268 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BED68FC7A9B02646CA69CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45637"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1106:4716:6680 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1106:4716:6680 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026264A6808C2DE3B80955A7C1628
+3E4DA01EEFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45638"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1114:19709:6803
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1114:19709:6803 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+3E49E01CEFDF8B9208'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45639"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2101:11150:25053
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2101:11150:25053 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45640"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1114:8262:6867 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1114:8262:6867 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C68A3989BCD68FCFABF02AE6CA6A57C2D26B0039A674196D
+896F807A89722EA62080'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45641"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1111:8406:13613
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1111:8406:13613 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CA6909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CEFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45642"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2101:21502:10979
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2101:21502:10979 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAB909BCD68FCFA9B02276CA6BDB66DEBB80B5367C1AE8
+DA65AB1A9A1E8B9ACAA0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45643"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2108:14171:27435
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2108:14171:27435 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45644"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2106:17966:8502
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2106:17966:8502 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45645"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2112:15843:14571
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2112:15843:14571 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D22B80D5AA741568
+1E5FE31EACDF8B3A08'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45646"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2111:23251:13242
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2111:23251:13242 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A2042D27B8095DA7C1628
+1A41E01EFFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45647"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1112:28835:16895
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1112:28835:16895 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CEFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45648"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1110:21121:15557
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1110:21121:15557 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45649"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2103:13803:4520
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2103:13803:4520 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45650"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1103:27566:13321
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1103:27566:13321 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAB909BCD683CFA9B02276CA6BDB66DEBB80B5367C1AE8
+DE65AB1A9A1E8B9ACAA0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45651"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2103:2469:16432
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2103:2469:16432 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45652"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2114:6870:10053
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2114:6870:10053 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45653"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2114:19839:14605
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2114:19839:14605 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45654"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1112:27403:14501
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1112:27403:14501 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+3E49E01CEFDF8B9208A2'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45655"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1107:20738:12378
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1107:20738:12378 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAB909BCD68FCFA9B02276CAEBDB66DEBB80B5367C1AE8
+DA65AB1A9A1E8B9ACAA0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45656"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2114:25384:22010
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2114:25384:22010 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CEFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45657"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1108:13353:18941
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1108:13353:18941 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45658"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1104:13849:26420
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1104:13849:26420 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C68AB989BC368387A9B02A4ECA68C3C2F2BB8095EA741728
+3E47C01EBC1C8B3EC8A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45659"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2113:13566:14659
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2113:13566:14659 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026264A6808C25E3B80955A7C1628
+3E4DA01EEFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45660"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2108:10771:23692
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2108:10771:23692 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45661"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2102:24070:17587
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2102:24070:17587 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45662"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1109:17862:5726
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1109:17862:5726 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45663"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1102:19404:18243
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1102:19404:18243 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2DA7B8095527C1EA8
+3E49E01CEFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45664"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1109:18755:16306
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1109:18755:16306 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA74156A
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45665"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1110:11592:19495
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1110:11592:19495 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CEFDF8B9208'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45666"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1104:6219:15653
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1104:6219:15653 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45667"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2105:9097:27647
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2105:9097:27647 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45668"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1107:23646:21324
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1107:23646:21324 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02676CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45669"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1110:9719:14227
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1110:9719:14227 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45670"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:21888:15413
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:21888:15413 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8C5F8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45671"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1104:9331:14000
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1104:9331:14000 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B02A264A6B7FC2DE0EE025749F078A
+099368078087E2E48220'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45672"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2110:27934:16698
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2110:27934:16698 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAB909BCD68FCFA9B02276CA6BDB66DEBB80B5367C1AE8
+DA65AB1A9A1E8B9ACAA0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45673"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2111:20345:15083
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2111:20345:15083 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CEFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45674"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2106:16479:2190
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2106:16479:2190 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C68AB909BC3683C7A9B026464A6BE3C2D23B80D5627C1FA8
+1E4FE01EB49C8B7EC8A8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45675"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1108:16220:16393
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1108:16220:16393 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C682B5A9BCD68FCFABF02A26CA5A23C26EFB80ECBA741779
+1E49981EB7DF8B191040'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45676"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2112:23571:26817
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2112:23571:26817 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45677"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2114:5365:13502
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2114:5365:13502 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45678"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2108:11405:13532
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2108:11405:13532 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CA35893CD68B87ABB022F9B2BA4C30B272E037AE9D053D
+21CF2701EF09D885BCA0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45679"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2107:22809:12357
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2107:22809:12357 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45680"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1108:2697:15897
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1108:2697:15897 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45681"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1108:15310:23464
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1108:15310:23464 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C68AB989BC368387A9B02A4ECA68C3C2F2BB8095EA741728
+3E47C01EBC1C8B3EC8A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45682"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1112:16268:28659
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1112:16268:28659 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45683"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1108:18966:7920
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1108:18966:7920 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45684"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2101:27834:19769
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2101:27834:19769 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095D27C1EA8
+1E49E01CFFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45685"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1114:20343:13774
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1114:20343:13774 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45686"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1105:15531:26443
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1105:15531:26443 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27F8095527C1EA8
+2241E01CFFDFCB9208'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45687"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2103:19807:4742
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2103:19807:4742 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C68AB909BC3683C7A9B026464A6BE3C2D23B80D5627C1FA8
+1E4FE01EB49C8B7EC8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45688"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2113:10565:23942
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2113:10565:23942 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAB909BCD68FCFA9B02276CA6BDB66DEBB80B5367C1AE8
+DA65AB1A9A1E8B9ACA80'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45689"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2114:10652:21266
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2114:10652:21266 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45690"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1103:27151:18751
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1103:27151:18751 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C68A3989BCD68FCFABF02AE6CA68F742D26B4015AA741569
+796F807A837E2E2620B0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45691"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:25343:6695
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:25343:6695 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45692"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2111:6814:7978 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2111:6814:7978 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CEFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45693"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2112:26246:23212
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2112:26246:23212 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA541568
+1C5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45694"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1104:21890:9013
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1104:21890:9013 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095527C1EA8
+2E41E01CFFDF8B9208A2'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45695"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1101:17533:13495
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1101:17533:13495 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAB909BCD683CFA9B02276CA6BDB66DEBB80B5367C1AE8
+DE65AB1A9A1E8B9ACAA0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45696"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1101:14532:27066
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1101:14532:27066 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 137,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC00'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45697"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1112:21472:13906
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1112:21472:13906 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAE909BCD68FC7ABB02A6ECA6A2E42D23B801CEA741532
+5E4FE01EC7DF8B1E88A4'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45698"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2113:19197:10655
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2113:19197:10655 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095527C1EA8
+2E41E01CFFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45699"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1114:19207:21152
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1114:19207:21152 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095D27C1EA8
+1E49E01CFFDF8B9208A2'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45700"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1110:21088:3638
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1110:21088:3638 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45701"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1112:6315:22430
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1112:6315:22430 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAB909BCD68FCFA9B02276CA6BDB66DEBB80B5367C1AE8
+DA65AB1A9A1E8B9ACAA0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45702"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2110:11609:24538
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2110:11609:24538 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095527C1EA8
+2E41E01CFFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45703"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1113:17671:8426
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1113:17671:8426 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45704"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2109:21870:3404
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2109:21870:3404 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45705"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1108:10845:17245
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1108:10845:17245 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45706"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1110:17014:12609
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1110:17014:12609 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAA909BCD68FC7ABB02A26C8690E42D23B8095AA74166A
+1E4FE01EE39E8B928880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45707"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1111:27543:14551
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1111:27543:14551 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C68AB989BC368387A9B02A4ECA68C3C2F2BB8095EA741728
+3E47C01EBC1C8B3EC8A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45708"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1108:16284:20875
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1108:16284:20875 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45709"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1109:6245:22926
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1109:6245:22926 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45710"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2114:12991:8820
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2114:12991:8820 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45711"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2105:21410:7055
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2105:21410:7055 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D22B80D5AA741568
+1E5FE31EACFF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45712"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2102:20885:25512
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2102:20885:25512 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45713"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1112:23009:13423
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1112:23009:13423 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED683C7ABB02A264A6A1E42FA3B80E5AA7C1568
+9E4D401ECBDF8B82C880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45714"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1112:26279:18006
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1112:26279:18006 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45715"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2108:5471:7809 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2108:5471:7809 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6AAB989BCB683C7A9B02A4ECA68E3C2F2BB80976A741788
+324FC01EBCDE8B1EC8A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45716"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2103:11752:13438
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2103:11752:13438 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A0880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45717"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2102:8459:19041
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2102:8459:19041 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D22B80D5AA741568
+1E5FE31EACDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45718"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2105:21484:10844
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2105:21484:10844 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D22B80D5AA741568
+1E5FE31EACDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45719"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2102:17502:26198
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2102:17502:26198 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 136,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B42646CA68CFC2D22B80D5AA741568
+1E5FE31EACDF8B3A08AE'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45720"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1102:20538:14273
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1102:20538:14273 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C68AB909BC3683C7A9B026464A6BFBC2D23B80D56A7417A8
+1E4FE01E909C8B76C880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45721"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2102:20580:3522
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2102:20580:3522 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 132,
+            seq-data ncbi2na 'C60AA9CBBEF68FC7A9B02682CA78FFF2D2AB80D5AA44156B
+1FDFE71E8CDF8B3A0A'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45722"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1109:14375:9104
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1109:14375:9104 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C68AB909BC3683C7A9B026464A6BE3C2D23B80D5627C1FA8
+1E4FE01EB49C8B7EC880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45723"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2107:10880:27495
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2107:10880:27495 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60A89C9BC7683CFA9B026C6CA69F2C2FE8B80D7EA7C1508
+3E7F401C729C8B348AA0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45724"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2112:10511:4956
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2112:10511:4956 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C60AA9C9BEF68FC7A9B02646CA68CFC2D2AB80D5AA741568
+1E5FE31E8CDF8B3A08A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45725"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1102:18025:10391
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1102:18025:10391 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C68A3989BCD68FCFABF0AAE6CA683342D26B003DAA74156D
+B96F8078EF7E2EA62080'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45726"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1106:15421:24889
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1106:15421:24889 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 135,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A08C2D27B8095527C1EA8
+1E49E01CCFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45727"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:1109:10768:26083
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:1109:10768:26083 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 133,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095D27C1EA8
+1E49E01CFFDF8B920880'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45728"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2113:7596:26176
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2113:7596:26176 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCFA9B026064A6A20C2D27B8095527C1EA8
+2E41E01CFFDF8B9208A0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_45729"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str ">M05383:82:000000000-CWTD7:1:2105:9493:24520
+ 1:N:0:0"
+                }
+              }
+            },
+            molinfo {
+              biomol genomic
+            },
+            title "M05383:82:000000000-CWTD7:1:2105:9493:24520 1:N:0:0"
+          },
+          inst {
+            repr raw,
+            mol dna,
+            length 134,
+            seq-data ncbi2na 'C6CAE909BED68FCF29B026064A6A2042D27B8095DA7C1628
+1A41E01EFFDF8B9208A0'H
+          }
+        }
+      }
+    },
+    subject database "core_nt",
+    algorithm-options {
+      {
+        name "EvalueThreshold",
+        value cutoff e-value { 5, 10, -2 }
+      },
+      {
+        name "UngappedMode",
+        value boolean FALSE
+      },
+      {
+        name "PercentIdentity",
+        value real { 0, 10, 0 }
+      },
+      {
+        name "HitlistSize",
+        value integer 100
+      },
+      {
+        name "EffectiveSearchSpace",
+        value big-integer 0
+      },
+      {
+        name "DbLength",
+        value big-integer 0
+      },
+      {
+        name "WindowSize",
+        value integer 0
+      },
+      {
+        name "DustFiltering",
+        value boolean TRUE
+      },
+      {
+        name "RepeatFiltering",
+        value boolean FALSE
+      },
+      {
+        name "MaskAtHash",
+        value boolean TRUE
+      },
+      {
+        name "DustFilteringLevel",
+        value integer 20
+      },
+      {
+        name "DustFilteringWindow",
+        value integer 64
+      },
+      {
+        name "DustFilteringLinker",
+        value integer 1
+      },
+      {
+        name "GapXDropoff",
+        value real { 6, 10, 1 }
+      },
+      {
+        name "GapXDropoffFinal",
+        value real { 1, 10, 2 }
+      },
+      {
+        name "GapExtnAlgorithm",
+        value integer 1
+      },
+      {
+        name "MismatchPenalty",
+        value integer -2
+      },
+      {
+        name "MatchReward",
+        value integer 1
+      },
+      {
+        name "GapOpeningCost",
+        value integer 0
+      },
+      {
+        name "StrandOption",
+        value strand-type both-strands
+      },
+      {
+        name "WordSize",
+        value integer 28
+      }
+    },
+    format-options {
+      {
+        name "Web_JobTitle",
+        value string " M05383:82:000000000-CWTD7:1:2111:12923:20531 "
+      },
+      {
+        name "Web_ShortQueryAdjust",
+        value boolean TRUE
+      }
+    }
+  }
+}
+
