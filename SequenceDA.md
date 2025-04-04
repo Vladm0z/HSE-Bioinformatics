@@ -13,4 +13,4 @@ HW3 - дедлайн 2 недели
 Exam: 50 вопросов в тестовом виде (любое число правильных ответов i.e. от 2 до 10, если правильных ответов n в воспросе и неправильных m то каждый правильный дает 1/n и неправильный -1/m)
       
 #### Лекции
-- [Лекция 1]()
+- [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/SequenceDA/Lection_1.pdf)
