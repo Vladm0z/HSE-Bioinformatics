@@ -1,6 +1,6 @@
 # Магистрская программа "Анализ данных в биологии и медицине"
 
-### [Расписание](https://www.hse.ru/ma/adbm/timetableadbm?fromdate=2025.01.27&todate=2025.02.01&groupoid=206574&receiverType=3&timetable-courses=1&timetable-groups=206574)
+### [Расписание](https://www.hse.ru/ma/adbm/timetableadbm)
 
 ## 1 год
 ### Модули 1-2
@@ -17,3 +17,4 @@
 - [Прикладная статистика](https://vladm0z.github.io/HSE-Bioinformatics/applstat)
 - [Глубинное обучение](https://vladm0z.github.io/HSE-Bioinformatics/dl)
 - [Семинар наставника](https://vladm0z.github.io/HSE-Bioinformatics/pracbio)
+- [Анализ данных секвенирования 1](https://vladm0z.github.io/HSE-Bioinformatics/SequenceDA)
