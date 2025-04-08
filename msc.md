@@ -18,3 +18,4 @@
 - [Глубинное обучение](https://vladm0z.github.io/HSE-Bioinformatics/dl)
 - [Семинар наставника](https://vladm0z.github.io/HSE-Bioinformatics/pracbio)
 - [Анализ данных секвенирования 1](https://vladm0z.github.io/HSE-Bioinformatics/SequenceDA)
+- [Алгоритмы в биоинформатике последовательностей](https://vladm0z.github.io/HSE-Bioinformatics/BioAlgorithms)
