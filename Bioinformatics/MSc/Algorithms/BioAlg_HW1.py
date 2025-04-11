@@ -148,10 +148,18 @@ def calculate_error_rate(true_states, predicted_states):
 
 
 def get_clean_segment(sequence, seg_length=50000):
-    for i in range(0, len(sequence) - seg_length, seg_length//10):
-        seg = sequence[i:i+seg_length]
+    if len(sequence) < seg_length:
+        return None
+
+    max_start = len(sequence) - seg_length
+    start_positions = list(range(0, max_start + 1, seg_length // 10))
+    random.shuffle(start_positions)
+
+    for start in start_positions:
+        seg = sequence[start:start+seg_length]
         if all(letter in "ATGC" for letter in seg):
             return seg
+    
     return None
 
 if __name__ == "__main__":
@@ -169,14 +177,14 @@ if __name__ == "__main__":
     print(f"Genome 2 length: {len(seq2)}")
 
     chimeric_sequence, chimeric_true_states = build_chimeric_sequence(target_length=50000, avg_length=300)
-    print(f"Chimeric sequence length: {len(chimeric_sequence)}")
+    print(f"Chimeric length: {len(chimeric_sequence)}")
 
     # Emission probabilities
     emission_probs_1 = compute_emission_probs(seq1)
     emission_probs_2 = compute_emission_probs(seq2)
 
-    print("Emission 1:", emission_probs_1)
-    print("Emission 2:", emission_probs_2)
+    #print("Emission Probabilities 1:", emission_probs_1)
+    #print("Emission Probabilities 2:", emission_probs_2)
 
     p_stay = 299 / 300
     p_switch = 1 / 300
