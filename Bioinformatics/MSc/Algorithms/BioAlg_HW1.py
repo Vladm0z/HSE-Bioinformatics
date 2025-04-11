@@ -1,7 +1,6 @@
 import sys
 import numpy as np
 import random
-import requests
 import math
 import matplotlib.pyplot as plt
 from Bio import SeqIO
