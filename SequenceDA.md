@@ -41,5 +41,66 @@
 | 13.06.2025 | Exam |
 
 
-#### Лекции
+## Лекции
 - [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/SequenceDA/Lection_1.pdf)
+
+## ДЗ
+
+### ДЗ 1
+
+In this task, you will analyze paired-end Illumina sequencing data (FASTQ files) by performing quality control, read filtering, alignment to the human reference genome, and BAM file processing.
+
+In order to make it as easy as possible here You can find [colab](https://colab.research.google.com/drive/1cSaDs-e1vdLm5Zix5mBLBhDnaS0f0Jvs?usp=sharing) example. Yes, everything besides installation commands and fastqc – on You
+
+You can find [assigned fastq files here](https://disk.yandex.ru/i/SrCF0L1GGjk7pg) and download them from [here (1000 genomes)](https://ftp-trace.ncbi.nih.gov/1000genomes/ftp/phase3/data/NA12878/sequence_read/).
+
+1.
+- Quality Control with FastQC
+  -	Run FastQC on the raw FASTQ files (sample_R1.fastq.gz, sample_R2.fastq.gz).
+  -	Examine the HTML reports to check:
+  -	Per-base sequence quality.
+  -	Adapter contamination.
+  -	GC content distribution.
+- Question:
+  - Based on the FastQC report, what are the main quality issues in the raw reads?
+
+2.
+- Read Trimming (Optional but Recommended)
+  -	Use Trimmomatic or FastP to remove adapters and low-quality bases.
+  -	Compare the trimmed FASTQ files with the original ones. Use multiQC if applicable,
+- Question:
+  - How many reads were discarded during trimming? Did the overall quality improve?
+
+3.
+- Alignment to the Human Reference Genome (GRCh38)
+  -	Index the reference genome (GRCh38.fa) using bwa index.
+  -	Align the trimmed reads using bwa mem.
+  -	Convert the output SAM file to a sorted BAM file (aligned_sorted.bam).
+- Question:
+  - What percentage of reads successfully aligned to the genome? (Use samtools flagstat.)
+
+4.
+- BAM File Processing & Analysis
+  -	Mark PCR duplicates using samtools markdup.
+  -	Calculate read coverage (samtools depth).
+  -	(Optional) Perform variant calling (bcftools mpileup).
+
+- Questions:
+  -	Why is it important to mark PCR duplicates before variant calling?
+  -	What regions of the genome have the highest/lowest coverage?
+
+Expected Deliverables
+  -	FastQC reports (raw and trimmed, if applicable).
+  -	Trimmed FASTQ files (if trimming was performed).
+  -	Sorted & indexed BAM file (aligned_sorted.bam).
+  -	Coverage file (coverage.txt).
+  -	(Optional) VCF file (variants.vcf) with potential variants.
+
+Discussion & Critical Thinking Questions
+- Data Quality:
+  -	How did the FastQC results influence your decision to trim reads?
+  -	Would you trust variant calls made from low-quality regions? Why or why not?
+- Alignment & Duplicates:
+  -	If only 60% of reads aligned, what could be possible reasons?
+  -	How do PCR duplicates affect downstream analysis?
+
