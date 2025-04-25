@@ -43,6 +43,9 @@
 
 ## Лекции
 - [Лекция 1](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/SequenceDA/Lection_1.pdf)
+- [Лекция 2](https://disk.yandex.ru/d/z1g3QDc-WFmUtA/Lection_2)
+- [Лекция 3](https://disk.yandex.ru/d/z1g3QDc-WFmUtA/Lection_3)
+- [Лекция 4](https://disk.yandex.ru/d/z1g3QDc-WFmUtA/Lection_4)
 
 ## ДЗ
 
