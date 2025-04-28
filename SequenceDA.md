@@ -107,3 +107,13 @@ Discussion & Critical Thinking Questions
   -	If only 60% of reads aligned, what could be possible reasons?
   -	How do PCR duplicates affect downstream analysis?
 
+### ДЗ 2
+
+1. Find the sequence for the first exon of the human gene for the [assigned protein](https://disk.yandex.ru/i/ZiDhSlyQaFT4Ww). You can check on proteins via UniProt.
+2. Using the tips, directions and formulas indicated, choose two primer sequence, a forward and a reverse primer.
+3. Use [eurofinsgenomics](https://eurofinsgenomics.eu/en/ecom/tools/oligo-analysis) and [genome.ucsc](https://genome.ucsc.edu/cgi-bin/hgPcr)  to analyze both of your primers. For each primer, take a screenshot of each analysis and include a caption that demonstrates why the analysis supports the use of this primer.
+4. When you are done, write up a paragraph discussing why the criteria that go into primer design are important, and describing the process that you went through in designing your primer, including failed attempts (primers that did not meet criteria) and how you overcame them, what was the most challenging criteria to meet and why, etc. Please, provide your calculations. Automatic primer design alone will not be accepted.
+-	Sequences of both primers
+-	Sequence of target exon
+-	Used formulas and calculations
+-	In silico PCR results 
