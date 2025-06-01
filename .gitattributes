@@ -1,0 +1,5 @@
+* linguist-vendored
+*.html linguist-vendored=false
+*.ipynb linguist-vendored=false
+*.R linguist-vendored=false
+*.r linguist-vendored=false
