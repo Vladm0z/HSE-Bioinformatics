@@ -1,3 +1,4 @@
-# HSE-minor-bioinf
+## Bioinformatics, HSE University
 
-Материалы семинаров и лекций minor Биоинформатика ВШЭ
+- [Minor](https://vladm0z.github.io/HSE-Bioinformatics/minor)
+- [MSc Data Analysis in Biology and Medicine](https://vladm0z.github.io/HSE-Bioinformatics/msc)
