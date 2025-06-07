@@ -117,3 +117,55 @@ Discussion & Critical Thinking Questions
 -	Sequence of target exon
 -	Used formulas and calculations
 -	In silico PCR results 
+
+
+### Exam
+
+
+1. Case Study: A biotech startup wants to use sequencing for personalized medicine but has limited funds. Compare WGS, WES, and targeted panels for their cost, coverage, and clinical utility. Recommend an approach.
+2. Critical Analysis: "Long-read sequencing will replace short-read technologies." Defend or refute this statement using throughput, accuracy, and applications. 3. Hypothetical Scenario: Design a sequencing project to track antibiotic resistance in a hospital. Include sample types, technology choice, and analysis steps.
+4. Ethics Debate: Should patients own their genomic data? Discuss privacy, commercialization, and research implications.
+5. Agriculture: How can CRISPR-edited crops be validated using sequencing? Contrast NGS with Sanger.
+6. Forensics: A cold case has degraded DNA. Would you use mitochondrial sequencing or SNP microarrays? Why?
+7. Cancer: A tumor has low purity (<20%). How would scRNA-seq vs. bulk RNA-seq resolve heterogeneity?
+8. Metagenomics: Compare 16S rRNA sequencing vs. shotgun metagenomics for gut microbiome studies.
+9. FastQC: A FastQC report shows per-base quality drops at read ends. Is this problematic? How to fix?
+10. MultiQC: A MultiQC report aggregates 10 samples. One sample has 50% duplicates. Interpret.
+11. Case Study: A project has 10x coverage but high PCR duplicates. Propose wet-lab and computational solutions.
+12. Case Study: A researcher has a 100GB FASTQ file and needs to count reads matching "ATGCN{10,}". How?
+13. Permissions: A bioinformatics tool fails with "Permission denied." How to fix the issue?
+14. Pipeline Debugging: A shell script with bwa | samtools crashes. How would you use intermediate files to debug?
+15. Case Study: A WES kit captures only 60% of target regions. Propose wet-lab and bioinformatics fixes.
+16. Comparative Design: Compare DNA shearing (sonication vs. enzymatic) for AT-rich genomes.
+17. Contamination: A sample shows 5% microbial reads. Is this wet-lab contamination or analysis error? Diagnose.
+18. FFPE Samples: Design a library prep protocol for degraded FFPE DNA versus fresh frozen.
+19. Cost Analysis: Compare the cost per sample of manual vs. automated library prep (include reagent waste).
+20. Troubleshooting: A qPCR quantification pre-library prep shows no amplification. List potential causes.
+21. Automation: When would you choose a liquid handler over manual pipetting? Justify for a 1,000-sample study.
+22. QC Tools: Contrast Bioanalyzer, TapeStation, and Qubit for DNA quality assessment.
+23. Protocol Choice: Justify column-based vs. magnetic bead RNA extraction for single-cell sequencing.
+24. Degradation: RNA samples have RIN=5. How does this impact transcript quantification? Mitigation strategies?
+25. Inhibitors: Post-extraction PCR fails. Design an experiment to identify inhibitors (e.g., humic acids).
+26. Low Input: Extract DNA from 10 cells. Address amplification bias risks.
+27. Cross-Contamination: A negative control shows human reads. Propose a bioinformatics filter.
+28. QC Metrics: Define "library complexity" and how to calculate it from sequencing data.
+29. rRNA Depletion: Compare RiboZero vs. poly-A selection for bacterial RNA- seq.
+30. Protocol Optimization: A ribodepletion kit leaves 15% rRNA. How to improve this?
+31. Cost vs. Benefit: When is it worth using duplex sequencing to reduce errors? 32. FFPE Artifacts: Post-purification sequencing shows C>T artifacts. How to correct bioinformatically?
+33. UMIS: Explain how UMIS correct for PCR duplicates mathematically.
+34. Tagmentation: A Nextera reaction has high fragment size variability. Troubleshoot.
+35. Low Diversity: Illumina fails due to low library diversity. Propose a spike-in solution.
+36. Illumina Chemistry: Explain how reversible terminators cause phasing errors. 37. Ion Torrent: A homopolymer stretch (AAAAA) is called as 6x A. Is this a systematic error? Why?
+38. BGI DNBSEQ: Contrast DNA nanoball technology with Illumina's bridge amplification.
+39. Throughput Tradeoffs: Calculate expected runtime for NovaSeq 6000 S4 (20B reads) vs. NextSeq 2000 (4B reads).
+40. Modern Use: When would you choose Sanger over NGS today?
+41. Electropherogram: A Sanger trace shows overlapping peaks. Interpret.
+42. Limitations: Why can't Sanger detect low-frequency variants (<20% allele fraction)?
+43. Read Length: A 100kb Nanopore read maps to two human chromosomes. Interpret.
+44. Error Profiles: PacBio has indel errors; Nanopore has substitution errors. How does this affect assembly?
+45. Methylation: Design an experiment to compare Nanopore's 5mC detection with bisulfite-seq.
+46. Throughput: Can PacBio Sequel II compete with Illumina for large-scale genomics? Justify.
+47. True Single-Molecule: How does Helicos avoid amplification bias? What are the tradeoffs?
+48. Quantum Sequencing: Explain how quantum tunneling could revolutionize base calling.
+49. Synthetic Long Reads: How does 10x Genomics linked-read technology work?
+50. Ethics Debate: Should quantum sequencing devices be regulated differently? Discuss.
