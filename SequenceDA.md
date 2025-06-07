@@ -46,6 +46,9 @@
 - [Лекция 2](https://disk.yandex.ru/d/z1g3QDc-WFmUtA/Lection_2)
 - [Лекция 3](https://disk.yandex.ru/d/z1g3QDc-WFmUtA/Lection_3)
 - [Лекция 4](https://disk.yandex.ru/d/z1g3QDc-WFmUtA/Lection_4)
+- [Лекция 5](https://disk.yandex.ru/d/z1g3QDc-WFmUtA/Lection_5)
+- [Лекция 6](https://disk.yandex.ru/d/z1g3QDc-WFmUtA/Lection_6)
+- [Лекция 7](https://disk.yandex.ru/d/z1g3QDc-WFmUtA/Lection_7)
 
 ## ДЗ
 
