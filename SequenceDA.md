@@ -107,6 +107,8 @@ Discussion & Critical Thinking Questions
   -	If only 60% of reads aligned, what could be possible reasons?
   -	How do PCR duplicates affect downstream analysis?
 
+[Пример Выполненного Задания](https://github.com/Vladm0z/HSE-Bioinformatics/blob/main/Bioinformatics/MSc/SequenceDA/NGS_HW1.ipynb)
+
 ### ДЗ 2
 
 1. Find the sequence for the first exon of the human gene for the [assigned protein](https://disk.yandex.ru/i/ZiDhSlyQaFT4Ww). You can check on proteins via UniProt.
@@ -118,6 +120,7 @@ Discussion & Critical Thinking Questions
 -	Used formulas and calculations
 -	In silico PCR results 
 
+[Пример Выполненного Задания](https://docs.google.com/viewer?url=https://github.com/Vladm0z/HSE-Bioinformatics/raw/main/Bioinformatics/MSc/SequenceDA/NGS_HW2.pdf)
 
 ### Exam
 
